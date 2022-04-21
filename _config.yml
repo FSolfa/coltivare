@@ -6,3 +6,6 @@ url: "https://www.coltivare.wiki"
 
 # Build settings
 theme: minima
+permalink: /:title
+plugins:
+    - jekyll-sitemap
