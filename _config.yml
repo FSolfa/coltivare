@@ -1,0 +1,8 @@
+# Welcome to Jekyll!
+title: coltivare.wiki
+description: Come fare orto biologico, tanti consigli su come coltivare l'orto senza usare prodotti chimici, per ottenere verdure biologiche sane e rispettose dell'ambiente.
+baseurl: ""
+url: "https://www.coltivare.wiki"
+
+# Build settings
+theme: minima

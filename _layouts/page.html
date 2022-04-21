@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<article class="post">
+    <header class="post-header">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item active" aria-current="page">{{ page.title | escape }}</li>
+            </ol>
+        </nav>
+
+        <h1 class="post-title">{{ page.title | escape }}</h1>
+    </header>
+
+    <img class="header-image" src="{{ page.image | escape }}" alt="{{ page.src | escape }}" />
+
+    <div class="post-content">{{ content }}</div>
+</article>

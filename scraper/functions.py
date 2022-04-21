@@ -1,0 +1,161 @@
+from numpy import append
+from people_also_ask.google import get_simple_answer, get_related_questions
+from bs4 import BeautifulSoup
+import pandas as pd
+import requests
+import time
+
+
+# crate config
+def create_config():
+
+    print("Start building config")
+
+    df_plants = pd.read_csv("data/plants.csv")
+    df_topics = pd.read_csv("data/topics.csv")
+    df_queries = pd.read_csv("data/queries.csv")
+
+    # build basic list of keywords
+    keywords = []
+    for index, topic in df_topics.iterrows():
+        # join topic with plant name
+        if "{PLANT_NAME}" in topic["topic"]:
+            for index, plant in df_plants.iterrows():
+                keywords.append(
+                    {
+                        "keyword": topic["topic"].replace("{PLANT_NAME}", plant["plant"]),
+                        "synonyms": plant["synonyms"],
+                    }
+                )
+        # use only topic
+        else:
+            keywords.append({"keyword": topic["topic"], "synonyms": topic["synonyms"]})
+
+    print("Generated {} basic keywords".format(len(keywords)))
+
+    # use google autocomplete for create alphabetic variation of keywords
+    long_tail_keywords = []
+    for keyword in keywords:
+
+        print("Generating long tail keywords for: {}".format(keyword["keyword"]))
+
+        long_tail_keywords.append({"keyword": keyword["keyword"], "synonyms": keyword["synonyms"]})
+
+        for letter in list("abcdefghijklmnopqrstuvwxyz"):
+            resp = requests.get(
+                "https://suggestqueries.google.com/complete/search?output=toolbar&hl=it&q={}+{}".format(
+                    keyword["keyword"], letter
+                ).replace(" ", "+")
+            )
+            xml = BeautifulSoup(resp.text, features="xml")
+            suggestions = xml.find_all("suggestion")
+
+            for suggestion in suggestions:
+                long_tail_keywords.append(
+                    {
+                        "keyword": suggestion.attrs["data"],
+                        "synonyms": keyword["synonyms"],
+                    }
+                )
+
+            # prevent google blocking
+            time.sleep(0.20)
+
+        # save keywords dataframe
+        df_queries = pd.concat([df_queries, pd.DataFrame(long_tail_keywords)])
+
+        # remove duplicated rows
+        df_queries = df_queries.drop_duplicates(keep="first")
+        df_queries.to_csv("data/queries.csv", index=False)
+
+    print("Generated {} long tail keywords".format(len(long_tail_keywords)))
+
+
+"""
+build qa database
+"""
+
+
+def create_qa():
+
+    print("Start scraping")
+
+    df_queries = pd.read_csv("data/queries.csv")
+    df_qa = pd.read_csv("data/qa.csv")
+
+    for index, query in df_queries.iterrows():
+
+        print("creare qa for keyword: {}...".format(query["question"]))
+
+        # create some question from basic question
+        for question in get_related_questions(query["question"], 1):
+            # build qa dict and append to dataframe
+            qa = get_qa(question, query["synonyms"])
+
+            if qa:
+                df_qa = pd.concat([df_qa, pd.DataFrame([qa])])
+
+        # remove duplicated rows
+        df_qa = df_qa.drop_duplicates(subset=["answer"], keep="first")
+        df_qa.to_csv("data/qa.csv", index=False)
+
+
+# retrive answer from question
+def get_qa(question, synonyms):
+    answer = get_simple_answer(question)
+    synonyms = synonyms.split(",")
+    tag = synonyms[0] if any(word in question for word in synonyms) or any(word in answer for word in synonyms) else ""
+
+    if not answer == "":
+        return {"question": question, "answer": answer, "tag": tag}
+    else:
+        return None
+
+
+def create_mds():
+
+    print("Start building md")
+
+    df_plants = pd.read_csv("data/plants.csv")
+    df_qa = pd.read_csv("data/qa.csv")
+
+    for index, plant in df_plants.iterrows():
+
+        md = ""
+        df_qa_filtered = df_qa[df_qa["tag"] == plant["plant"]]
+
+        if not df_qa_filtered.empty:
+
+            md += "---\n"
+            md += "layout: article\n"
+            md += "title: {}\n".format(plant["plant"].capitalize())
+            md += "image: /images/{}.jpg\n".format(plant["plant"])
+            md += "alt: pianta di {}\n".format(plant["plant"])
+            md += "---\n\n"
+
+            print("building md for: {}".format(plant["plant"]))
+
+            for index, qa in df_qa_filtered.iterrows():
+                md += "## {}\n\n".format(qa["question"])
+                md += "{}\n\n".format(qa["answer"])
+
+                # write markdown
+                file = open("data/md/{}.md".format(plant["plant"]), "w")
+                file.write(md)
+                file.close()
+
+
+#     """
+#     build md page
+#     """
+#     md = "# {}\n\n".format(page.get("title"))
+#     md += "![{}]({})\n\n".format(page.get("title"), page.get("image"))
+
+#     for paa in page.get("paa"):
+#         md += "## {}\n\n".format(paa["question"])
+#         md += "{}\n\n".format(paa["answer"])
+
+#     # write markdown
+#     file = open("markdown/{}.md".format(filename), "w")
+#     file.write(md)
+#     file.close()
