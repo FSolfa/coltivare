@@ -89,7 +89,12 @@ class SimpleFeaturedSnippetParser(FeaturedSnippetParser):
         if hasattr(self, "_tag_link"):
             return self._tag_link
         self._tag_link = self.tag.find(
-            lambda tag: (tag.name == "a" and tag.has_attr("href") and tag["href"].startswith("http") and (tag.h3 or tag.h2) is not None)
+            lambda tag: (
+                tag.name == "a"
+                and tag.has_attr("href")
+                and tag["href"].startswith("http")
+                and (tag.h3 or tag.h2) is not None
+            )
         )
         return self._tag_link
 
@@ -160,12 +165,12 @@ class TableFeaturedSnippetParser(SimpleFeaturedSnippetParser):
         table_tag = self.tag.find("table")
         tr_tags = table_tag.findAll("tr")
         if tr_tags[0].find("th"):
-            columns = [th_tag.text for th_tag in tr_tags[0].findAll("th")]
+            columns = [th_tag.text.strip() for th_tag in tr_tags[0].findAll("th")]
             body_table_tags = tr_tags[1:]
         else:
             columns = None
             body_table_tags = tr_tags
-        values = [[td_tag.text for td_tag in tr_tag.findAll("td")] for tr_tag in body_table_tags]
+        values = [[td_tag.text.strip() for td_tag in tr_tag.findAll("td")] for tr_tag in body_table_tags]
         if columns is None:
             columns = list(range(len(values[0])))
         return {"columns": columns, "values": values}
@@ -190,7 +195,7 @@ class OrderedFeaturedSnippetParser(SimpleFeaturedSnippetParser):
     def snippet_data(self):
         ol_tags = self.tag.find("ol")
         li_tags = ol_tags.findAll("li")
-        return [tag.text for tag in li_tags]
+        return [tag.text.strip() for tag in li_tags]
 
 
 class UnorderedFeaturedSnippetParser(SimpleFeaturedSnippetParser):
@@ -212,7 +217,7 @@ class UnorderedFeaturedSnippetParser(SimpleFeaturedSnippetParser):
     def snippet_data(self):
         ul_tag = self.tag.find("ul")
         li_tags = ul_tag.findAll("li")
-        return [tag.text for tag in li_tags]
+        return [tag.text.strip() for tag in li_tags]
 
 
 class DefinitionFeaturedSnippetParser(SimpleFeaturedSnippetParser):
@@ -319,7 +324,12 @@ class WholePageTabContainer(FeaturedSnippetParser):
         if hasattr(self, "_tag_link"):
             return self._tag_link
         self._tag_link = self.tag.find(
-            lambda tag: (tag.name == "a" and tag.has_attr("href") and tag["href"].startswith("http") and (tag.h3 or tag.h2) is not None)
+            lambda tag: (
+                tag.name == "a"
+                and tag.has_attr("href")
+                and tag["href"].startswith("http")
+                and (tag.h3 or tag.h2) is not None
+            )
         )
         return self._tag_link
 
@@ -360,7 +370,7 @@ def is_single_card_featured_snippet_tag(tag):
     is_card_section = tag.name == "div" and "card-section" in tag.get("class", [])
     if not is_card_section:
         return False
-    is_card_section_of_tip = tag.text.startswith("Tip:")
+    is_card_section_of_tip = tag.text.strip().startswith("Tip:")
     return not is_card_section_of_tip
 
 
@@ -373,12 +383,17 @@ def is_whole_page_tabs_container(tag):
 
 
 def is_web_results(tag):
-    return tag.name == "h2" and tag.text == "Web results"
+    return tag.name == "h2" and tag.text.strip() == "Web results"
 
 
 def get_featured_snippet_tag(document):
     def lookup_featured_snippet_tag(tag):
-        return is_simple_featured_snippet_tag(tag) or is_single_card_featured_snippet_tag(tag) or is_multiple_card_snippet_tag(tag) or is_web_results(tag)
+        return (
+            is_simple_featured_snippet_tag(tag)
+            or is_single_card_featured_snippet_tag(tag)
+            or is_multiple_card_snippet_tag(tag)
+            or is_web_results(tag)
+        )
 
     whole_page_tag = document.find(is_whole_page_tabs_container)
     tag = document.find(lookup_featured_snippet_tag)
@@ -398,7 +413,8 @@ def get_featured_snippet_parser(question, document: BeautifulSoup):
     if is_simple_featured_snippet_tag(tag):
         return SimpleFeaturedSnippetParser.get_instance(question, tag)
     if is_multiple_card_snippet_tag(tag):
-        return MultipleCardsFeaturedSnippetTag(question, tag)
+        return
+        # return MultipleCardsFeaturedSnippetTag(question, tag)
     if is_single_card_featured_snippet_tag(tag):
         return SingleCardFeaturedSnippetParser(question, tag)
     if is_whole_page_tabs_container(tag):

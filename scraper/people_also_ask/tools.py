@@ -33,7 +33,7 @@ def retryable(nb_times_retry):
 
 
 def itemize(lines: List[str]) -> List[str]:
-    return ["\t- " + line for line in lines]
+    return ["- " + line for line in lines]
 
 
 def tabulate(header, table):
@@ -46,9 +46,9 @@ def tabulate(header, table):
         length_columns = [max(i, j) for i, j in zip(length_columns, current_lengh)]
     tabulated_rows = []
     for row in table:
-        tabulated_rows.append("\t".join([str(e).rjust(length, " ") for e, length in zip(row, length_columns)]))
+        tabulated_rows.append("|".join([str(e).rjust(length, " ") for e, length in zip(row, length_columns)]))
     if header:
-        tabulated_rows.insert(1, "\t".join(["-" * length for length in length_columns]))
+        tabulated_rows.insert(1, "|".join(["-" * length for length in length_columns]))
     return "\n".join(tabulated_rows)
 
 

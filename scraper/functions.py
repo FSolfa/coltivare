@@ -1,16 +1,16 @@
-from numpy import append
 from people_also_ask.google import get_simple_answer, get_related_questions
 from bs4 import BeautifulSoup
 import pandas as pd
 import requests
 import time
+import hashlib
 
-
-# crate config
-def create_config():
+# crate create long tail keywords
+def create_long_tail_keywords():
 
     print("Start building config")
 
+    # import dataset
     df_plants = pd.read_csv("data/plants.csv")
     df_topics = pd.read_csv("data/topics.csv")
     df_queries = pd.read_csv("data/queries.csv")
@@ -41,6 +41,7 @@ def create_config():
 
         long_tail_keywords.append({"keyword": keyword["keyword"], "synonyms": keyword["synonyms"]})
 
+        # foreach letter create query
         for letter in list("abcdefghijklmnopqrstuvwxyz"):
             resp = requests.get(
                 "https://suggestqueries.google.com/complete/search?output=toolbar&hl=it&q={}+{}".format(
@@ -71,33 +72,37 @@ def create_config():
     print("Generated {} long tail keywords".format(len(long_tail_keywords)))
 
 
-"""
-build qa database
-"""
-
-
-def create_qa():
+# build qa database
+def create_qa(size: 100):
 
     print("Start scraping")
 
     df_queries = pd.read_csv("data/queries.csv")
     df_qa = pd.read_csv("data/qa.csv")
 
-    for index, query in df_queries.iterrows():
+    # get only the doesn't imported with size params
+    df_queries_filtered = df_queries[df_queries["imported"] == False]
+    df_queries_filtered = df_queries_filtered.head(size)
+
+    for index, query in df_queries_filtered.iterrows():
 
         print("creare qa for keyword: {}...".format(query["question"]))
 
         # create some question from basic question
-        for question in get_related_questions(query["question"], 1):
+        for question in get_related_questions(query["question"], 5):
             # build qa dict and append to dataframe
             qa = get_qa(question, query["synonyms"])
 
             if qa:
                 df_qa = pd.concat([df_qa, pd.DataFrame([qa])])
 
-        # remove duplicated rows
-        df_qa = df_qa.drop_duplicates(subset=["answer"], keep="first")
+        # remove duplicated rows by id
+        df_qa = df_qa.drop_duplicates(subset=["id"], keep="first")
         df_qa.to_csv("data/qa.csv", index=False)
+
+        # set query as imported
+        df_queries.loc[df_queries["question"] == query["question"], ["imported"]] = True
+        df_queries.to_csv("data/queries.csv", index=False)
 
 
 # retrive answer from question
@@ -106,12 +111,16 @@ def get_qa(question, synonyms):
     synonyms = synonyms.split(",")
     tag = synonyms[0] if any(word in question for word in synonyms) or any(word in answer for word in synonyms) else ""
 
+    # the unique id is used to avoid updating manually edited responses
+    unique_id = hashlib.sha224(answer.encode("utf-8")).hexdigest()
+
     if not answer == "":
-        return {"question": question, "answer": answer, "tag": tag}
+        return {"id": unique_id, "question": question, "answer": answer, "tag": tag}
     else:
         return None
 
 
+# create markdown
 def create_mds():
 
     print("Start building md")
