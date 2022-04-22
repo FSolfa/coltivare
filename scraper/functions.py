@@ -35,9 +35,9 @@ def create_long_tail_keywords():
 
     # use google autocomplete for create alphabetic variation of keywords
     long_tail_keywords = []
-    for keyword in keywords:
+    for index, keyword in keywords:
 
-        print("Generating long tail keywords for: {}".format(keyword["keyword"]))
+        print("{}/{} long tail keywords for: {}".format(index + 1, len(keywords), keyword["keyword"]))
 
         long_tail_keywords.append({"keyword": keyword["keyword"], "synonyms": keyword["synonyms"]})
 
@@ -83,10 +83,13 @@ def create_qa(size: 100):
     # get only the doesn't imported with size params
     df_queries_filtered = df_queries[df_queries["imported"] == False]
     df_queries_filtered = df_queries_filtered.head(size)
+    index = 0
 
-    for index, query in df_queries_filtered.iterrows():
+    for i, query in df_queries_filtered.iterrows():
 
-        print("creare qa for keyword: {}...".format(query["question"]))
+        index = index + 1
+
+        print("{}/{}: {}".format(index, size, query["question"]))
 
         # create some question from basic question
         for question in get_related_questions(query["question"], 5):
@@ -103,6 +106,8 @@ def create_qa(size: 100):
         # set query as imported
         df_queries.loc[df_queries["question"] == query["question"], ["imported"]] = True
         df_queries.to_csv("data/queries.csv", index=False)
+
+        time.sleep(10)
 
 
 # retrive answer from question
@@ -149,22 +154,6 @@ def create_mds():
                 md += "{}\n\n".format(qa["answer"])
 
                 # write markdown
-                file = open("data/md/{}.md".format(plant["plant"]), "w")
+                file = open("../articoli/{}.md".format(plant["plant"]), "w")
                 file.write(md)
                 file.close()
-
-
-#     """
-#     build md page
-#     """
-#     md = "# {}\n\n".format(page.get("title"))
-#     md += "![{}]({})\n\n".format(page.get("title"), page.get("image"))
-
-#     for paa in page.get("paa"):
-#         md += "## {}\n\n".format(paa["question"])
-#         md += "{}\n\n".format(paa["answer"])
-
-#     # write markdown
-#     file = open("markdown/{}.md".format(filename), "w")
-#     file.write(md)
-#     file.close()

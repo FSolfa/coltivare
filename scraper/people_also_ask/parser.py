@@ -35,8 +35,13 @@ def is_ol_but_not_a_menu(tag):
 
 
 def get_tag_heading(tag):
+    return tag.find("div", {"role": "heading", "aria-level": "3"}) or tag.find("div", {"role": "heading"}).select(
+        "span span"
+    )
+
+
+def get_tag_description(tag):
     return tag.select_one(".hgKElc")
-    # return tag.find("div", {"role": "heading", "aria-level": "3"}) or tag.find("div", {"role": "heading"}).select("span span")
 
 
 def has_youtube_link(tag):
@@ -79,7 +84,7 @@ class SimpleFeaturedSnippetParser(FeaturedSnippetParser):
             return OrderedFeaturedSnippetParser(text, tag)
         if tag.ul is not None:
             return UnorderedFeaturedSnippetParser(text, tag)
-        if get_tag_heading(tag):
+        if get_tag_heading(tag) or get_tag_description(tag):
             return DefinitionFeaturedSnippetParser(text, tag)
         if has_youtube_link(tag):
             return YoutubeFeaturedSnippetParser(text, tag)
@@ -117,6 +122,11 @@ class SimpleFeaturedSnippetParser(FeaturedSnippetParser):
     def heading(self):
         tag_heading = get_tag_heading(self.tag)
         return tag_heading.text
+
+    @property
+    def description(self):
+        tag_description = get_tag_description(self.tag)
+        return tag_description.text
 
     @property
     def snippet_str(self):
@@ -229,7 +239,14 @@ class DefinitionFeaturedSnippetParser(SimpleFeaturedSnippetParser):
 
     @property
     def response(self):
-        return self.heading
+        if self.heading and self.description:
+            return "{}. {}".format(self.heading, self.description)
+
+        if self.heading:
+            return self.heading
+
+        if self.description:
+            return self.description
 
 
 class YoutubeFeaturedSnippetParser(SimpleFeaturedSnippetParser):

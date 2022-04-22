@@ -46,9 +46,12 @@ def tabulate(header, table):
         length_columns = [max(i, j) for i, j in zip(length_columns, current_lengh)]
     tabulated_rows = []
     for row in table:
-        tabulated_rows.append("|".join([str(e).rjust(length, " ") for e, length in zip(row, length_columns)]))
+        tabulated_rows.append(
+            "|" + "|".join([str(e).rjust(length, " ") for e, length in zip(row, length_columns)]) + "|"
+        )
     if header:
-        tabulated_rows.insert(1, "|".join(["-" * length for length in length_columns]))
+        tabulated_rows.insert(1, "|" + "|".join(["-" * length for length in length_columns]) + "|")
+
     return "\n".join(tabulated_rows)
 
 
