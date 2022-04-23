@@ -60,7 +60,7 @@ def create_long_tail_keywords():
                 )
 
             # prevent google blocking
-            time.sleep(520)
+            time.sleep(0.25)
 
         # save keywords dataframe
         df_queries = pd.concat([df_queries, pd.DataFrame(long_tail_keywords)])
@@ -107,7 +107,7 @@ def create_qa(size: 100):
         df_queries.loc[df_queries["question"] == query["question"], ["imported"]] = True
         df_queries.to_csv("data/queries.csv", index=False)
 
-        time.sleep(5)
+        time.sleep(1)
 
 
 # retrive answer from question
