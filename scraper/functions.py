@@ -60,7 +60,7 @@ def create_long_tail_keywords():
                 )
 
             # prevent google blocking
-            time.sleep(0.25)
+            time.sleep(0.35)
 
         # save keywords dataframe
         df_queries = pd.concat([df_queries, pd.DataFrame(long_tail_keywords)])
