@@ -1,16 +1,16 @@
 question,synonyms,imported
-coltivare pomodori,"pomodori,pomodoro",False
-coltivare pomodori appesi,"pomodori,pomodoro",False
-coltivare pomodori a terra,"pomodori,pomodoro",False
-coltivare pomodori a casa,"pomodori,pomodoro",False
-coltivare pomodori a crescita determinata,"pomodori,pomodoro",False
-coltivare pomodori a secco,"pomodori,pomodoro",False
-coltivare pomodori a testa in giù,"pomodori,pomodoro",False
-coltivare pomodori a spalliera,"pomodori,pomodoro",False
-coltivare pomodori a cespuglio,"pomodori,pomodoro",False
-coltivare pomodori a grappolo,"pomodori,pomodoro",False
-coltivare pomodori al chiuso,"pomodori,pomodoro",False
-coltivare pomodori balcone,"pomodori,pomodoro",False
+coltivare pomodori,"pomodori,pomodoro",True
+coltivare pomodori appesi,"pomodori,pomodoro",True
+coltivare pomodori a terra,"pomodori,pomodoro",True
+coltivare pomodori a casa,"pomodori,pomodoro",True
+coltivare pomodori a crescita determinata,"pomodori,pomodoro",True
+coltivare pomodori a secco,"pomodori,pomodoro",True
+coltivare pomodori a testa in giù,"pomodori,pomodoro",True
+coltivare pomodori a spalliera,"pomodori,pomodoro",True
+coltivare pomodori a cespuglio,"pomodori,pomodoro",True
+coltivare pomodori a grappolo,"pomodori,pomodoro",True
+coltivare pomodori al chiuso,"pomodori,pomodoro",True
+coltivare pomodori balcone,"pomodori,pomodoro",True
 coltivare pomodori biologici,"pomodori,pomodoro",False
 coltivare pomodori bassi,"pomodori,pomodoro",False
 coltivare pomodori bianchi,"pomodori,pomodoro",False
@@ -187,9 +187,7 @@ coltivare patate da reddito,"patate,patata",False
 coltivazione patate distanza,"patate,patata",False
 coltivazione patate desiree,"patate,patata",False
 coltivazione patate da industria,"patate,patata",False
-coltivare patate e pomodori insieme,"patate,patata",False
 coltivare patate e cipolle,"patate,patata",False
-coltivare patate e pomodori,"patate,patata",False
 coltivare patate e pomodori cruciverba,"patate,patata",False
 coltivare patate e pomodori dizy,"patate,patata",False
 coltiva patate e pomodori,"patate,patata",False
@@ -519,7 +517,6 @@ coltivazione della zucca mantovana,"zucca,zucche",False
 coltivazione della zucca in vaso,"zucca,zucche",False
 coltivazione della zucca gigante,"zucca,zucche",False
 coltivare zucca esposizione,"zucca,zucche",False
-coltivare zucche e zucchine,"zucca,zucche",False
 zucca coltivazione e raccolta,"zucca,zucche",False
 coltivazione zucca forum,"zucca,zucche",False
 zucca coltivazione fiori,"zucca,zucche",False
@@ -609,9 +606,7 @@ coltivare aglio casa,aglio,False
 coltivare aglio cinese,aglio,False
 coltivazione aglio concimazione,aglio,False
 coltivazione aglio costi,aglio,False
-coltivazione aglio cipolle,aglio,False
 coltivazione aglio cure,aglio,False
-coltivare aglio e cipolla in vaso,aglio,False
 coltivare aglio e cipolla,aglio,False
 coltivare aglio da spicchi,aglio,False
 coltivare aglio dentro casa,aglio,False
@@ -923,7 +918,6 @@ coltivare melanzane e peperoni,"melanzane,melanzana",False
 coltivare melanzane e peperoni in vaso,"melanzane,melanzana",False
 melanzane coltivazione e cura,"melanzane,melanzana",False
 melanzane coltivazione e malattie,"melanzane,melanzana",False
-coltivare zucchine e melanzane,"melanzane,melanzana",False
 coltivare le melanzane natura e bellezza,"melanzane,melanzana",False
 coltivare le melanzane in giardino,"melanzane,melanzana",False
 coltivare melanzane in vaso,"melanzane,melanzana",False
@@ -998,7 +992,6 @@ peperoni coltivazione e concimazione,"peperoni,peperone",False
 coltivare peperoni gialli e rossi,"peperoni,peperone",False
 peperone coltivazione e potatura,"peperoni,peperone",False
 peperone coltivazione e cura,"peperoni,peperone",False
-coltivare melanzane e peperoni in vaso,"peperoni,peperone",False
 coltivare peperoni friggitelli,"peperoni,peperone",False
 coltivare peperoni friggitelli in vaso,"peperoni,peperone",False
 coltivare peperoni gialli,"peperoni,peperone",False
@@ -1147,30 +1140,15 @@ coltivare fagiolini,"fagiolini,fagiolino",False
 coltivare fagiolini a metro,"fagiolini,fagiolino",False
 coltivare fagiolini a terra,"fagiolini,fagiolino",False
 coltivare fagiolini acqua,"fagiolini,fagiolino",False
-coltivare fagioli azuki,"fagiolini,fagiolino",False
 coltivare fagiolini bassi,"fagiolini,fagiolino",False
-coltivare fagioli borlotti,"fagiolini,fagiolino",False
-coltivare fagioli borlotti in vaso,"fagiolini,fagiolino",False
-coltivare fagioli bianchi di spagna,"fagiolini,fagiolino",False
 fagiolini coltivazione biologica,"fagiolini,fagiolino",False
 coltivare fagiolini in balcone,"fagiolini,fagiolino",False
-fagioli coltivazione biologica,"fagiolini,fagiolino",False
 fagioli coltivazione balcone,"fagiolini,fagiolino",False
 coltivare fagiolini cornetti,"fagiolini,fagiolino",False
-coltivare fagioli cannellini,"fagiolini,fagiolino",False
-coltivare fagioli cotone,"fagiolini,fagiolino",False
-coltivare fagioli consociazione,"fagiolini,fagiolino",False
-coltivazione fagioli corona,"fagiolini,fagiolino",False
 coltivare fagiolini in cassetta,"fagiolini,fagiolino",False
 coltivare fagiolini in casa,"fagiolini,fagiolino",False
 coltivare fagiolini in campo,"fagiolini,fagiolino",False
-coltivare fagioli in casa,"fagiolini,fagiolino",False
-coltivare i fagioli con il mais,"fagiolini,fagiolino",False
 coltivare fagiolini dai semi,"fagiolini,fagiolino",False
-coltivare fagioli dall'occhio,"fagiolini,fagiolino",False
-coltivazione fagioli di spagna,"fagiolini,fagiolino",False
-coltivazione fagioli del papa,"fagiolini,fagiolino",False
-coltivazione fagioli distanza,"fagiolini,fagiolino",False
 coltivazione dei fagiolini,"fagiolini,fagiolino",False
 coltivazione di fagiolini nani,"fagiolini,fagiolino",False
 coltivazione dei fagiolini rampicanti,"fagiolini,fagiolino",False
@@ -1178,58 +1156,29 @@ coltivazione dei fagiolini nani,"fagiolini,fagiolino",False
 coltivazione di fagiolini in vaso,"fagiolini,fagiolino",False
 fagiolini coltivazione esposizione,"fagiolini,fagiolino",False
 fagiolini coltivazione e malattie,"fagiolini,fagiolino",False
-coltivare fagioli freschi,"fagiolini,fagiolino",False
 coltivare fagiolini in vaso,"fagiolini,fagiolino",False
 coltivare fagiolini in serra,"fagiolini,fagiolino",False
 coltivare fagiolini in pieno campo,"fagiolini,fagiolino",False
 coltivare fagiolini in inverno,"fagiolini,fagiolino",False
 coltivare fagiolini in montagna,"fagiolini,fagiolino",False
-coltivare fagioli in vaso,"fagiolini,fagiolino",False
 coltivazione fagiolini luna,"fagiolini,fagiolino",False
-coltivare le fagioli,"fagiolini,fagiolino",False
 come coltivare la fagiolini,"fagiolini,fagiolino",False
-coltivare fagioli mung,"fagiolini,fagiolino",False
 coltivazione fagiolini metro,"fagiolini,fagiolino",False
-coltivazione fagioli mangiatutto,"fagiolini,fagiolino",False
 fagiolini coltivazione malattie,"fagiolini,fagiolino",False
 coltivazione fagiolino mascalese,"fagiolini,fagiolino",False
 come coltivare i fagiolini mangiatutto,"fagiolini,fagiolino",False
 coltivare fagiolini nani,"fagiolini,fagiolino",False
 coltivare fagiolini nani in vaso,"fagiolini,fagiolino",False
-coltivare fagioli nani,"fagiolini,fagiolino",False
-coltivare fagioli neri,"fagiolini,fagiolino",False
-coltivare fagioli nel cotone,"fagiolini,fagiolino",False
-coltivare fagioli nel vaso,"fagiolini,fagiolino",False
 coltivare fagiolini orto,"fagiolini,fagiolino",False
 coltivazione fagiolini piattoni,"fagiolini,fagiolino",False
-coltivazione fagioli pieno campo,"fagiolini,fagiolino",False
-coltivazione fagioli pdf,"fagiolini,fagiolino",False
-coltivazione fagioli periodo,"fagiolini,fagiolino",False
-coltivare pianta fagioli,"fagiolini,fagiolino",False
-coltivare fagioli e piselli,"fagiolini,fagiolino",False
 coltivare fagiolini quando,"fagiolini,fagiolino",False
-fagioli coltivazione quando,"fagiolini,fagiolino",False
 coltivare fagiolini rampicanti,"fagiolini,fagiolino",False
 coltivare fagiolini rampicanti in vaso,"fagiolini,fagiolino",False
-coltivare fagioli rampicanti,"fagiolini,fagiolino",False
 fagiolini coltivazione raccolta,"fagiolini,fagiolino",False
 coltivare fagiolini semina,"fagiolini,fagiolino",False
-coltivare fagioli stringa,"fagiolini,fagiolino",False
-coltivare fagioli sul terrazzo,"fagiolini,fagiolino",False
-coltivazione fagioli secchi,"fagiolini,fagiolino",False
-fagioli coltivazione semina,"fagiolini,fagiolino",False
-fagioli coltivazione semi,"fagiolini,fagiolino",False
-coltivare fagioli taccole,"fagiolini,fagiolino",False
 fagiolini coltivazione terreno,"fagiolini,fagiolino",False
-fagioli coltivazione terreno,"fagiolini,fagiolino",False
-fagioli coltivazione tempi,"fagiolini,fagiolino",False
-coltivare fagioli in terrazzo,"fagiolini,fagiolino",False
 coltivare fagiolini verdi,"fagiolini,fagiolino",False
 coltivare fagiolini vaso,"fagiolini,fagiolino",False
-coltivazione fagioli verdi,"fagiolini,fagiolino",False
-coltivazione fagioli vaso,"fagiolini,fagiolino",False
-coltivare fagioli in vaso bambini,"fagiolini,fagiolino",False
-coltivare fagioli zolfini,"fagiolini,fagiolino",False
 coltivare arachidi,"arachidi,arachide",False
 arachidi coltivazione biologica,"arachidi,arachide",False
 coltivare arachidi sul balcone,"arachidi,arachide",False
@@ -1353,7 +1302,6 @@ piselli coltivazione e malattie,"piselli,pisello",False
 piselli coltivazione esposizione,"piselli,pisello",False
 piselli coltivazione e concimazione,"piselli,pisello",False
 coltivare piselli in estate,"piselli,pisello",False
-coltivare fagioli e piselli,"piselli,pisello",False
 coltivazione piselli freschi,"piselli,pisello",False
 coltivare i piselli in giardino,"piselli,pisello",False
 coltivare piselli in vaso,"piselli,pisello",False
@@ -1416,7 +1364,6 @@ coltivare asparagi e redditizio,"asparagi,asparago",False
 coltivazione asparago esposizione,"asparagi,asparago",False
 asparagi coltivazione e concimazione,"asparagi,asparago",False
 asparagi coltivazione e raccolta,"asparagi,asparago",False
-coltivazione fagiolo asparago,"asparagi,asparago",False
 coltivare asparagi guadagno,"asparagi,asparago",False
 coltivare gli asparagi,"asparagi,asparago",False
 coltivare gli asparagi partendo dalle zampe,"asparagi,asparago",False
@@ -1634,7 +1581,6 @@ coltivare cappuccio,"cappuccio,cappucci",False
 coltivazione del cappuccio,"cappuccio,cappucci",False
 coltivare cappuccio in vaso,"cappuccio,cappucci",False
 coltivare il cappuccio,"cappuccio,cappucci",False
-coltivare lattuga cappuccio,"cappuccio,cappucci",False
 coltivare verza cappuccio,"cappuccio,cappucci",False
 coltivare cavolfiore,"cavolfiore,cavolfiori",False
 coltivare cavolfiore bianco,"cavolfiore,cavolfiori",False
@@ -1676,7 +1622,6 @@ coltivare broccolo bianco,"broccoli,broccolo",False
 coltivazione biologica broccoli,"broccoli,broccolo",False
 coltivazione broccoli di bruxelles,"broccoli,broccolo",False
 coltivare broccoli calabresi,"broccoli,broccolo",False
-coltivare cavoli broccoli,"broccoli,broccolo",False
 come coltivare broccoli in vaso,"broccoli,broccolo",False
 coltivare broccoli di natale,"broccoli,broccolo",False
 coltivare broccoli di rapa,"broccoli,broccolo",False
@@ -1849,7 +1794,6 @@ coltivazione di cetrioli in serra,"cetrioli,cetriolo",False
 coltivazione del cetrioli,"cetrioli,cetriolo",False
 coltivazione del cetriolo in vaso,"cetrioli,cetriolo",False
 coltivazione cetriolo esposizione,"cetrioli,cetriolo",False
-coltivare pomodori e cetrioli insieme,"cetrioli,cetriolo",False
 coltivare cetrioli gialli,"cetrioli,cetriolo",False
 coltivare cetrioli in vaso,"cetrioli,cetriolo",False
 coltivare cetrioli in serra,"cetrioli,cetriolo",False
@@ -2091,7 +2035,6 @@ coltivare scalogno bulbo,"scalogno,scalogni",False
 coltivazione biologica scalogno,"scalogno,scalogni",False
 coltivare scalogno in balcone,"scalogno,scalogni",False
 coltivare scalogno sul balcone,"scalogno,scalogni",False
-coltivare cipolle scalogno,"scalogno,scalogni",False
 coltivare scalogno in casa,"scalogno,scalogni",False
 coltivazione scalogno di romagna,"scalogno,scalogni",False
 coltivazione dello scalogno,"scalogno,scalogni",False
@@ -2158,7 +2101,6 @@ coltivazione di mais in italia,"mais,pannocchie,pannocchia",False
 coltivazione di mais in sicilia,"mais,pannocchie,pannocchia",False
 coltivazione del mais pdf,"mais,pannocchie,pannocchia",False
 coltivazione domestica mais,"mais,pannocchie,pannocchia",False
-coltivare mais e fagioli,"mais,pannocchie,pannocchia",False
 mais coltivazione erbacee,"mais,pannocchie,pannocchia",False
 mais coltivazione estensiva,"mais,pannocchie,pannocchia",False
 coltivazione mais forum,"mais,pannocchie,pannocchia",False
@@ -2241,7 +2183,6 @@ coltivare cicoria,cicoria,False
 coltivare cicoria a grumolo,cicoria,False
 come coltivare la cicoria asparago,cicoria,False
 coltivare cicoria belga,cicoria,False
-coltivare cicoria catalogna,cicoria,False
 coltivare cicoria in campo,cicoria,False
 come coltivare cicoria puntarelle,cicoria,False
 come coltivare cicoria pan di zucchero,cicoria,False
@@ -2275,13 +2216,11 @@ coltivare cicoria puntarelle,cicoria,False
 coltivazione cicoria palla rossa,cicoria,False
 coltivazione cicoria periodo,cicoria,False
 come coltivare pianta cicoria,cicoria,False
-coltivare cicoria radicchio,cicoria,False
 coltivare cicoria selvatica,cicoria,False
 seminare coltivare cicoria,cicoria,False
 cicoria coltivazione vaso,cicoria,False
 coltivare porro,"porro,porri",False
 coltivare porri a casa,"porro,porri",False
-coltivazione aglio porro,"porro,porri",False
 porro coltivazione biologica,"porro,porri",False
 coltivare porri sul balcone,"porro,porri",False
 coltivare porri in balcone,"porro,porri",False
@@ -2316,7 +2255,6 @@ coltivare pak choi,pak choi,False
 come coltivare pak choi,pak choi,False
 coltivare il pak choi,pak choi,False
 coltivare verza,"verza,verze",False
-coltivare verza cappuccio,"verza,verze",False
 coltivare verza in casa,"verza,verze",False
 come coltivare verza e cavolfiore,"verza,verze",False
 come coltivare verza,"verza,verze",False
@@ -2336,7 +2274,6 @@ coltivazione verza vaso,"verza,verze",False
 coltivare cardi,"cardi,cardo",False
 coltivazione a cardo,"cardi,cardo",False
 come coltivare cardi,"cardi,cardo",False
-coltivazione carciofo cardo,"cardi,cardo",False
 coltivazione dei cardi,"cardi,cardo",False
 coltivazione del cardo gobbo,"cardi,cardo",False
 coltivazione del cardo mariano,"cardi,cardo",False
@@ -2371,42 +2308,6 @@ coltivare l scarola,"scarola,scarole",False
 coltivazione scarola orto,"scarola,scarole",False
 coltivare scarola riccia,"scarola,scarole",False
 coltivazione scarola semina,"scarola,scarole",False
-coltivare cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivare cavoli bruxelles,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivare cavoli broccoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivazione cavolfiore biologici,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivare cavoli in balcone,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivare cavoli cappucci,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivare cavoli e cavolfiori,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivazione dei cavoli cappucci,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-come coltivare cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivare cavoletti di bruxelles,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivare cavoli da seme,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivazione dei cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivazione dei cavoli broccoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivare cavoli estivi,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivare cavoli e broccoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivare cavoli e verze,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivare cavoli estate,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-cavoli coltivazione esposizione,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivare cavoli in vaso,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivazione cavoli invernali,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivare i cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivare i cavoli verza,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-come coltivare i cavoli cappucci,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-come coltivare i cavoli broccoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-come coltivare i cavoli di bruxelles,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-quando coltivare i cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-periodo per coltivare i cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-cavoli coltivazione malattie,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivare cavolfiori,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivare cavoli ornamentali,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivare cavoli orto,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivare i cavoli nell orto,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-cavolfiore coltivazione periodo,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivare cavoli romani,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivare cavoli rapa,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-coltivare cavoli verza,"cavolo rapa,cavoli rapa,rapa,cavoli",False
 coltivare cavolo nero,"cavolo nero,cavoli nero",False
 coltivare batata,"batata,patata dolce",False
 coltivare patata in casa,"batata,patata dolce",False
@@ -2491,7 +2392,6 @@ coltivare insalata orto,insalata,False
 coltivare insalata pan di zucchero,insalata,False
 coltivare insalata periodo,insalata,False
 coltivare pomodori insalata,insalata,False
-coltivare pomodori per insalata,insalata,False
 per coltivare insalata,insalata,False
 quando coltivare insalata,insalata,False
 coltivare insalata romana,insalata,False
@@ -2695,7 +2595,6 @@ coltivare semi di lenticchie,"lenticchie,lenticchia",False
 lenticchie da coltivare,"lenticchie,lenticchia",False
 dove coltivare lenticchie,"lenticchie,lenticchia",False
 lenticchie da coltivare in casa,"lenticchie,lenticchia",False
-coltivare ceci e lenticchie,"lenticchie,lenticchia",False
 coltivare lenticchie in casa,"lenticchie,lenticchia",False
 coltivare lenticchie in vaso,"lenticchie,lenticchia",False
 coltivare lenticchie in montagna,"lenticchie,lenticchia",False
@@ -2733,7 +2632,6 @@ coltivare agretti orto,agretti,False
 agretti pianta coltivare,agretti,False
 agretti coltivazione terreno,agretti,False
 coltivare agretti video,agretti,False
-coltivare cavoletti di bruxelles,"cavoletti di bruxelles,cavoletti",False
 come coltivare cavoletti di bruxelles,"cavoletti di bruxelles,cavoletti",False
 coltivazione dei cavoletti di bruxelles,"cavoletti di bruxelles,cavoletti",False
 coltivare cavolini di bruxelles in vaso,"cavoletti di bruxelles,cavoletti",False
@@ -2799,7 +2697,6 @@ coltivare un pero in vaso,"pero,pera",False
 coltivare pero kaiser,"pero,pera",False
 coltivare per l inverno,"pero,pera",False
 coltivare per limoni,"pero,pera",False
-coltivare luppolo per birra,"pero,pera",False
 per coltivare lo zafferano,"pero,pera",False
 coltivare lievito per birra,"pero,pera",False
 coltivare lavanda per olio essenziale,"pero,pera",False
@@ -2815,7 +2712,6 @@ pero coltivazione periodo,"pero,pera",False
 pero coltivazione terreno,"pero,pera",False
 coltivare un pero,"pero,pera",False
 coltivazione pero williams,"pero,pera",False
-coltivare melograno,"melograno,melograni",False
 coltivazione melograno a cespuglio,"melograno,melograni",False
 coltivazione melograno a siepe,"melograno,melograni",False
 coltivazione melograno albero,"melograno,melograni",False
@@ -2856,7 +2752,6 @@ coltivazione melograno jolly red,"melograno,melograni",False
 coltivazione melograno lazio,"melograno,melograni",False
 coltivazione melograno libro,"melograno,melograni",False
 coltivazione melograno nel lazio,"melograno,melograni",False
-come coltivare il melograno,"melograno,melograni",False
 coltivazione melograno marche,"melograno,melograni",False
 coltivazione melograno mollar,"melograno,melograni",False
 coltivare melograno nano in vaso,"melograno,melograni",False
@@ -3152,7 +3047,6 @@ coltivazione limone potatura,"limone,limoni",False
 coltivare pianta limone in vaso,"limone,limoni",False
 coltivare pianta limone,"limone,limoni",False
 coltivazione limoni piacenza,"limone,limoni",False
-coltivare per limoni,"limone,limoni",False
 coltivare limoni in piemonte,"limone,limoni",False
 quando coltivare limone,"limone,limoni",False
 coltivare limone rosso,"limone,limoni",False
@@ -3304,25 +3198,6 @@ come coltivare un kiwi,kiwi,False
 coltivazione kiwi vita in campagna,kiwi,False
 coltivazione kiwi vaso,kiwi,False
 coltivazione kiwi zespri,kiwi,False
-coltivare actinidia,actinidia,False
-coltivare kiwi conviene,actinidia,False
-coltivare kiwi da seme,actinidia,False
-coltivare kiwi dal seme,actinidia,False
-coltivare kiwi e redditizio,actinidia,False
-coltivare kiwi fai da te,actinidia,False
-coltivare kiwi giallo,actinidia,False
-coltivare kiwi giardino,actinidia,False
-coltivare kiwi in vaso,actinidia,False
-coltivare kiwi in montagna,actinidia,False
-coltivare kiwi in sardegna,actinidia,False
-coltivare kiwi in serra,actinidia,False
-coltivare il kiwi giallo,actinidia,False
-coltivare i kiwi quando,actinidia,False
-coltivare mini kiwi,actinidia,False
-coltivare kiwi nel vaso,actinidia,False
-coltivazione actinidia pdf,actinidia,False
-coltivare kiwi reddito,actinidia,False
-coltivare kiwi sul terrazzo,actinidia,False
 coltivare nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
 coltivare nocciolo avocado,"nocciolo,nocciola,nocciolina,noccioline",False
 coltivazione nocciolo agraria.org,"nocciolo,nocciola,nocciolina,noccioline",False
@@ -3430,8 +3305,6 @@ coltivare un pompelmo,"pompelmo,pompelmi",False
 coltivare cotogno,cotogno,False
 coltivazione di cotogni,cotogno,False
 come coltivare il cotogno da fiore,cotogno,False
-coltivare melo cotogno,cotogno,False
-coltivazione pero cotogno,cotogno,False
 coltivare noce,"noce,noci",False
 coltivazione noce americana,"noce,noci",False
 coltivazione albero noce,"noce,noci",False
@@ -3454,7 +3327,6 @@ coltivazione della noce pecan,"noce,noci",False
 coltivazione di noce moscata,"noce,noci",False
 coltivare noce in vaso,"noce,noci",False
 coltivare il noce,"noce,noci",False
-coltivare pesco noce in vaso,"noce,noci",False
 coltivare la noce,"noce,noci",False
 coltivare la noce moscata,"noce,noci",False
 come coltivare la noce di cocco,"noce,noci",False
@@ -3740,7 +3612,6 @@ coltivare uva in terrazzo,uva,False
 come coltivare l'uva,uva,False
 coltivare uva vaso,uva,False
 coltivazione uva vittoria,uva,False
-coltivazione vite uva da tavola,uva,False
 coltivare uva zibibbo,uva,False
 coltivare nespolo,"nespolo,nespola,nespole",False
 coltivare albero nespolo,"nespolo,nespola,nespole",False
@@ -3853,7 +3724,6 @@ coltivare i lamponi,"lamponi,lampone",False
 coltivare lamponi more,"lamponi,lampone",False
 coltivazione lamponi montagna,"lamponi,lampone",False
 coltivare more lamponi mirtilli,"lamponi,lampone",False
-coltivare mirtilli lamponi ribes uva spina,"lamponi,lampone",False
 coltivare lampone nero,"lamponi,lampone",False
 coltivare lampone orto,"lamponi,lampone",False
 coltivare lamponi periodo,"lamponi,lampone",False
@@ -3923,7 +3793,6 @@ coltivare mirtilli in sardegna,"mirtillo,mirtilli",False
 coltivare mirtilli in terrazzo,"mirtillo,mirtilli",False
 coltivazione mirtilli in italia,"mirtillo,mirtilli",False
 coltivare i mirtilli americani,"mirtillo,mirtilli",False
-coltivare mirtilli lamponi ribes uva spina,"mirtillo,mirtilli",False
 coltivazione mirtillo libro,"mirtillo,mirtilli",False
 coltivare il mirtillo,"mirtillo,mirtilli",False
 coltivare mirtilli neri,"mirtillo,mirtilli",False
@@ -4070,8 +3939,6 @@ coltivazione fragole tubo verticale,"fragole,fragola",False
 coltivazione fragole trentino,"fragole,fragola",False
 coltivazione fragole trapianto,"fragole,fragola",False
 fragole coltivazione tempi,"fragole,fragola",False
-coltivare uva fragola,"fragole,fragola",False
-coltivare uva fragola in vaso,"fragole,fragola",False
 coltivare una fragola,"fragole,fragola",False
 coltivare fragole in un tubo,"fragole,fragola",False
 come coltivare fragole in un tubo di plastica,"fragole,fragola",False
@@ -4086,127 +3953,27 @@ coltivazione fragole in vaso inverno,"fragole,fragola",False
 coltivazione fragole in vaso in serra,"fragole,fragola",False
 youtube coltivare fragole,"fragole,fragola",False
 coltivare fragoline,"fragoline,fragolina",False
-coltivare fragole a terra,"fragoline,fragolina",False
-coltivare fragole a casa,"fragoline,fragolina",False
-coltivare fragole all'ombra,"fragoline,fragolina",False
-coltivare fragole a parete,"fragoline,fragolina",False
-coltivare fragole appartamento,"fragoline,fragolina",False
-coltivazione fragole appese,"fragoline,fragolina",False
-coltivazione fragole aeroponica,"fragoline,fragolina",False
-coltivazione fragole asiago,"fragoline,fragolina",False
 coltivare frutti antichi,"fragoline,fragolina",False
-coltivare fragole in acqua,"fragoline,fragolina",False
 coltivare fragoline bosco,"fragoline,fragolina",False
-coltivare fragole balcone,"fragoline,fragolina",False
-coltivare fragole benedetta rossi,"fragoline,fragolina",False
-coltivare fragole biologiche,"fragoline,fragolina",False
-coltivare fragole bianche,"fragoline,fragolina",False
-coltivazione fragole blu,"fragoline,fragolina",False
-coltivazione fragole basilicata,"fragoline,fragolina",False
 coltivare frutti balcone,"fragoline,fragolina",False
 coltivare fragoline di bosco in vaso,"fragoline,fragolina",False
 coltivare fragoline di bosco sul balcone,"fragoline,fragolina",False
-coltivare fragole con idroponica,"fragoline,fragolina",False
-coltivare fragole con semi,"fragoline,fragolina",False
-coltivare fragole conviene,"fragoline,fragolina",False
-coltivazione fragole con telo,"fragoline,fragolina",False
-coltivazione fragole con pacciamatura,"fragoline,fragolina",False
-coltivazione fragole concimi,"fragoline,fragolina",False
-coltivare fragole in cassetta,"fragoline,fragolina",False
-coltivare fragole in casa,"fragoline,fragolina",False
-coltivare le fragole consigli,"fragoline,fragolina",False
-coltivare fragole in cassone,"fragoline,fragolina",False
 coltivare fragoline di bosco,"fragoline,fragolina",False
 coltivare fragoline di bosco in casa,"fragoline,fragolina",False
-coltivare fragole dal frutto,"fragoline,fragolina",False
 coltivare fragole dal seme,"fragoline,fragolina",False
 coltivare fragole dolci,"fragoline,fragolina",False
 coltivare frutti di bosco,"fragoline,fragolina",False
 coltivare frutti di bosco in vaso,"fragoline,fragolina",False
 coltivare frutti di bosco guadagni,"fragoline,fragolina",False
-coltivare fragole e redditizio,"fragoline,fragolina",False
-coltivazione fragole esposizione,"fragoline,fragolina",False
 coltivare frutti esotici,"fragoline,fragolina",False
 coltivare frutti e ortaggi,"fragoline,fragolina",False
-fragole coltivazione e concimazione,"fragoline,fragolina",False
-coltivare fragole e frutti di bosco,"fragoline,fragolina",False
-coltivare fragole fuori suolo,"fragoline,fragolina",False
-coltivazione fragole fai da te,"fragoline,fragolina",False
-coltivare fragole guadagno,"fragoline,fragolina",False
-coltivare fragole in grondaia,"fragoline,fragolina",False
-coltivare fragole in giardino,"fragoline,fragolina",False
-coltivare fragole in vaso,"fragoline,fragolina",False
-coltivare fragole in verticale,"fragoline,fragolina",False
-coltivare fragole in serra,"fragoline,fragolina",False
-coltivare fragole in tubo,"fragoline,fragolina",False
-coltivare fragole in bottiglie di plastica,"fragoline,fragolina",False
 coltivare fragole in serra idroponica,"fragoline,fragolina",False
 coltivare le fragoline di bosco,"fragoline,fragolina",False
-coltivazione fragole lombardia,"fragoline,fragolina",False
-coltivare le fragole,"fragoline,fragolina",False
-coltivare le fragole in vaso,"fragoline,fragolina",False
-coltivare le fragole in verticale,"fragoline,fragolina",False
-coltivare le fragole nell'orto,"fragoline,fragolina",False
-coltivare le fragole in tubo,"fragoline,fragolina",False
-coltivare le fragole in serra,"fragoline,fragolina",False
-coltivare le fragole in casa,"fragoline,fragolina",False
-coltivazione fragole milano,"fragoline,fragolina",False
-coltivare fragole in montagna,"fragoline,fragolina",False
-coltivare fragole nell'orto,"fragoline,fragolina",False
 coltivare fragole nei tubi,"fragoline,fragolina",False
-coltivare fragole nei bancali,"fragoline,fragolina",False
-coltivare fragole nel vaso,"fragoline,fragolina",False
-coltivare fragole nei vasi,"fragoline,fragolina",False
-fragole coltivazione naturale,"fragoline,fragolina",False
-coltivare fragole orto,"fragoline,fragolina",False
-coltivare fragole ombra,"fragoline,fragolina",False
-coltivare fragole professionale,"fragoline,fragolina",False
-coltivare fragole periodo,"fragoline,fragolina",False
-coltivare fragole partendo dal frutto,"fragoline,fragolina",False
-coltivare fragole potatura,"fragoline,fragolina",False
-coltivazione fragole pieno campo,"fragoline,fragolina",False
-coltivazione fragole pensili,"fragoline,fragolina",False
-coltivazione fragole pdf,"fragoline,fragolina",False
-coltivazione fragole perenni,"fragoline,fragolina",False
-coltivare piantine fragole,"fragoline,fragolina",False
 coltivazione per fragole,"fragoline,fragolina",False
-coltivazione fragole quattro stagioni,"fragoline,fragolina",False
-coltivare le fragole quando,"fragoline,fragolina",False
-coltivare fragole rialzate,"fragoline,fragolina",False
-coltivare fragole rampicanti,"fragoline,fragolina",False
-coltivare fragole rifiorenti in vaso,"fragoline,fragolina",False
-coltivare fragole rifiorenti,"fragoline,fragolina",False
-coltivare fragole rampicanti in vaso,"fragoline,fragolina",False
-coltivazione fragole resa per ettaro,"fragoline,fragolina",False
 coltivare frutti rossi,"fragoline,fragolina",False
-coltivare fragole sul balcone,"fragoline,fragolina",False
-coltivare fragole sospese,"fragoline,fragolina",False
-coltivare fragole senza terra,"fragoline,fragolina",False
-coltivare fragole stoloni,"fragoline,fragolina",False
-coltivare fragole sotto serra,"fragoline,fragolina",False
-coltivazione fragole serra,"fragoline,fragolina",False
-coltivazione fragole sospese fai da te,"fragoline,fragolina",False
-coltivazione fragole sole o ombra,"fragoline,fragolina",False
-coltivazione fragole spagna,"fragoline,fragolina",False
-coltivazione fragole suolo,"fragoline,fragolina",False
-coltivare fragole tutto l'anno,"fragoline,fragolina",False
-coltivare fragole tubo,"fragoline,fragolina",False
-coltivare fragole terrazzo,"fragoline,fragolina",False
-coltivazione fragole terreno,"fragoline,fragolina",False
-coltivazione fragole tubo verticale,"fragoline,fragolina",False
-coltivazione fragole trentino,"fragoline,fragolina",False
-coltivazione fragole trapianto,"fragoline,fragolina",False
 coltivare frutti tropicali,"fragoline,fragolina",False
 coltivare frutti tropicali in vaso,"fragoline,fragolina",False
-fragole coltivazione tempi,"fragoline,fragolina",False
-coltivare fragole in un tubo,"fragoline,fragolina",False
-coltivare fragole vaso,"fragoline,fragolina",False
-coltivare fragole verticale,"fragoline,fragolina",False
-coltivazione fragole vita in campagna,"fragoline,fragolina",False
-coltivare fragole in vaso dai semi,"fragoline,fragolina",False
-coltivare fragole in vaso dal frutto,"fragoline,fragolina",False
-coltivare fragole in vaso acqua,"fragoline,fragolina",False
-coltivare fragole in vaso fai da te,"fragoline,fragolina",False
 coltivare more,"more,mora",False
 coltivare more a casa,"more,mora",False
 coltivare more balcone,"more,mora",False
@@ -4226,14 +3993,12 @@ coltivazione di more in serra,"more,mora",False
 coltivazione di more in sicilia,"more,mora",False
 coltivazione di more in vaso,"more,mora",False
 coltivare more e lamponi,"more,mora",False
-coltivare more e lamponi in vaso,"more,mora",False
 coltivare more e mirtilli,"more,mora",False
 coltivazione more frutto,"more,mora",False
 coltivare more in giardino,"more,mora",False
 coltivare more in vaso,"more,mora",False
 coltivare more in terrazzo,"more,mora",False
 quando coltivare le more in giardino,"more,mora",False
-coltivare more lamponi mirtilli,"more,mora",False
 coltivare more lamponi,"more,mora",False
 coltivare le more,"more,mora",False
 coltivare le more senza spine,"more,mora",False
@@ -4275,7 +4040,6 @@ ribes da coltivare,ribes,False
 dove coltivare ribes nero,ribes,False
 coltivare la pianta di ribes,ribes,False
 ribes da coltivare in vaso,ribes,False
-coltivare ribes e lamponi,ribes,False
 ribes coltivazione esposizione,ribes,False
 ribes coltivazione e raccolta,ribes,False
 coltivare ribes in giardino,ribes,False
@@ -4288,7 +4052,6 @@ coltivare ribes rosso in vaso,ribes,False
 coltivare ribes nero in vaso,ribes,False
 dove coltivare il ribes,ribes,False
 dove coltivare il ribes nero,ribes,False
-coltivare mirtilli lamponi ribes uva spina,ribes,False
 coltivazione ribes e mirtilli,ribes,False
 coltivare ribes nero,ribes,False
 coltivare ribes nell orto,ribes,False
@@ -4299,7 +4062,6 @@ quando coltivare ribes,ribes,False
 coltivare ribes rosso,ribes,False
 dove coltivare il ribes rosso,ribes,False
 ribes coltivazione semi,ribes,False
-coltivazione ribes uva spina,ribes,False
 ribes coltivazione terreno,ribes,False
 coltivare ribes video,ribes,False
 coltivare ribes vaso,ribes,False
@@ -4633,7 +4395,6 @@ basilico coltivazione esposizione,basilico,False
 basilico coltivazione elicriso,basilico,False
 basilico coltivazione e,basilico,False
 coltivare il basilico esterno,basilico,False
-coltivare prezzemolo e basilico,basilico,False
 coltivazione basilico fuori suolo,basilico,False
 basilico coltivazione fiori,basilico,False
 basilico coltivazione fioritura,basilico,False
@@ -4649,7 +4410,6 @@ coltivare basilico idroponica,basilico,False
 coltivare basilico in balcone,basilico,False
 coltivare basilico in serra,basilico,False
 coltivare basilico in terrazzo,basilico,False
-coltivare basilico lattuga,basilico,False
 coltivazione basilico liguria,basilico,False
 coltivare basilico tutto l'anno,basilico,False
 come coltivare il basilico in vaso,basilico,False
@@ -4699,7 +4459,6 @@ coltivazione menta aromatica,menta,False
 coltivare a menta,menta,False
 menta coltivazione a terra,menta,False
 coltivare menta in acqua,menta,False
-coltivare basilico menta,menta,False
 menta coltivazione balcone,menta,False
 coltivare menta consigli,menta,False
 coltivazione menta cervina,menta,False
@@ -4764,20 +4523,15 @@ coltivare talea menta,menta,False
 menta coltivazione trapianto,menta,False
 come coltivare una menta,menta,False
 coltivare menta vaso,menta,False
-coltivare erba cipollina,erba cipollina,False
-coltivare erba cipollina in appartamento,erba cipollina,False
 coltivare erba cipollina sul balcone,erba cipollina,False
 coltivare erba cipollina in casa,erba cipollina,False
 come coltivare erba cipollina,erba cipollina,False
 come coltivare erba cipollina sul balcone,erba cipollina,False
 erba cipollina orto da coltivare,erba cipollina,False
-coltivare erba cipollina in vaso,erba cipollina,False
-coltivare erba cipollina in inverno,erba cipollina,False
 coltivare erba cipollina in orto,erba cipollina,False
 erba cipollina si può coltivare in vaso,erba cipollina,False
 coltivare l'erba cipollina,erba cipollina,False
 coltivare l'erba cipollina in vaso,erba cipollina,False
-coltivare erba cipollina quando,erba cipollina,False
 coltivare semi erba cipollina,erba cipollina,False
 coltivazione erba cipollina vaso,erba cipollina,False
 coltivare maggiorana,maggiorana,False
@@ -4808,7 +4562,6 @@ timo coltivazione casa,timo,False
 coltivazione timo pieno campo,timo,False
 come coltivare timo,timo,False
 come coltivare timo in vaso,timo,False
-come coltivare timo limone in vaso,timo,False
 coltivazione del timo,timo,False
 coltivazione del timo in vaso,timo,False
 timo coltivazione distanza,timo,False
@@ -4831,7 +4584,6 @@ coltivare il timo limone,timo,False
 timo coltivazione in terra,timo,False
 timo coltivazione in vaso inverno,timo,False
 timo coltivazione interno,timo,False
-coltivare timo limone,timo,False
 timo coltivazione mese,timo,False
 come coltivare il timo nell'orto,timo,False
 coltivare timo orto,timo,False
@@ -5056,11 +4808,8 @@ coltivare cerfoglio,cerfoglio,False
 cerfoglio da coltivare,cerfoglio,False
 coltivazione agrifoglio in vaso,cerfoglio,False
 come coltivare il cerfoglio,cerfoglio,False
-coltivare aglio orsino,aglio orsino,False
 come coltivare aglio orsino,aglio orsino,False
 come coltivare l'aglio orsino,aglio orsino,False
-coltivare aglio selvatico in vaso,aglio orsino,False
-coltivare l'aglio orsino,aglio orsino,False
 coltivare coriandolo,coriandolo,False
 coltivare coriandolo in casa,coriandolo,False
 come coltivare coriandolo,coriandolo,False
@@ -5071,7 +4820,6 @@ coltivazione del coriandolo in italia,coriandolo,False
 coltivare coriandolo esposizione,coriandolo,False
 coltivare erba coriandolo,coriandolo,False
 coriandolo coltivazione fiori,coriandolo,False
-coltivare coriandolo in vaso,coriandolo,False
 coltivazione coriandolo in pieno campo,coriandolo,False
 coltivazione coriandolo italia,coriandolo,False
 coltivare il coriandolo,coriandolo,False
@@ -5244,7 +4992,6 @@ lavanda coltivazione e riproduzione,lavanda,False
 lavanda coltivazione e potatura,lavanda,False
 lavanda coltivazione e raccolta,lavanda,False
 lavanda coltivazione elicriso,lavanda,False
-coltivare lavanda per olio essenziale,lavanda,False
 coltivazione lavanda forum,lavanda,False
 coltivazione lavanda francia,lavanda,False
 coltivazione lavanda friuli,lavanda,False
@@ -5337,40 +5084,6 @@ coltivare il rafano,"rafano,rafani,cren",False
 rafano coltivazione malattie,"rafano,rafani,cren",False
 coltivazione rafano nero,"rafano,rafani,cren",False
 rafano coltivazione periodo,"rafano,rafani,cren",False
-coltivare capperi,"capperi,capper0",False
-coltivare capperi al nord,"capperi,capper0",False
-coltivare capperi sul balcone,"capperi,capper0",False
-coltivare capperi in balcone,"capperi,capper0",False
-coltivazione biologica cappero,"capperi,capper0",False
-coltivare capperi in casa,"capperi,capper0",False
-come coltivare capperi,"capperi,capper0",False
-conviene coltivare capperi,"capperi,capper0",False
-coltivare capperi da seme,"capperi,capper0",False
-coltivazione cappero di pantelleria,"capperi,capper0",False
-coltivazione dei capperi,"capperi,capper0",False
-coltivazione di capperi,"capperi,capper0",False
-coltivazione dei capperi in vaso,"capperi,capper0",False
-coltivazione del cappero in vaso,"capperi,capper0",False
-cappero coltivazione forum,"capperi,capper0",False
-coltivare capperi in giardino,"capperi,capper0",False
-coltivare capperi in vaso,"capperi,capper0",False
-coltivare capperi in sardegna,"capperi,capper0",False
-coltivazione capperi in sicilia,"capperi,capper0",False
-coltivare il cappero al nord,"capperi,capper0",False
-coltivare il cappero sul balcone,"capperi,capper0",False
-coltivare il cappero da seme,"capperi,capper0",False
-coltivare pianta cappero in vaso,"capperi,capper0",False
-coltivare capperi sul muro,"capperi,capper0",False
-coltivare capperi orto,"capperi,capper0",False
-coltivare capperi per talea,"capperi,capper0",False
-coltivazione capperi pantelleria,"capperi,capper0",False
-coltivazione capperi pianta,"capperi,capper0",False
-coltivazione capperi periodo,"capperi,capper0",False
-coltivazione cappero pdf,"capperi,capper0",False
-coltivazione cappero terreno,"capperi,capper0",False
-capperi coltivazione talea,"capperi,capper0",False
-coltivare i capperi in terrazza,"capperi,capper0",False
-coltivare cappero vaso,"capperi,capper0",False
 coltivare acetosa,acetosa,False
 coltivazione della acetosa,acetosa,False
 coltivare issopo,issopo,False
@@ -6016,20 +5729,6 @@ terreno per cardo mariano,"cardi,cardo",False
 terreno per cardi,"cardi,cardo",False
 terreno ideale per cardi,"cardi,cardo",False
 terreno scarola,"scarola,scarole",False
-terreno cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-cavoli terreno argilloso,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-terreno adatto cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-terreno adatto ai cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-cavoli terreno ideale,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-terreno per i cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-terreno per cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-preparazione terreno per cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-ph terreno per cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-terreno per piantare cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-ph terreno cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-cavoli preparazione terreno,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-tipo di terreno per cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-cavoli semina terreno,"cavolo rapa,cavoli rapa,rapa,cavoli",False
 terreno cavolo nero,"cavolo nero,cavoli nero",False
 terreno batata,"batata,patata dolce",False
 batata terreno argilloso,"batata,patata dolce",False
@@ -6399,25 +6098,7 @@ terreno para kiwi,kiwi,False
 kiwi terreno sabbioso,kiwi,False
 kiwi terreno umido,kiwi,False
 terreno kiwi vendita,kiwi,False
-terreno actinidia,actinidia,False
-actinidia terreno adatto,actinidia,False
-actinidia terreno argilloso,actinidia,False
-kiwi terreno argilloso,actinidia,False
-kiwi terreno acido,actinidia,False
-kiwi terreno adatto,actinidia,False
-terreno kiwi cisterna di latina,actinidia,False
-terreno con kiwi cisterna di latina,actinidia,False
-terreno con kiwi,actinidia,False
-terreno kiwi in vendita latina,actinidia,False
-terreno kiwi in vendita,actinidia,False
-kiwi terreno ideale,actinidia,False
-terreno per kiwi,actinidia,False
-terreno adatto per actinidia,actinidia,False
-ph terreno actinidia,actinidia,False
-terreno para kiwi,actinidia,False
-kiwi terreno sabbioso,actinidia,False
-kiwi terreno umido,actinidia,False
-terreno kiwi vendita,actinidia,False
+terreno adatto per kiwi,kiwi,False
 terreno nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
 nocciolo terreno argilloso,"nocciolo,nocciola,nocciolina,noccioline",False
 terreno coltivato a nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
@@ -6636,7 +6317,6 @@ terreno per lamponi in vaso,"lamponi,lampone",False
 terreno per i lamponi,"lamponi,lampone",False
 lamponi in terreno argilloso,"lamponi,lampone",False
 lamponi nel terreno,"lamponi,lampone",False
-terreno per lamponi,"lamponi,lampone",False
 ph terreno per lamponi,"lamponi,lampone",False
 terreno adatto per lamponi,"lamponi,lampone",False
 preparazione terreno per lamponi,"lamponi,lampone",False
@@ -6684,7 +6364,6 @@ fragole e terreno,"fragole,fragola",False
 fragole terreno ideale,"fragole,fragola",False
 terreno per fragole in vaso,"fragole,fragola",False
 fragole in terreno argilloso,"fragole,fragola",False
-terreno per le fragole,"fragole,fragola",False
 terreno adatto per le fragole,"fragole,fragola",False
 terreno per piantare le fragole,"fragole,fragola",False
 terreno per coltivare le fragole,"fragole,fragola",False
@@ -6707,7 +6386,6 @@ ph terreno fragoline di bosco,"fragoline,fragolina",False
 terreno more,"more,mora",False
 terreno adatto more,"more,mora",False
 terreno per coltivare more,"more,mora",False
-terreno per more e lamponi,"more,mora",False
 more nel terreno,"more,mora",False
 terreno per more,"more,mora",False
 terreno per more senza spine,"more,mora",False
@@ -7012,12 +6690,10 @@ terreno di lavanda,lavanda,False
 lavandula dentata terreno,lavanda,False
 lavanda e terreno,lavanda,False
 lavanda terreno ideale,lavanda,False
-terreno per lavanda in vaso,lavanda,False
 lavanda in terreno argilloso,lavanda,False
 terreno per la lavanda,lavanda,False
 terreno adatto per la lavanda,lavanda,False
 lavanda nel terreno,lavanda,False
-terreno per lavanda,lavanda,False
 terreno adatto per lavanda,lavanda,False
 terreno acido per lavanda,lavanda,False
 lavanda ph terreno,lavanda,False
@@ -7310,7 +6986,6 @@ clima cardi,"cardi,cardo",False
 clima de cardo,"cardi,cardo",False
 clima para cardo,"cardi,cardo",False
 clima scarola,"scarola,scarole",False
-clima cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
 clima cavolo nero,"cavolo nero,cavoli nero",False
 clima batata,"batata,patata dolce",False
 batata clima de cultivo,"batata,patata dolce",False
@@ -7425,7 +7100,6 @@ clima per le fragole,"pero,pera",False
 clima per la menta,"pero,pera",False
 clima per la dalia,"pero,pera",False
 clima per lumache,"pero,pera",False
-clima per le arachidi,"pero,pera",False
 pero clima para mañana,"pero,pera",False
 mi clima prende pero no echa aire,"pero,pera",False
 mi clima prende pero no enfria,"pero,pera",False
@@ -7579,16 +7253,6 @@ clima ideal para sembrar kiwi,kiwi,False
 kiwi clima templado,kiwi,False
 clima para plantar un kiwi,kiwi,False
 kiwi clima y suelo,kiwi,False
-clima actinidia,actinidia,False
-clima cultivo kiwi,actinidia,False
-clima del kiwi,actinidia,False
-kiwi clima de cultivo,actinidia,False
-clima di kiwi,actinidia,False
-clima e kiwi,actinidia,False
-kiwi clima frio,actinidia,False
-kiwi clima ideale,actinidia,False
-kiwi clima quente,actinidia,False
-kiwi clima y suelo,actinidia,False
 clima nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
 nocciolo clima adatto,"nocciolo,nocciola,nocciolina,noccioline",False
 clima del nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
@@ -7669,7 +7333,6 @@ clima de vite,vite,False
 clima e vite,vite,False
 vite clima freddo,vite,False
 vite clima ideale,vite,False
-clima per la vite,vite,False
 clima ideale per la vite,vite,False
 clima ideale per vite,vite,False
 vite per clima,vite,False
@@ -7739,9 +7402,7 @@ clima per mirtillo,"mirtillo,mirtilli",False
 clima fragole,"fragole,fragola",False
 clima adatto fragole,"fragole,fragola",False
 fragole clima ideale,"fragole,fragola",False
-clima per le fragole,"fragole,fragola",False
 clima pianta fragole,"fragole,fragola",False
-clima uva fragola,"fragole,fragola",False
 clima fragoline,"fragoline,fragolina",False
 clima more,"more,mora",False
 clima and more,"more,mora",False
@@ -7805,7 +7466,6 @@ clima para cultivo de menta,menta,False
 tipo de clima del menta,menta,False
 menta gatuna clima,menta,False
 clima ideal menta,menta,False
-clima per la menta,menta,False
 clima ideale per la menta,menta,False
 clima de la menta,menta,False
 clima de la menta poleo,menta,False
@@ -7818,7 +7478,6 @@ menta clima y suelo,menta,False
 clima ideal para sembrar menta,menta,False
 menta su clima,menta,False
 menta verde clima,menta,False
-clima erba cipollina,erba cipollina,False
 clima maggiorana,maggiorana,False
 maggiorana clima adatto,maggiorana,False
 maggiorana e clima,maggiorana,False
@@ -7838,7 +7497,6 @@ clima coltivazione zafferano,zafferano,False
 clima per coltivare zafferano,zafferano,False
 clima dello zafferano,zafferano,False
 zafferano clima ideale,zafferano,False
-clima per lo zafferano,zafferano,False
 clima ideale per lo zafferano,zafferano,False
 clima per zafferano,zafferano,False
 clima adatto per zafferano,zafferano,False
@@ -7900,7 +7558,6 @@ lavanda clima frio,lavanda,False
 clima fresh lavanda,lavanda,False
 lavanda clima humedo,lavanda,False
 lavanda clima ideale,lavanda,False
-clima per la lavanda,lavanda,False
 clima de la lavanda,lavanda,False
 clima donde vive la lavanda,lavanda,False
 clima ideale per lavanda,lavanda,False
@@ -8174,7 +7831,6 @@ cenere concime melanzane,"melanzane,melanzana",False
 concimazione delle melanzane,"melanzane,melanzana",False
 concime per piante di melanzane,"melanzane,melanzana",False
 concimazione melanzane e peperoni,"melanzane,melanzana",False
-concime per pomodori e melanzane,"melanzane,melanzana",False
 concime per melanzane in vaso,"melanzane,melanzana",False
 concime per le melanzane,"melanzane,melanzana",False
 concime naturale per le melanzane,"melanzane,melanzana",False
@@ -8197,14 +7853,12 @@ concime con peperoni,"peperoni,peperone",False
 concimazione dei peperoni,"peperoni,peperone",False
 concimazione del peperone,"peperoni,peperone",False
 concime per peperoni e melanzane,"peperoni,peperone",False
-concime per pomodori e peperoni,"peperoni,peperone",False
 concimazione fogliare peperoni,"peperoni,peperone",False
 concimazione peperone in serra,"peperoni,peperone",False
 concime per peperoni in vaso,"peperoni,peperone",False
 concime per ingrossamento peperoni,"peperoni,peperone",False
 concime liquido peperoni,"peperoni,peperone",False
 concimazione peperoni melanzane,"peperoni,peperone",False
-concime per peperoni melanzane,"peperoni,peperone",False
 miglior concime peperoni,"peperoni,peperone",False
 concime naturale peperoni,"peperoni,peperone",False
 concime per peperoni,"peperoni,peperone",False
@@ -8250,9 +7904,7 @@ concimazione carciofo spinoso sardo,"carciofi,carciofo",False
 concime x carciofi,"carciofi,carciofo",False
 concime fagiolini,"fagiolini,fagiolino",False
 concimazione dei fagiolini,"fagiolini,fagiolino",False
-concimazione del fagiolo,"fagiolini,fagiolino",False
 concime per piante di fagiolini,"fagiolini,fagiolino",False
-concime fogliare fagiolo,"fagiolini,fagiolino",False
 concimazione fagiolini nani,"fagiolini,fagiolino",False
 fagiolini concime naturale,"fagiolini,fagiolino",False
 concime per fagiolini,"fagiolini,fagiolino",False
@@ -8345,8 +7997,6 @@ concimazione delle fave,"fave,fava",False
 concime con bucce di fave,"fave,fava",False
 fave da concime,"fave,fava",False
 concime per piante di fave,"fave,fava",False
-concime fave e piselli,"fave,fava",False
-concime per fave e piselli,"fave,fava",False
 quale concime per fave e piselli,"fave,fava",False
 concime per le fave,"fave,fava",False
 fave concime naturale,"fave,fava",False
@@ -8356,7 +8006,6 @@ concime ideale per fave,"fave,fava",False
 concime organico per fave,"fave,fava",False
 concime per semina fave,"fave,fava",False
 concime cappuccio,"cappuccio,cappucci",False
-concimazione cavoli cappuccio,"cappuccio,cappucci",False
 concime cavolfiore,"cavolfiore,cavolfiori",False
 concimazione azotata cavolfiore,"cavolfiore,cavolfiori",False
 concimazione del cavolfiore,"cavolfiore,cavolfiori",False
@@ -8412,7 +8061,6 @@ consiglio concime peperoncini,"peperoncini,peperoncino",False
 concime per peperoncini,"peperoncini,peperoncino",False
 concime peperoncini fai da te,"peperoncini,peperoncino",False
 concimazione del peperoncino,"peperoncini,peperoncino",False
-concime per pomodori e peperoncini,"peperoncini,peperoncino",False
 peperoncini e concime,"peperoncini,peperoncino",False
 concime peperoncini fruttificazione,"peperoncini,peperoncino",False
 concime fioritura peperoncini,"peperoncini,peperoncino",False
@@ -8515,19 +8163,6 @@ concime per cardo,"cardi,cardo",False
 concime scarola,"scarola,scarole",False
 concime fogliare per scarola,"scarola,scarole",False
 concime per scarola,"scarola,scarole",False
-concime cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-concime per cavoli e broccoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-concimazione cavoli cappuccio,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-concimazione dei cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-concimazione delle cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-concime per piante di cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-concimazione invernale cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-concime per i cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-concime per cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-concime ideale per cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-concime biologico per cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-concime specifico per cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-concime liquido per cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
 concime cavolo nero,"cavolo nero,cavoli nero",False
 concime batata,"batata,patata dolce",False
 concime kale,"kale,cavolo riccio",False
@@ -8535,7 +8170,6 @@ concime rabarbaro,rabarbaro,False
 concime per rabarbaro,rabarbaro,False
 concime insalata,insalata,False
 concimazione delle insalate,insalata,False
-concime per insalata e pomodori,insalata,False
 concime liquido insalata,insalata,False
 concime naturale insalata,insalata,False
 concime per insalata,insalata,False
@@ -8626,7 +8260,6 @@ concime pero,"pero,pera",False
 concimazione pero abate,"pero,pera",False
 concimazione del pero,"pero,pera",False
 concime albero di pero,"pero,pera",False
-concime per melo e pero,"pero,pera",False
 concimazione fogliare pero,"pero,pera",False
 concime per limoni,"pero,pera",False
 concime per limoni fatto in casa,"pero,pera",False
@@ -8638,10 +8271,8 @@ concime per lamponi,"pero,pera",False
 concime per limone con foglie gialle,"pero,pera",False
 concime per leylandii,"pero,pera",False
 concime per leguminose,"pero,pera",False
-concimazione melo pero,"pero,pera",False
 concime per pero,"pero,pera",False
 concimazione primaverile pero,"pero,pera",False
-concime melograno,"melograno,melograni",False
 concimazione melograno albero,"melograno,melograni",False
 concime adatto melograno,"melograno,melograni",False
 melograno come concime,"melograno,melograni",False
@@ -8915,7 +8546,6 @@ concimazione limone con lupini,"limone,limoni",False
 concime limoni cifo,"limone,limoni",False
 concimazione limoni con letame,"limone,limoni",False
 concimazione con limone,"limone,limoni",False
-concime per limone con foglie gialle,"limone,limoni",False
 concime per limone caviale,"limone,limoni",False
 concime per limoni citrus,"limone,limoni",False
 concime per limoni chicchi di sole,"limone,limoni",False
@@ -8953,7 +8583,6 @@ limone concime organico,"limone,limoni",False
 concimazione limone periodo,"limone,limoni",False
 concimazione limone primavera,"limone,limoni",False
 concime per limone fatto in casa,"limone,limoni",False
-concime per limoni lupini,"limone,limoni",False
 concime limone quando,"limone,limoni",False
 concime limone sofferente,"limone,limoni",False
 concime stallatico limone,"limone,limoni",False
@@ -9011,17 +8640,9 @@ concime stallatico per kiwi,kiwi,False
 concimazione kiwi quando,kiwi,False
 concime x kiwi,kiwi,False
 concime naturale per kiwi,kiwi,False
-concime actinidia,actinidia,False
-concime con kiwi,actinidia,False
-concime fogliare kiwi,actinidia,False
-concime liquido kiwi,actinidia,False
-concime naturale kiwi,actinidia,False
-concimazione organica actinidia,actinidia,False
-concimi per actinidia,actinidia,False
-concime per kiwi,actinidia,False
-concime specifico per actinidia,actinidia,False
-concime per actinidia,actinidia,False
-concime x kiwi,actinidia,False
+concimazione organica kiwi,kiwi,False
+concimi per kiwi,kiwi,False
+concime specifico per kiwi,kiwi,False
 concime nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
 concimazione nocciolo autunnale,"nocciolo,nocciola,nocciolina,noccioline",False
 concimazione azotata nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
@@ -9079,9 +8700,7 @@ concime per piantine di noce,"noce,noci",False
 concime per il noce,"noce,noci",False
 concime per la noce,"noce,noci",False
 concime per noce,"noce,noci",False
-concime pesco noce,"noce,noci",False
 concimazione piante noce,"noce,noci",False
-concime per pesco noce,"noce,noci",False
 noce pecan concime,"noce,noci",False
 concime mandorlo,"mandorlo,mandorla",False
 concimazione autunnale mandorlo,"mandorlo,mandorla",False
@@ -9191,7 +8810,6 @@ concime per uva,uva,False
 concime per uva fragola,uva,False
 concime naturale per uva,uva,False
 concimazione vigneto uva da vino,uva,False
-concimazione vite uva da tavola,uva,False
 concime nespolo,"nespolo,nespola,nespole",False
 concimazione del nespolo giapponese,"nespolo,nespola,nespole",False
 concimazione nespolo giapponese,"nespolo,nespola,nespole",False
@@ -9209,7 +8827,6 @@ concimazione dei lamponi,"lamponi,lampone",False
 concime per more e lamponi,"lamponi,lampone",False
 concime per lamponi in vaso,"lamponi,lampone",False
 concime naturale lamponi,"lamponi,lampone",False
-concime per lamponi,"lamponi,lampone",False
 concime per pianta lamponi,"lamponi,lampone",False
 quale concime per lamponi,"lamponi,lampone",False
 concime ideale per lamponi,"lamponi,lampone",False
@@ -9287,7 +8904,6 @@ concime per fragole naturale,"fragole,fragola",False
 fragole concimazione quando,"fragole,fragola",False
 concimazione fragole rifiorenti,"fragole,fragola",False
 concime per fragole solabiol,"fragole,fragola",False
-concimazione uva fragola,"fragole,fragola",False
 concime fragole vaso,"fragole,fragola",False
 concime fragoline,"fragoline,fragolina",False
 concime per fragoline di bosco,"fragoline,fragolina",False
@@ -9298,7 +8914,6 @@ concime grow more,"more,mora",False
 concime fogliare grow more,"more,mora",False
 concime per more,"more,mora",False
 concime per more senza spine,"more,mora",False
-concime per more e lamponi,"more,mora",False
 concime aronia,aronia,False
 concime ribes,ribes,False
 concimazione dei ribes,ribes,False
@@ -9396,7 +9011,6 @@ concimazione di basilico,basilico,False
 basilico concime fai da te,basilico,False
 concime per basilico fai da te,basilico,False
 concime per piante di basilico,basilico,False
-concime per basilico e prezzemolo,basilico,False
 concime fogliare basilico,basilico,False
 concime per basilico fatto in casa,basilico,False
 concime per basilico greco,basilico,False
@@ -9500,7 +9114,6 @@ concimazione della lavanda,lavanda,False
 lavanda e concime,lavanda,False
 concime per lavanda in vaso,lavanda,False
 concime naturale lavanda,lavanda,False
-concime per lavanda,lavanda,False
 concime naturale per lavanda,lavanda,False
 concime granulare per lavanda,lavanda,False
 concime liquido per lavanda,lavanda,False
@@ -9536,7 +9149,6 @@ concime pepe,pepe,False
 concime per bonsai pepe,pepe,False
 concime per albero del pepe,pepe,False
 concime falso pepe,pepe,False
-concime per peperoni,pepe,False
 concime per pianta pepe rosa,pepe,False
 concime pepe rosa,pepe,False
 concime issopo,issopo,False
@@ -9666,7 +9278,6 @@ semina patate distanza tra le file,"patate,patata",False
 semina patate dsv,"patate,patata",False
 semina patate desiree,"patate,patata",False
 semina patate da orto,"patate,patata",False
-seminare patate e pomodori,"patate,patata",False
 semina patate e luna,"patate,patata",False
 semina patate e concimazione,"patate,patata",False
 patate semina estiva,"patate,patata",False
@@ -9846,7 +9457,6 @@ semina zucchine nano,"zucchine,zucchina",False
 semina zucchine ottobre,"zucchine,zucchina",False
 zucchine seminare orto,"zucchine,zucchina",False
 seminare zucchine periodo,"zucchine,zucchina",False
-seminare pomodori zucchine,"zucchine,zucchina",False
 semina piantine zucchine,"zucchine,zucchina",False
 semina pianta zucchina,"zucchine,zucchina",False
 zucchine per seminare,"zucchine,zucchina",False
@@ -10116,7 +9726,6 @@ semina fagioli per bambini,"fagioli,fagiolo",False
 semina fagioli pieno campo,"fagioli,fagiolo",False
 semina fagiolo per ettaro,"fagioli,fagiolo",False
 semina piantine fagioli,"fagioli,fagiolo",False
-semina patate fagioli,"fagioli,fagiolo",False
 semina piante fagiolo,"fagioli,fagiolo",False
 semina fagioli scuola primaria,"fagioli,fagiolo",False
 semina fagioli quando,"fagioli,fagiolo",False
@@ -10273,7 +9882,6 @@ dove seminare le melanzane,"melanzane,melanzana",False
 seminare melanzane nell'orto,"melanzane,melanzana",False
 melanzane semina periodo,"melanzane,melanzana",False
 semina piantine melanzane,"melanzane,melanzana",False
-semina pomodori melanzane,"melanzane,melanzana",False
 semina per melanzane,"melanzane,melanzana",False
 semina pianta melanzana,"melanzane,melanzana",False
 quando seminare melanzane,"melanzane,melanzana",False
@@ -10556,7 +10164,6 @@ quando seminare piselli e fagiolini,"piselli,pisello",False
 quando seminare piselli e fagioli,"piselli,pisello",False
 seminare piselli febbraio,"piselli,pisello",False
 seminare piselli freschi,"piselli,pisello",False
-seminare fagioli piselli,"piselli,pisello",False
 semina piselli gennaio,"piselli,pisello",False
 semina piselli giugno,"piselli,pisello",False
 semina piselli gigante,"piselli,pisello",False
@@ -10616,8 +10223,6 @@ semina di asparagi selvatici,"asparagi,asparago",False
 asparago semina diretta,"asparagi,asparago",False
 asparagi semina e trapianto,"asparagi,asparago",False
 asparagi semina e raccolta,"asparagi,asparago",False
-semina fagiolini asparago,"asparagi,asparago",False
-semina fagiolo asparago,"asparagi,asparago",False
 seminare gli asparagi,"asparagi,asparago",False
 quando seminare gli asparagi,"asparagi,asparago",False
 come seminare gli asparagi selvatici,"asparagi,asparago",False
@@ -10864,7 +10469,6 @@ semina broccoletti all'olio,"broccoli,broccolo",False
 semina broccoli baresi,"broccoli,broccolo",False
 semina broccoli calabresi,"broccoli,broccolo",False
 semina broccolo coltivazione,"broccoli,broccolo",False
-semina cavoli broccoli,"broccoli,broccolo",False
 quando seminare broccolo calabrese,"broccoli,broccolo",False
 periodo semina broccoli calabresi,"broccoli,broccolo",False
 come seminare broccoli,"broccoli,broccolo",False
@@ -11157,7 +10761,6 @@ quando seminare i ravanelli al nord,"ravanelli,ravanello",False
 seminare ravanelli con che luna,"ravanelli,ravanello",False
 semina ravanelli con luna,"ravanelli,ravanello",False
 semina ravanelli con quale luna,"ravanelli,ravanello",False
-semina ravanelli carote,"ravanelli,ravanello",False
 semina ravanelli luna calante,"ravanelli,ravanello",False
 come seminare ravanelli,"ravanelli,ravanello",False
 quando seminare ravanelli e carote,"ravanelli,ravanello",False
@@ -11398,12 +11001,10 @@ seminare barbabietole rosse,"barbabietole,barbabietola",False
 semina raccolta barbabietole,"barbabietole,barbabietola",False
 seminare cicoria,cicoria,False
 semina cicoria a grumolo,cicoria,False
-semina cicoria asparago,cicoria,False
 quando seminare cicoria a grumolo,cicoria,False
 quando seminare cicoria asparago,cicoria,False
 periodo semina cicoria asparago,cicoria,False
 seminare cicoria belga,cicoria,False
-seminare cicoria catalogna,cicoria,False
 semina cicoria comune,cicoria,False
 semina cicoria da campo,cicoria,False
 semina cicoria di chiavari,cicoria,False
@@ -11531,35 +11132,6 @@ semina scarola indivia,"scarola,scarole",False
 semina scarola luna,"scarola,scarole",False
 seminare la scarola,"scarola,scarole",False
 quando seminare scarola,"scarola,scarole",False
-seminare cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-semina cavoli broccoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-semina cavolini bruxelles,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-quando seminare i cavoli cappucci,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-come seminare cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-semina dei cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-semina dei cavoli broccoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-semina di cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-quando seminare i cavoli di bruxelles,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-semina cavoli estivi,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-cavoli semina e trapianto,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-quando seminare cavoli e verze,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-quando seminare gli cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-seminare cavoli in semenzaio,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-semina cavoli invernali,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-semina cavoli in vaso,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-seminare i cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-quando seminare i cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-quando seminare i cavoli ornamentali,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-quando seminare i cavoli in semenzaio,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-seminare cavoli luna,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-seminare cavolfiori,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-quando seminare i cavolfiori,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-periodo semina cavoli neri,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-semina orto cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-semina cavoli periodo,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-seminare cavoli quando,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-semina cavoli rossi,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-semina cavoli verza,"cavolo rapa,cavoli rapa,rapa,cavoli",False
 seminare cavolo nero,"cavolo nero,cavoli nero",False
 seminare batata,"batata,patata dolce",False
 batata come seminare,"batata,patata dolce",False
@@ -11587,7 +11159,6 @@ semina insalata brasiliana,insalata,False
 seminare insalata sul balcone,insalata,False
 seminare insalata con che luna,insalata,False
 seminare insalata canasta,insalata,False
-semina insalata cicoria,insalata,False
 seminare insalata in cassetta,insalata,False
 seminare insalata in casa,insalata,False
 seminare insalata da cespo,insalata,False
@@ -11619,7 +11190,6 @@ seminare insalata inverno,insalata,False
 semina insalata in campo,insalata,False
 seminare l'insalata in vaso,insalata,False
 seminare insalata luna,insalata,False
-seminare insalata lattuga,insalata,False
 semina insalata luglio,insalata,False
 seminare l'insalata,insalata,False
 insalata semina luna calante,insalata,False
@@ -11795,12 +11365,8 @@ seminare il pero,"pero,pera",False
 semina per l'inverno,"pero,pera",False
 semina per lune,"pero,pera",False
 per seminare le patate,"pero,pera",False
-seminare lenticchie per bambini,"pero,pera",False
 per seminare la quercia,"pero,pera",False
 per seminare la lunaria,"pero,pera",False
-per seminare lattuga,"pero,pera",False
-semina lenticchie per ettaro,"pero,pera",False
-semina lupini per sovescio,"pero,pera",False
 semina libri per bambini,"pero,pera",False
 seminare un pero,"pero,pera",False
 seminare melograno,"melograno,melograni",False
@@ -11889,7 +11455,6 @@ seminare semi arancio,"arancio,arancia,aranci",False
 quando seminare semi arancio,"arancio,arancia,aranci",False
 seminare un arancio,"arancio,arancia,aranci",False
 quando seminare un arancio,"arancio,arancia,aranci",False
-semina zucca arancione,"arancio,arancia,aranci",False
 seminare limone,"limone,limoni",False
 seminare limoni in casa,"limone,limoni",False
 come seminare limone caviale,"limone,limoni",False
@@ -11944,9 +11509,7 @@ semina kiwi periodo,kiwi,False
 kiwi semina quando,kiwi,False
 semina semi kiwi,kiwi,False
 seminare un kiwi,kiwi,False
-seminare actinidia,actinidia,False
-seminare pianta kiwi,actinidia,False
-seminare un kiwi,actinidia,False
+seminare pianta kiwi,kiwi,False
 seminare nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
 seminare nocciolo avocado,"nocciolo,nocciola,nocciolina,noccioline",False
 seminare nocciolo albicocca,"nocciolo,nocciola,nocciolina,noccioline",False
@@ -11974,7 +11537,6 @@ seminare il nocciolo di pesca,"nocciolo,nocciola,nocciolina,noccioline",False
 seminare il nocciolo di albicocca,"nocciolo,nocciola,nocciolina,noccioline",False
 come seminare il nocciolo di avocado,"nocciolo,nocciola,nocciolina,noccioline",False
 come seminare il nocciolo della pesca,"nocciolo,nocciola,nocciolina,noccioline",False
-seminare noccioli limone,"nocciolo,nocciola,nocciolina,noccioline",False
 seminare nocciolo mango,"nocciolo,nocciola,nocciolina,noccioline",False
 seminare un nocciolo di mango,"nocciolo,nocciola,nocciolina,noccioline",False
 seminare nocciolo nespole,"nocciolo,nocciola,nocciolina,noccioline",False
@@ -12014,8 +11576,6 @@ seminare il pompelmo,"pompelmo,pompelmi",False
 semina pompelmo rosa,"pompelmo,pompelmi",False
 come seminare un pompelmo,"pompelmo,pompelmi",False
 seminare cotogno,cotogno,False
-semina melo cotogno giapponese,cotogno,False
-semina melo cotogno,cotogno,False
 semina cotogno semi,cotogno,False
 seminare noce,"noce,noci",False
 seminare noce di cocco,"noce,noci",False
@@ -12032,7 +11592,6 @@ seminare pianta noce moscata,"noce,noci",False
 semina noce pecan,"noce,noci",False
 semina noce periodo,"noce,noci",False
 seminare pesca noce,"noce,noci",False
-semina pesco noce,"noce,noci",False
 quando seminare noce,"noce,noci",False
 seminare una noce,"noce,noci",False
 seminare un noce,"noce,noci",False
@@ -12184,14 +11743,11 @@ fragole semina raccolta,"fragole,fragola",False
 seminare fragole semi,"fragole,fragola",False
 semina fragole 4 stagioni,"fragole,fragola",False
 fragole semina trapianto,"fragole,fragola",False
-seminare uva fragola,"fragole,fragola",False
 seminare una fragola,"fragole,fragola",False
 semina fragole vaso,"fragole,fragola",False
 quando seminare fragole in vaso,"fragole,fragola",False
 seminare fragoline,"fragoline,fragolina",False
 seminare fragoline di bosco,"fragoline,fragolina",False
-seminare e fragole,"fragoline,fragolina",False
-fragole semina e raccolto,"fragoline,fragolina",False
 come seminare le fragoline di bosco,"fragoline,fragolina",False
 quando seminare le fragoline di bosco,"fragoline,fragolina",False
 quando seminare fragoline di bosco,"fragoline,fragolina",False
@@ -12465,17 +12021,12 @@ semina menta periodo,menta,False
 quando seminare menta,menta,False
 seminare semi menta,menta,False
 semina menta vaso,menta,False
-seminare erba cipollina,erba cipollina,False
 come seminare erba cipollina,erba cipollina,False
 come seminare erba cipollina in vaso,erba cipollina,False
 come seminare erba cipollina orto,erba cipollina,False
-seminare erba cipollina in vaso,erba cipollina,False
 quando seminare erba cipollina in vaso,erba cipollina,False
-semina erba cipollina luna,erba cipollina,False
 seminare l'erba cipollina,erba cipollina,False
 come seminare l'erba cipollina in vaso,erba cipollina,False
-semina erba cipollina periodo,erba cipollina,False
-semina erba cipollina quando,erba cipollina,False
 semina erba cipollina vaso,erba cipollina,False
 seminare maggiorana,maggiorana,False
 maggiorana come seminare,maggiorana,False
@@ -12910,7 +12461,6 @@ come irrigare fagiolini,"fagiolini,fagiolino",False
 irrigazione dei fagiolini,"fagiolini,fagiolino",False
 irrigare i fagiolini,"fagiolini,fagiolino",False
 quando irrigare i fagiolini,"fagiolini,fagiolino",False
-irrigazione fagiolini nani,"fagiolini,fagiolino",False
 irrigare arachidi,"arachidi,arachide",False
 irrigare anguria,"anguria,angurie",False
 irrigazione angurie e meloni,"anguria,angurie",False
@@ -13003,7 +12553,6 @@ irrigare pak choi,pak choi,False
 irrigare verza,"verza,verze",False
 irrigare cardi,"cardi,cardo",False
 irrigare scarola,"scarola,scarole",False
-irrigare cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
 irrigare cavolo nero,"cavolo nero,cavoli nero",False
 irrigare batata,"batata,patata dolce",False
 irrigare kale,"kale,cavolo riccio",False
@@ -13040,7 +12589,6 @@ irrigazione per lumache,"pero,pera",False
 irrigazione per l'agricoltura,"pero,pera",False
 irrigazione per la vite,"pero,pera",False
 irrigazione per limone,"pero,pera",False
-irrigazione per lattuga,"pero,pera",False
 irrigazione per leylandii,"pero,pera",False
 irrigazione per le insalate,"pero,pera",False
 irrigare melograno,"melograno,melograni",False
@@ -13089,7 +12637,6 @@ quando irrigare il limone,"limone,limoni",False
 quanto irrigare il limone,"limone,limoni",False
 irrigazione pianta limone in vaso,"limone,limoni",False
 irrigazione pianta limone,"limone,limoni",False
-irrigazione per limone,"limone,limoni",False
 quanto irrigare limone,"limone,limoni",False
 irrigare kaki,"kaki,kako,caco,cachi",False
 irrigazione del kaki,"kaki,kako,caco,cachi",False
@@ -13104,9 +12651,7 @@ come irrigare kiwi,kiwi,False
 irrigazione del kiwi,kiwi,False
 irrigazione kiwi irrigatori,kiwi,False
 irrigazione pianta kiwi,kiwi,False
-irrigare actinidia,actinidia,False
-irrigazione antibrina actinidia,actinidia,False
-actinidia irrigazione a goccia,actinidia,False
+irrigazione antibrina kiwi,kiwi,False
 irrigare nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
 irrigazione del nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
 quanto irrigare nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
@@ -13161,7 +12706,6 @@ irrigazione per fragole,"fragole,fragola",False
 irrigazione piante fragole,"fragole,fragola",False
 quanto irrigare fragole,"fragole,fragola",False
 irrigazione su fragola,"fragole,fragola",False
-irrigare uva fragola,"fragole,fragola",False
 irrigare fragoline,"fragoline,fragolina",False
 irrigare more,"more,mora",False
 irrigare aronia,aronia,False
@@ -13370,7 +12914,6 @@ potatura anguria,"anguria,angurie",False
 potatura dell'anguria,"anguria,angurie",False
 potatura di anguria,"anguria,angurie",False
 potare l'anguria,"anguria,angurie",False
-potatura meloni angurie,"anguria,angurie",False
 potatura pianta anguria,"anguria,angurie",False
 potatura anguria video,"anguria,angurie",False
 potatura piselli,"piselli,pisello",False
@@ -13461,9 +13004,6 @@ potare la verza,"verza,verze",False
 potatura cardi,"cardi,cardo",False
 potare i cardi,"cardi,cardo",False
 potatura scarola,"scarola,scarole",False
-potatura cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-potatura dei cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-potare i cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
 potatura cavolo nero,"cavolo nero,cavoli nero",False
 potatura batata,"batata,patata dolce",False
 potatura kale,"kale,cavolo riccio",False
@@ -13690,7 +13230,6 @@ potatura pero mikovel,"pero,pera",False
 potatura pero martin sec,"pero,pera",False
 potatura pero melo,"pero,pera",False
 potatura pero mese,"pero,pera",False
-potare pero melo,"pero,pera",False
 potatura meccanica pero,"pero,pera",False
 pero potatura mandorlo,"pero,pera",False
 potatura pero periodo migliore,"pero,pera",False
@@ -13728,7 +13267,6 @@ potatura del pero a vaso,"pero,pera",False
 potatura pero william,"pero,pera",False
 potatura pero youtube,"pero,pera",False
 potatura del pero youtube,"pero,pera",False
-potatura melograno,"melograno,melograni",False
 potatura melograno a cespuglio,"melograno,melograni",False
 potatura melograno ad alberello,"melograno,melograni",False
 potatura melograno arbusto,"melograno,melograni",False
@@ -14155,7 +13693,6 @@ albicocco potatura e,"albicocco,albicocca,albicocchi",False
 potatura albicocco in estate,"albicocco,albicocca,albicocchi",False
 potatura albicocco periodo estivo,"albicocco,albicocca,albicocchi",False
 potare albicocco quando e come,"albicocco,albicocca,albicocchi",False
-potatura pesco e albicocco,"albicocco,albicocca,albicocchi",False
 potatura susino e albicocco,"albicocco,albicocca,albicocchi",False
 potatura albicocco febbraio,"albicocco,albicocca,albicocchi",False
 potatura albicocco foto,"albicocco,albicocca,albicocchi",False
@@ -14231,10 +13768,8 @@ potare susino a maggio,"susino,susini,susina",False
 potatura allevamento susino,"susino,susini,susina",False
 potatura autunnale susino,"susino,susini,susina",False
 potatura albero susino,"susino,susini,susina",False
-potatura albicocco susino,"susino,susini,susina",False
 potatura susino primo anno,"susino,susini,susina",False
 potatura susino 2 anni,"susino,susini,susina",False
-potatura susino e albicocco,"susino,susini,susina",False
 potare il susino a novembre,"susino,susini,susina",False
 potatura susino natura e bellezza,"susino,susini,susina",False
 potatura susino coscia di monaca,"susino,susini,susina",False
@@ -14582,7 +14117,6 @@ potatura limone produzione,"limone,limoni",False
 potare limone piccolo,"limone,limoni",False
 potare limone pianta,"limone,limoni",False
 potatura polloni limone,"limone,limoni",False
-potatura per limone,"limone,limoni",False
 potare pianta limone in vaso,"limone,limoni",False
 potatura limone quando,"limone,limoni",False
 potatura limone quattro stagioni,"limone,limoni",False
@@ -14808,8 +14342,7 @@ potatura kiwi autofertile,kiwi,False
 potatura kiwi albero,kiwi,False
 potare kiwi a novembre,kiwi,False
 potatura allevamento kiwi,kiwi,False
-potatura actinidia arguta,kiwi,False
-potatura actinidia arguta issai,kiwi,False
+potatura kiwi arguta issai,kiwi,False
 potatura kiwi baby,kiwi,False
 potatura kiwi luna calante o crescente,kiwi,False
 potatura kiwi in che mese,kiwi,False
@@ -14822,13 +14355,13 @@ kiwi potatura di formazione,kiwi,False
 potatura del kiwi pdf,kiwi,False
 potatura del kiwi youtube,kiwi,False
 potatura del kiwi i primi anni,kiwi,False
-actinidia potatura di allevamento,kiwi,False
-potatura dell'actinidia,kiwi,False
+kiwi potatura di allevamento,kiwi,False
+potatura dell'kiwi,kiwi,False
 potatura kiwi estiva,kiwi,False
 potatura kiwi epoca,kiwi,False
 potatura kiwi quando e come,kiwi,False
 potatura kiwi in estate,kiwi,False
-actinidia potatura estiva,kiwi,False
+kiwi potatura estiva,kiwi,False
 potatura kiwi foto,kiwi,False
 potatura kiwi fiori,kiwi,False
 potatura formazione kiwi,kiwi,False
@@ -14865,7 +14398,6 @@ potare kiwi periodo,kiwi,False
 potatura primaverile kiwi,kiwi,False
 potatura produzione kiwi,kiwi,False
 potatura pesante kiwi,kiwi,False
-potatura actinidia pdf,kiwi,False
 potatura kiwi quando,kiwi,False
 potatura kiwi quando potare,kiwi,False
 potatura kiwi quale periodo,kiwi,False
@@ -14887,72 +14419,9 @@ potare kiwi video,kiwi,False
 potatura kiwi youtube,kiwi,False
 potare kiwi youtube,kiwi,False
 potatura verde del kiwi youtube,kiwi,False
-potatura actinidia,actinidia,False
-potatura actinidia arguta,actinidia,False
-potatura actinidia arguta issai,actinidia,False
-potatura kiwi a pergola,actinidia,False
-potatura kiwi autofertile,actinidia,False
-potatura kiwi arguta,actinidia,False
-potatura kiwi a spalliera,actinidia,False
-potatura kiwi a cordone,actinidia,False
-potatura kiwi albero,actinidia,False
-potatura allevamento kiwi,actinidia,False
-potatura kiwi baby,actinidia,False
-actinidia potatura di allevamento,actinidia,False
-potatura dell'actinidia,actinidia,False
-potatura kiwi di 2 anni,actinidia,False
-potatura del kiwi,actinidia,False
-potatura del kiwi quando,actinidia,False
-potatura del kiwi maschio,actinidia,False
-kiwi potatura di formazione,actinidia,False
-potatura del kiwi pdf,actinidia,False
-potatura del kiwi youtube,actinidia,False
-potatura del kiwi i primi anni,actinidia,False
-actinidia potatura estiva,actinidia,False
-potatura kiwi estiva,actinidia,False
-potatura kiwi epoca,actinidia,False
-potatura kiwi foto,actinidia,False
-potatura kiwi fiori,actinidia,False
-potatura formazione kiwi,actinidia,False
-potatura kiwi giallo,actinidia,False
-potatura kiwi giovani,actinidia,False
-potatura kiwi invernale,actinidia,False
-potatura kiwi in estate,actinidia,False
-potatura kiwi in che mese,actinidia,False
-potatura kiwi luna calante o crescente,actinidia,False
-potatura kiwi luna,actinidia,False
-potatura kiwi linfa,actinidia,False
-potare l'actinidia,actinidia,False
-potatura la kiwi,actinidia,False
-potatura kiwi maschio,actinidia,False
-potatura kiwi mese,actinidia,False
-potatura kiwi maggio,actinidia,False
-potatura kiwi mikovel,actinidia,False
-potatura mini kiwi,actinidia,False
-potatura kiwi nano,actinidia,False
-potatura kiwi nord italia,actinidia,False
-potatura actinidia pdf,actinidia,False
-potatura kiwi periodo,actinidia,False
-potatura kiwi primo anno,actinidia,False
-potatura kiwi pdf,actinidia,False
-potatura kiwi piccolo,actinidia,False
-potatura kiwi periodo migliore,actinidia,False
-potatura pianta kiwi,actinidia,False
-potatura primaverile kiwi,actinidia,False
-potatura produzione kiwi,actinidia,False
-potatura pesante kiwi,actinidia,False
-potatura kiwi quando farla,actinidia,False
-potatura kiwi quando,actinidia,False
-potatura kiwi quando e come,actinidia,False
-potatura kiwi quale periodo,actinidia,False
-potatura kiwi quando si pota,actinidia,False
-potatura kiwi rami,actinidia,False
-potatura kiwi secondo anno,actinidia,False
-potatura kiwi stagione,actinidia,False
-potatura actinidia video,actinidia,False
-potatura kiwi video,actinidia,False
-potatura kiwi verde,actinidia,False
-potatura kiwi youtube,actinidia,False
+potare l'kiwi,kiwi,False
+potatura kiwi periodo migliore,kiwi,False
+potatura pianta kiwi,kiwi,False
 potatura nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
 potatura nocciolo a cespuglio,"nocciolo,nocciola,nocciolina,noccioline",False
 potatura nocciolo abbandonato,"nocciolo,nocciola,nocciolina,noccioline",False
@@ -15098,10 +14567,8 @@ potare cotogno giapponese,cotogno,False
 periodo potatura cotogno giapponese,cotogno,False
 potare il cotogno,cotogno,False
 potare il cotogno giapponese,cotogno,False
-potatura melo cotogno,cotogno,False
 potatura melo cotogno periodo,cotogno,False
 potare melo cotogno periodo,cotogno,False
-potatura del melo cotogno,cotogno,False
 potatura cotogno periodo,cotogno,False
 potatura cotogno piccolo,cotogno,False
 potare cotogno periodo,cotogno,False
@@ -15135,7 +14602,6 @@ potatura noce pesco,"noce,noci",False
 potatura noce pecan,"noce,noci",False
 potatura noce pdf,"noce,noci",False
 potatura pianta noce,"noce,noci",False
-potatura pesco noce quando,"noce,noci",False
 potatura produzione noce,"noce,noci",False
 potatura noce adulto periodo,"noce,noci",False
 periodo potatura pesco noce,"noce,noci",False
@@ -15226,7 +14692,6 @@ potatura siepe corbezzolo,corbezzolo,False
 tutorial potatura corbezzolo,corbezzolo,False
 potatura kumquat,kumquat,False
 kumquat bonsai potatura,kumquat,False
-potatura kumquat mandarino cinese,kumquat,False
 potatura del kumquat,kumquat,False
 potare il kumquat,kumquat,False
 potatura kumquat video,kumquat,False
@@ -15434,7 +14899,6 @@ potatura uva americana,uva,False
 potatura uva a pergola,uva,False
 potatura uva apirene,uva,False
 potare uva americana,uva,False
-potatura vite uva americana,uva,False
 potatura invernale uva americana,uva,False
 potatura uva fragola a pergola,uva,False
 potare l'uva americana,uva,False
@@ -15442,7 +14906,6 @@ potatura uva da tavola a spalliera,uva,False
 potatura uva da tavola a pergola,uva,False
 potatura uva bianca,uva,False
 potatura uva black magic,uva,False
-potatura vite uva bianca,uva,False
 potatura uva fragola bianca,uva,False
 potatura uva crimson,uva,False
 potatura uva cardinal,uva,False
@@ -15471,7 +14934,6 @@ potatura uva isabella,uva,False
 potare uva in vaso,uva,False
 potatura invernale uva fragola,uva,False
 potatura invernale uva da tavola,uva,False
-potatura vite uva italia,uva,False
 potare l'uva,uva,False
 potare l'uva fragola,uva,False
 potare l'uva da tavola,uva,False
@@ -15490,7 +14952,6 @@ come potare uva pizzutella,uva,False
 potare uva quando,uva,False
 quando potatura uva,uva,False
 potatura uva regina,uva,False
-potatura vite uva regina,uva,False
 potatura uva spina,uva,False
 potatura uva sultanina,uva,False
 potatura uva supernova,uva,False
@@ -15507,8 +14968,6 @@ potatura uva vittoria,uva,False
 potatura uva verde,uva,False
 potatura uva vendemmia,uva,False
 potare uva vite,uva,False
-potatura vite uva fragola,uva,False
-potatura vite uva da tavola,uva,False
 potatura uva zibibbo,uva,False
 potatura nespolo,"nespolo,nespola,nespole",False
 potatura nespolo albero,"nespolo,nespola,nespole",False
@@ -15647,8 +15106,6 @@ potatura verde mirtillo,"mirtillo,mirtilli",False
 youtube potatura mirtilli,"mirtillo,mirtilli",False
 potatura fragole,"fragole,fragola",False
 potatura fragole autunno,"fragole,fragola",False
-potatura uva fragola a pergola,"fragole,fragola",False
-potatura uva fragola bianca,"fragole,fragola",False
 potatura delle fragole,"fragole,fragola",False
 potatura delle fragole in vaso,"fragole,fragola",False
 potatura fragole in vaso,"fragole,fragola",False
@@ -15656,20 +15113,12 @@ potare fragole inverno,"fragole,fragola",False
 come potare fragole in vaso,"fragole,fragola",False
 potare le fragole,"fragole,fragola",False
 potatura pianta fragole,"fragole,fragola",False
-potatura uva fragola periodo,"fragole,fragola",False
-potatura uva fragola quando,"fragole,fragola",False
 quando potatura fragole,"fragole,fragola",False
 potatura fragole rifiorenti,"fragole,fragola",False
 potatura fragole rampicanti,"fragole,fragola",False
 potatura stoloni fragole,"fragole,fragola",False
-potatura uva fragola,"fragole,fragola",False
-potatura uva fragola video,"fragole,fragola",False
-potatura uva fragola youtube,"fragole,fragola",False
-potare uva fragola periodo,"fragole,fragola",False
-potatura vite fragola,"fragole,fragola",False
 potatura verde fragola,"fragole,fragola",False
 potatura fragoline,"fragoline,fragolina",False
-potatura vite fragola,"fragoline,fragolina",False
 potatura more,"more,mora",False
 potatura albero more,"more,mora",False
 potatura more con spine,"more,mora",False
@@ -15923,7 +15372,6 @@ potare menta pianta,menta,False
 menta potatura periodo,menta,False
 potatura menta quando,menta,False
 potatura menta romana,menta,False
-potatura erba cipollina,erba cipollina,False
 erba cipollina in vaso potatura,erba cipollina,False
 potatura maggiorana,maggiorana,False
 potatura della maggiorana,maggiorana,False
@@ -15940,7 +15388,6 @@ timo e potatura,timo,False
 epoca potatura timo,timo,False
 potare fiori timo,timo,False
 potatura timo inverno,timo,False
-potare timo limone,timo,False
 timo potatura periodo,timo,False
 potatura timo quando,timo,False
 potatura timo serpillo,timo,False
@@ -16085,7 +15532,6 @@ potatura lavanda ottobre,lavanda,False
 potatura lavanda periodo,lavanda,False
 potatura lavanda primavera,lavanda,False
 potatura lavanda provenza,lavanda,False
-potatura lavanda per talea,lavanda,False
 potare lavanda primavera,lavanda,False
 lavanda pinnata potatura,lavanda,False
 potatura lavanda quando,lavanda,False
@@ -16375,7 +15821,6 @@ malattia di peperoni,"peperoni,peperone",False
 malattia delle peperoni,"peperoni,peperone",False
 malattie piante di peperoni,"peperoni,peperone",False
 malattie delle piante dei peperoni,"peperoni,peperone",False
-malattie peperoni e melanzane,"peperoni,peperone",False
 malattie peperoni foto,"peperoni,peperone",False
 malattie fungine peperone,"peperoni,peperone",False
 malattie del peperone giallo,"peperoni,peperone",False
@@ -16457,7 +15902,6 @@ malattia delle fave favismo sintomi,"fave,fava",False
 malattie fungine delle fave,"fave,fava",False
 malattie piante di fave,"fave,fava",False
 malattie della pianta delle fave,"fave,fava",False
-malattie fave piselli,"fave,fava",False
 fave malattie pianta,"fave,fava",False
 malattia per fave,"fave,fava",False
 malattie cappuccio,"cappuccio,cappucci",False
@@ -16470,7 +15914,6 @@ malattie fungine del cavolfiore,"cavolfiore,cavolfiori",False
 malattie fungine cavolfiore,"cavolfiore,cavolfiori",False
 malattie cavolfiore pianta,"cavolfiore,cavolfiori",False
 malattie broccoli,"broccoli,broccolo",False
-malattie dei cavoli broccoli,"broccoli,broccolo",False
 malattie dei broccoli,"broccoli,broccolo",False
 malattie del broccolo foto,"broccoli,broccolo",False
 malattie del broccolo romano,"broccoli,broccolo",False
@@ -16566,7 +16009,6 @@ malattie barbabietole,"barbabietole,barbabietola",False
 malattie barbabietola da zucchero,"barbabietole,barbabietola",False
 malattie foglie barbabietola,"barbabietole,barbabietola",False
 malattie cicoria,cicoria,False
-malattie della cicoria catalogna,cicoria,False
 malattie della cicoria,cicoria,False
 malattie della cicoria selvatica,cicoria,False
 malattie fungine cicoria,cicoria,False
@@ -16576,7 +16018,6 @@ malattie del porro,"porro,porri",False
 porro malattia della pelle,"porro,porri",False
 malattie pak choi,pak choi,False
 malattie verza,"verza,verze",False
-malattie dei cavoli verza,"verza,verze",False
 malattie della verza,"verza,verze",False
 verza e malattie,"verza,verze",False
 malattie cardi,"cardi,cardo",False
@@ -16586,15 +16027,6 @@ malattie foglie cardo,"cardi,cardo",False
 malattie piante cardo,"cardi,cardo",False
 malattie scarola,"scarola,scarole",False
 malattie della scarola,"scarola,scarole",False
-malattie cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-malattie dei cavoli broccoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-malattie dei cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-malattie dei cavoli verza,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-malattia di cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-malattie fungine dei cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-malattie delle piante dei cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-malattie e cure dei cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-cavoli malattia pianta,"cavolo rapa,cavoli rapa,rapa,cavoli",False
 malattie cavolo nero,"cavolo nero,cavoli nero",False
 malattie batata,"batata,patata dolce",False
 malattie kale,"kale,cavolo riccio",False
@@ -16713,7 +16145,6 @@ malattia per lombosciatalgia,"pero,pera",False
 malattia per lavoratori autonomi,"pero,pera",False
 malattia per le colf,"pero,pera",False
 malattie del pero macchie,"pero,pera",False
-malattie del melo pero,"pero,pera",False
 pero melo malattie,"pero,pera",False
 malattie del pero nano,"pero,pera",False
 malattie del pero rimedi naturali,"pero,pera",False
@@ -16729,7 +16160,6 @@ melograno malattie corteccia,"melograno,melograni",False
 melograno malattie cardiovascolari,"melograno,melograni",False
 melograno malattie e cure,"melograno,melograni",False
 malattie melograno da fiore,"melograno,melograni",False
-malattie del melograno,"melograno,melograni",False
 malattie del melograno in vaso,"melograno,melograni",False
 malattia di melograno,"melograno,melograni",False
 malattie pianta di melograno,"melograno,melograni",False
@@ -17130,13 +16560,7 @@ malattie kiwi pianta,kiwi,False
 malattia psa kiwi,kiwi,False
 malattia radici kiwi,kiwi,False
 malattie kiwi foglie secche,kiwi,False
-malattie actinidia,actinidia,False
-malattie dell'actinidia,actinidia,False
-malattie del kiwi,actinidia,False
-malattie kiwi foglie gialle,actinidia,False
-malattie kiwi foglie,actinidia,False
-malattie fiori kiwi,actinidia,False
-malattie kiwi pianta,actinidia,False
+malattie dell'kiwi,kiwi,False
 malattie nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
 malattie nocciolo contorto,"nocciolo,nocciola,nocciolina,noccioline",False
 malattie del nocciolo in campania,"nocciolo,nocciola,nocciolina,noccioline",False
@@ -17186,9 +16610,6 @@ malattie cotogno,cotogno,False
 malattie del cotogno,cotogno,False
 cotogno malattie delle foglie,cotogno,False
 malattia foglie cotogno,cotogno,False
-malattie melo cotogno,cotogno,False
-malattie del melo cotogno,cotogno,False
-malattie del pero cotogno,cotogno,False
 malattie noce,"noce,noci",False
 malattie noce albero,"noce,noci",False
 malattie del noce antracnosi,"noce,noci",False
@@ -17206,7 +16627,6 @@ malattia noce moscata,"noce,noci",False
 malattie noce pecan,"noce,noci",False
 malattie pesco noce,"noce,noci",False
 malattia pianta noce,"noce,noci",False
-malattie pianta pesco noce,"noce,noci",False
 malattie del noce e rimedi,"noce,noci",False
 noce malattie tronco,"noce,noci",False
 malattie mandorlo,"mandorlo,mandorla",False
@@ -17364,7 +16784,6 @@ malattie uva pizzutella,uva,False
 malattia pianta uva,uva,False
 malattie uva spina,uva,False
 malattie su uva da tavola,uva,False
-malattia vite uva fragola,uva,False
 malattie nespolo,"nespolo,nespola,nespole",False
 malattia albero nespolo,"nespolo,nespola,nespole",False
 malattia corteccia nespolo,"nespolo,nespola,nespole",False
@@ -17428,16 +16847,13 @@ malattie piante fragole,"fragole,fragola",False
 malattie per fragole,"fragole,fragola",False
 prevenzione malattie fragole,"fragole,fragola",False
 malattia fragole foglie secche,"fragole,fragola",False
-malattie uva fragola,"fragole,fragola",False
 malattie fragoline,"fragoline,fragolina",False
 malattie fragoline di bosco,"fragoline,fragolina",False
 malattie delle fragoline di bosco,"fragoline,fragolina",False
-fragole malattie e rimedi,"fragoline,fragolina",False
 malattie more,"more,mora",False
 more malattie cardiovascolari,"more,mora",False
 malattie delle more senza spine,"more,mora",False
 malattie piante di more,"more,mora",False
-malattie gelso albero delle more,"more,mora",False
 malattie delle more di rovo,"more,mora",False
 malattie aronia,aronia,False
 malattie ribes,ribes,False
@@ -17570,7 +16986,6 @@ menta malattie foglie gialle,menta,False
 malattie foglie menta,menta,False
 malattie menta piperita,menta,False
 malattia menta pianta,menta,False
-malattie erba cipollina,erba cipollina,False
 malattie maggiorana,maggiorana,False
 malattie della maggiorana,maggiorana,False
 malattia del maggiorana,maggiorana,False
@@ -17581,7 +16996,6 @@ malattie autoimmuni timo,timo,False
 malattia al timo,timo,False
 malattie del timo,timo,False
 malattie del timo pianta,timo,False
-malattie del timo limone,timo,False
 malattie autoimmuni del timo,timo,False
 timo e malattie autoimmuni,timo,False
 malattie della ghiandola timo,timo,False
@@ -17889,8 +17303,6 @@ parassiti della verza,"verza,verze",False
 parassiti cardi,"cardi,cardo",False
 parassiti dei cardi,"cardi,cardo",False
 parassiti scarola,"scarola,scarole",False
-parassiti cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-parassiti dei cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
 parassiti cavolo nero,"cavolo nero,cavoli nero",False
 parassiti batata,"batata,patata dolce",False
 parassiti kale,"kale,cavolo riccio",False
@@ -18059,7 +17471,6 @@ succo di limone parassiti intestinali,"limone,limoni",False
 parassiti limone neri,"limone,limoni",False
 parassiti limone rimedi naturali,"limone,limoni",False
 parassiti pianta limone,"limone,limoni",False
-parassiti per limoni,"limone,limoni",False
 eliminare parassiti pianta limone,"limone,limoni",False
 parassiti sul limone,"limone,limoni",False
 parassiti su limone,"limone,limoni",False
@@ -18089,9 +17500,6 @@ parassiti kiwi,kiwi,False
 parassiti del kiwi,kiwi,False
 parassiti della pianta di kiwi,kiwi,False
 parassiti e kiwi,kiwi,False
-parassiti actinidia,actinidia,False
-parassiti del kiwi,actinidia,False
-parassiti e kiwi,actinidia,False
 parassiti nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
 parassiti del nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
 parassiti neri nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
@@ -18112,15 +17520,12 @@ parassiti pianta pompelmo,"pompelmo,pompelmi",False
 parassiti cotogno,cotogno,False
 parassiti del cotogno,cotogno,False
 insetti parassiti del cotogno,cotogno,False
-parassiti melo cotogno,cotogno,False
-parassiti del melo cotogno,cotogno,False
 parassiti noce,"noce,noci",False
 parassiti del noce,"noce,noci",False
 insetti parassiti del noce,"noce,noci",False
 malattie e parassiti del noce,"noce,noci",False
 parassiti foglie noce,"noce,noci",False
 noce nera parassiti,"noce,noci",False
-parassiti del pesco noce,"noce,noci",False
 parassiti mandorlo,"mandorlo,mandorla",False
 parassiti del mandorlo,"mandorlo,mandorla",False
 insetti parassiti del mandorlo,"mandorlo,mandorla",False
@@ -18149,7 +17554,6 @@ parassita di vite,vite,False
 insetti parassiti della vite,vite,False
 parassiti foglie vite,vite,False
 insetti parassiti vite,vite,False
-parassiti per la vite,vite,False
 parassita vite melata,vite,False
 parassiti pianta vite,vite,False
 parassiti su vite,vite,False
@@ -18192,7 +17596,6 @@ insetti parassiti fragole,"fragole,fragola",False
 parassiti pianta fragola,"fragole,fragola",False
 parassiti radici fragole,"fragole,fragola",False
 parassiti sulle fragole,"fragole,fragola",False
-parassiti uva fragola,"fragole,fragola",False
 parassiti fragoline,"fragoline,fragolina",False
 parassiti fragoline di bosco,"fragoline,fragolina",False
 parassiti more,"more,mora",False
@@ -18278,7 +17681,6 @@ parassiti menta piperita,menta,False
 menta per parassiti,menta,False
 parassiti menta rimedi,menta,False
 parassiti della menta rimedi naturali,menta,False
-parassiti erba cipollina,erba cipollina,False
 erba cipollina e parassiti,erba cipollina,False
 parassiti neri erba cipollina,erba cipollina,False
 parassiti su erba cipollina,erba cipollina,False
@@ -18342,7 +17744,6 @@ aglio crudo parassiti,aglio,False
 aglio cura parassiti,aglio,False
 aglio con parassiti,aglio,False
 parassiti dell'aglio,aglio,False
-parassiti dell'olivo,aglio,False
 parassiti aglio e,aglio,False
 parassiti e aglio,aglio,False
 parassiti foglie aglio,aglio,False
@@ -18631,15 +18032,6 @@ insetti cardi,"cardi,cardo",False
 insetto del cardo,"cardi,cardo",False
 insetti sui cardi,"cardi,cardo",False
 insetti scarola,"scarola,scarole",False
-insetti cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-insetti dei cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-cavoli e insetti,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-insetti che mangiano i cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-insetti che attaccano i cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-insetti neri cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-insetti sui cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-insetti bianchi sui cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-insetti neri sui cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
 insetti cavolo nero,"cavolo nero,cavoli nero",False
 insetti batata,"batata,patata dolce",False
 insetti kale,"kale,cavolo riccio",False
@@ -18821,7 +18213,6 @@ insetti che attaccano il limone,"limone,limoni",False
 insetto minatore limone,"limone,limoni",False
 insetti neri limone,"limone,limoni",False
 insetti pianta limone,"limone,limoni",False
-insetti per limone,"limone,limoni",False
 insetti sul limone,"limone,limoni",False
 insetti su limone,"limone,limoni",False
 insetti verdi sul limone,"limone,limoni",False
@@ -18849,9 +18240,6 @@ insetti del gelso,gelso,False
 insetti kiwi,kiwi,False
 insetti pianta kiwi,kiwi,False
 insetti sui kiwi,kiwi,False
-insetti actinidia,actinidia,False
-insetti pianta kiwi,actinidia,False
-insetti sui kiwi,actinidia,False
 insetti nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
 insetti del nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
 nocciolo insetti dannosi,"nocciolo,nocciola,nocciolina,noccioline",False
@@ -19069,7 +18457,6 @@ menta pianta insetti,menta,False
 insetti menta rimedi,menta,False
 insetti sulla menta,menta,False
 insetti menta verdi,menta,False
-insetti erba cipollina,erba cipollina,False
 erba cipollina contro insetti,erba cipollina,False
 erba cipollina insetti neri,erba cipollina,False
 insetti neri su erba cipollina,erba cipollina,False
@@ -19632,7 +19019,6 @@ raccolta fagiolini a mano,"fagiolini,fagiolino",False
 raccolta e conservazione fagiolini,"fagiolini,fagiolino",False
 raccolta dei fagiolini,"fagiolini,fagiolino",False
 raccolta di fagiolini,"fagiolini,fagiolino",False
-raccolta del fagiolino,"fagiolini,fagiolino",False
 periodo di raccolta dei fagiolini,"fagiolini,fagiolino",False
 data raccolta fagiolini,"fagiolini,fagiolino",False
 epoca raccolta fagiolini,"fagiolini,fagiolino",False
@@ -19851,7 +19237,6 @@ semina e raccolta delle fave,"fave,fava",False
 tempo di raccolta delle fave,"fave,fava",False
 data raccolta fave,"fave,fava",False
 raccolta semi di fave,"fave,fava",False
-raccolta fave e piselli,"fave,fava",False
 raccolta fave fresche,"fave,fava",False
 macchina raccolta fave,"fave,fava",False
 raccolta fave orto,"fave,fava",False
@@ -19877,7 +19262,6 @@ stagione di raccolta del cavolfiore,"cavolfiore,cavolfiori",False
 epoca di raccolta del cavolfiore,"cavolfiore,cavolfiori",False
 data raccolta cavolfiore,"cavolfiore,cavolfiori",False
 mese di raccolta del cavolfiore,"cavolfiore,cavolfiori",False
-epoca raccolta cavolfiore,"cavolfiore,cavolfiori",False
 cavolfiore la raccolta,"cavolfiore,cavolfiori",False
 raccolta cavolfiore mese,"cavolfiore,cavolfiori",False
 raccolta cavolfiore periodo,"cavolfiore,cavolfiori",False
@@ -20153,7 +19537,6 @@ tempi raccolta barbabietole,"barbabietole,barbabietola",False
 video raccolta barbabietole 2020,"barbabietole,barbabietola",False
 video raccolta barbabietole,"barbabietole,barbabietola",False
 raccolta cicoria,cicoria,False
-raccolta cicoria catalogna,cicoria,False
 raccolta cicoria da taglio,cicoria,False
 raccolta della cicoria,cicoria,False
 raccolta semi di cicoria,cicoria,False
@@ -20204,23 +19587,9 @@ raccolta cardi selvatici,"cardi,cardo",False
 raccolta scarola,"scarola,scarole",False
 raccolta insalata scarola,"scarola,scarole",False
 raccolta semi scarola,"scarola,scarole",False
-raccolta cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-raccolta cavoletti di bruxelles,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-raccolta dei cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-raccolta di cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-tempo di raccolta delle cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-epoca raccolta cavolfiore,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-macchina raccolta cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-raccolta cavoli neri,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-raccolta cavoli periodo,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-raccolta cavoli rossi,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-raccolta semi cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-raccolta cavoli verza,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-video raccolta cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
 raccolta cavolo nero,"cavolo nero,cavoli nero",False
 raccolta batata,"batata,patata dolce",False
 raccolta della batata,"batata,patata dolce",False
-raccolta di patate,"batata,patata dolce",False
 periodo raccolta batata,"batata,patata dolce",False
 raccolta kale,"kale,cavolo riccio",False
 raccolta rabarbaro,rabarbaro,False
@@ -20244,7 +19613,6 @@ raccolta differenziata insalata,insalata,False
 semina e raccolta dell'insalata,insalata,False
 raccolta insalata gentilina,insalata,False
 raccolta insalata iceberg,insalata,False
-raccolta insalata lattuga,insalata,False
 una volta raccolta l'insalata ricresce,insalata,False
 insalata lollo raccolta,insalata,False
 raccolta meccanica insalata,insalata,False
@@ -20255,7 +19623,6 @@ raccolta insalata quando,insalata,False
 raccolta insalata riccia,insalata,False
 insalata raccolta ricresce,insalata,False
 l'insalata raccolta ricresce,insalata,False
-raccolta insalata scarola,insalata,False
 insalata salanova raccolta,insalata,False
 stagione raccolta insalata,insalata,False
 tempo raccolta insalata,insalata,False
@@ -20291,7 +19658,6 @@ raccolta scorzonera,scorzonera,False
 scorzonera periodo raccolta,scorzonera,False
 raccolta luffa,luffa,False
 raccolta della luffa,luffa,False
-raccolta zucca luffa,luffa,False
 raccolta lupini,lupini,False
 lupini raccolta e conservazione,lupini,False
 raccolta dei lupini,lupini,False
@@ -20335,7 +19701,6 @@ raccolta brassica,brassica,False
 raccolta agretti,agretti,False
 raccolta degli agretti,agretti,False
 agretti periodo raccolta,agretti,False
-raccolta cavoletti di bruxelles,"cavoletti di bruxelles,cavoletti",False
 raccolta melo,"melo,mela",False
 raccolta melo cotogno,"melo,mela",False
 la raccolta del melo,"melo,mela",False
@@ -20817,34 +20182,6 @@ raccolta kiwi verona,kiwi,False
 raccolta kiwi veneto,kiwi,False
 periodo raccolta kiwi veneto,kiwi,False
 video raccolta kiwi,kiwi,False
-raccolta actinidia,actinidia,False
-raccolta kiwi con luna calante,actinidia,False
-raccolta kiwi cisterna di latina,actinidia,False
-raccolta dei kiwi,actinidia,False
-raccolta delle kiwi,actinidia,False
-kiwi raccolta e potatura,actinidia,False
-raccolta kiwi francia,actinidia,False
-raccolta kiwi friuli,actinidia,False
-raccolta kiwi giallo,actinidia,False
-raccolta kiwi italia,actinidia,False
-raccolta kiwi in veneto,actinidia,False
-raccolta kiwi luna calante o crescente,actinidia,False
-raccolta kiwi lavoro,actinidia,False
-raccolta kiwi latina,actinidia,False
-raccolta kiwi mese,actinidia,False
-raccolta meccanica kiwi,actinidia,False
-raccolta kiwi nord italia,actinidia,False
-raccolta kiwi nuova zelanda,actinidia,False
-raccolta kiwi periodo,actinidia,False
-raccolta polline kiwi,actinidia,False
-raccolta potatura kiwi,actinidia,False
-raccolta kiwi quando,actinidia,False
-raccolta kiwi rovigo,actinidia,False
-raccolta kiwi trentino,actinidia,False
-raccolta kiwi ticino,actinidia,False
-raccolta kiwi verona,actinidia,False
-raccolta kiwi veneto,actinidia,False
-raccolta kiwi vita in campagna,actinidia,False
 raccolta nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
 raccolta del nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
 raccolta differenziata noccioli frutta,"nocciolo,nocciola,nocciolina,noccioline",False
@@ -20869,7 +20206,6 @@ periodo di raccolta del pompelmo,"pompelmo,pompelmi",False
 pompelmo periodo raccolta,"pompelmo,pompelmi",False
 raccolta pompelmo rosa,"pompelmo,pompelmi",False
 raccolta cotogno,cotogno,False
-raccolta melo cotogno,cotogno,False
 periodo raccolta cotogno,cotogno,False
 raccolta noce,"noce,noci",False
 periodo raccolta noce di cocco,"noce,noci",False
@@ -21223,18 +20559,13 @@ raccolta fragole treviglio,"fragole,fragola",False
 raccolta fragole trentino,"fragole,fragola",False
 raccolta fragole ticino,"fragole,fragola",False
 tempi raccolta fragole,"fragole,fragola",False
-raccolta uva fragola,"fragole,fragola",False
 raccolta fragole verona,"fragole,fragola",False
 video raccolta fragole,"fragole,fragola",False
 raccolta fragole zevio,"fragole,fragola",False
 raccolta fragoline,"fragoline,fragolina",False
 raccolta fragoline di bosco,"fragoline,fragolina",False
-raccolta fragole emilia romagna,"fragoline,fragolina",False
-fragole raccolta e conservazione,"fragoline,fragolina",False
-raccolta e fragole,"fragoline,fragolina",False
 raccolta more,"more,mora",False
 raccolta more di rovo,"more,mora",False
-raccolta more di gelso,"more,mora",False
 raccolta di more,"more,mora",False
 raccolta delle more in inglese,"more,mora",False
 periodo di raccolta delle more,"more,mora",False
@@ -21393,7 +20724,6 @@ menta pianta raccolta,menta,False
 raccolta semi menta,menta,False
 stagione raccolta menta,menta,False
 tempo raccolta menta,menta,False
-raccolta erba cipollina,erba cipollina,False
 erba cipollina raccolta e conservazione,erba cipollina,False
 erba cipollina coltivazione e raccolta,erba cipollina,False
 tempo di raccolta erba cipollina,erba cipollina,False
@@ -21576,7 +20906,6 @@ raccolta semi di lavanda,lavanda,False
 raccolta dei fiori di lavanda,lavanda,False
 lavanda raccolta e conservazione,lavanda,False
 lavanda raccolta e potatura,lavanda,False
-raccolta lavanda per olio essenziale,lavanda,False
 raccolta fiori lavanda,lavanda,False
 raccolta foglie lavanda,lavanda,False
 raccolta lavanda sale san giovanni,lavanda,False
@@ -21598,7 +20927,6 @@ raccolta lavanda provenza,lavanda,False
 raccolta lavanda periodo,lavanda,False
 raccolta lavanda provenza 2020,lavanda,False
 raccolta lavanda prezzi,lavanda,False
-raccolta per lavanda,lavanda,False
 raccolta lavanda quando,lavanda,False
 raccolta lavanda selvatica,lavanda,False
 raccolta semi lavanda,lavanda,False
@@ -21967,7 +21295,6 @@ fiori con radici a cipolla,"cipolla,cipolle",False
 fiori di cipolla rossa al forno,"cipolla,cipolle",False
 fiori con cipolla,"cipolla,cipolle",False
 fiori cipolla san cesareo,"cipolla,cipolle",False
-fiori di cipolla con patate,"cipolla,cipolle",False
 fiori di zucca con cipolla o aglio,"cipolla,cipolle",False
 fiore cipolla di tropea,"cipolla,cipolle",False
 fiore cipolla di mare,"cipolla,cipolle",False
@@ -22016,7 +21343,6 @@ fiori di zucca e alici pizza,"zucca,zucche",False
 fiori zucca al forno ripieni,"zucca,zucche",False
 fiori zucca a frittata,"zucca,zucche",False
 fiori di zucca e alici mozzarella,"zucca,zucche",False
-fiori di zucchina al forno croccanti,"zucca,zucche",False
 fiori di zucchina al forno in pastella,"zucca,zucche",False
 fiori zucca congelare,"zucca,zucche",False
 fiori zucca come cucinarli,"zucca,zucche",False
@@ -22041,7 +21367,6 @@ fiori di zucca in pastella al forno,"zucca,zucche",False
 fiori di zucca e gamberetti,"zucca,zucche",False
 fiori di zucca e ricotta,"zucca,zucche",False
 fiori di zucca e pancetta,"zucca,zucche",False
-fiori di zucca e zucchine,"zucca,zucche",False
 fiori di zucca e salsiccia,"zucca,zucche",False
 fiori di zucca e gamberetti giallozafferano,"zucca,zucche",False
 fiori di zucca e speck,"zucca,zucche",False
@@ -22091,8 +21416,6 @@ fiori di zucca ripieni kcal,"zucca,zucche",False
 fiori di zucca al chilo,"zucca,zucche",False
 fiori zucca light,"zucca,zucche",False
 fiori di zucca e lattuga,"zucca,zucche",False
-fiori di zucchina lessi,"zucca,zucche",False
-fiori di zucchina leggeri,"zucca,zucche",False
 fiori di zucca lecce,"zucca,zucche",False
 fiori di zucca light in padella,"zucca,zucche",False
 fiori di zucca light in friggitrice ad aria,"zucca,zucche",False
@@ -22113,7 +21436,6 @@ fiori zucca non fritti,"zucca,zucche",False
 fiori di zucca e nichel,"zucca,zucche",False
 fiori di zucca e nduja,"zucca,zucche",False
 fiori nella zucca,"zucca,zucche",False
-fiori di zucca nella pastella,"zucca,zucche",False
 fiori di zucca non fritti,"zucca,zucche",False
 fiori di zucca nella friggitrice ad aria,"zucca,zucche",False
 pesto fiori di zucca e noci,"zucca,zucche",False
@@ -22124,7 +21446,6 @@ fiori di zucca e orata,"zucca,zucche",False
 fiori di zucca e olive nere,"zucca,zucche",False
 fiori zucche ornamentali,"zucca,zucche",False
 fiori zucche ornamentali sono commestibili,"zucca,zucche",False
-fiori di zucchina orto,"zucca,zucche",False
 fiori di zucca origine,"zucca,zucche",False
 fiori di zucca ozzano,"zucca,zucche",False
 fiori di zucca odeon tv,"zucca,zucche",False
@@ -22180,7 +21501,6 @@ fiori di zucca e uova in padella,"zucca,zucche",False
 fiori di zucca e uova al forno,"zucca,zucche",False
 fiori zucca uovo,"zucca,zucche",False
 fiori zucca umido,"zucca,zucche",False
-fiori di zucchina uovo,"zucca,zucche",False
 pasta fiori di zucca e uova,"zucca,zucche",False
 fiori di zucca utilizzo,"zucca,zucche",False
 fiori zucca senza uova,"zucca,zucche",False
@@ -22191,10 +21511,7 @@ fiori di zucca e verdura,"zucca,zucche",False
 fiori zucca valori nutrizionali,"zucca,zucche",False
 fiori zucca video,"zucca,zucche",False
 fiori di zucca e verza,"zucca,zucche",False
-fiori di zucchina valori nutrizionali,"zucca,zucche",False
 fiori di zucchina vegan,"zucca,zucche",False
-fiori di zucchina veloci,"zucca,zucche",False
-fiori di zucchina wikipedia,"zucca,zucche",False
 pasta fiori di zucca e wurstel,"zucca,zucche",False
 fiori di zucca wok,"zucca,zucche",False
 fiori di zucca fritti wikipedia,"zucca,zucche",False
@@ -22206,8 +21523,6 @@ fiori di zucca fritti youtube,"zucca,zucche",False
 fiori di zucca ripieni youtube,"zucca,zucche",False
 fiori di zucca ricette youtube,"zucca,zucche",False
 risotto fiori di zucca youtube,"zucca,zucche",False
-fiori di zucca e zucchine in padella,"zucca,zucche",False
-fiori di zucca e zucchine al forno,"zucca,zucche",False
 fiori di zucca e zucchine frittata,"zucca,zucche",False
 risotto fiori di zucca e zucchine,"zucca,zucche",False
 pasta fiori di zucca e zucchine cremosa,"zucca,zucche",False
@@ -22416,7 +21731,6 @@ fiori di zucca piselli,"piselli,pisello",False
 fiori finocchi,"finocchi,finocchio",False
 fiori asparagi,"asparagi,asparago",False
 fiori con asparagi,"asparagi,asparago",False
-fiori rompere carte carciofi asparagi,"asparagi,asparago",False
 asparagi fiori di zucca,"asparagi,asparago",False
 fiori di asparago,"asparagi,asparago",False
 fiore del asparagi,"asparagi,asparago",False
@@ -22448,7 +21762,6 @@ fiori lattuga,"lattuga,lattughe",False
 fiori di lattuga,"lattuga,lattughe",False
 fiori di lattuga virosa,"lattuga,lattughe",False
 fiore della lattuga,"lattuga,lattughe",False
-fiori di zucca e lattuga,"lattuga,lattughe",False
 fiori fave,"fave,fava",False
 fiori di fave,"fave,fava",False
 fiori delle fave,"fave,fava",False
@@ -22781,18 +22094,6 @@ fiori tipo cardo,"cardi,cardo",False
 fiore un cardo,"cardi,cardo",False
 cardo fiore viola,"cardi,cardo",False
 fiori scarola,"scarola,scarole",False
-fiori cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-cavolfiori al forno,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-fiori a cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-fiori simili ai cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-cavoli con fiori,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-fiori di cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-fiori dei cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-cavolfiore e fiori di zucca,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-fiori capra e cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-fiori cavoli ornamentali,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-cavolfiori rosa,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-fiori che sembrano cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
 fiori cavolo nero,"cavolo nero,cavoli nero",False
 fiori batata,"batata,patata dolce",False
 fiore di batata,"batata,patata dolce",False
@@ -22833,7 +22134,6 @@ fiori di zucca nell'insalata,insalata,False
 fiori per insalata,insalata,False
 fiori pianta insalata,insalata,False
 insalata pasta fiori di zucca,insalata,False
-fiori di rucola insalata,insalata,False
 fiori che sembrano insalata,insalata,False
 fiori zucca insalata,insalata,False
 fiori okra,okra,False
@@ -23045,7 +22345,6 @@ fiore pero selvatico,"pero,pera",False
 pero fiore significato,"pero,pera",False
 pero senza fiori,"pero,pera",False
 spedizione fiori pero,"pero,pera",False
-fiori melograno,"melograno,melograni",False
 fiore melograno albero,"melograno,melograni",False
 fiori a melograno,"melograno,melograni",False
 fiori di melograno asilo nido roma,"melograno,melograni",False
@@ -23891,23 +23190,8 @@ kiwi fiori maschili e femminili,kiwi,False
 kiwi fiori maschili,kiwi,False
 fiori kiwi pianta,kiwi,False
 kiwi senza fiori,kiwi,False
-fiori actinidia,actinidia,False
-fiori con kiwi,actinidia,False
-kiwi fiori cadono,actinidia,False
-fiori dell'actinidia,actinidia,False
-fiori di kiwi,actinidia,False
-fiori del kiwi,actinidia,False
-fiori dei kiwi,actinidia,False
-fiori da kiwi,actinidia,False
-actinidia fiori maschili e femminili,actinidia,False
-fiori kiwi femmina,actinidia,False
-fiori kiwi frutti,actinidia,False
-kiwi fiori femminili,actinidia,False
-kiwi fiori gialli,actinidia,False
-fiore maschile actinidia,actinidia,False
-kiwi fiori maschili e femminili,actinidia,False
-kiwi fiori maschili,actinidia,False
-fiori kiwi pianta,actinidia,False
+fiori dell'kiwi,kiwi,False
+fiore maschile kiwi,kiwi,False
 fiori nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
 fiori nocciolo contorto,"nocciolo,nocciola,nocciolina,noccioline",False
 fiori del nocciolo contorto,"nocciolo,nocciola,nocciolina,noccioline",False
@@ -23961,8 +23245,6 @@ i fiori del cotogno,cotogno,False
 cotogno dai fiori rosa,cotogno,False
 fiori cotogno da fiore,cotogno,False
 fiore cotogno giapponese,cotogno,False
-fiori melo cotogno,cotogno,False
-fiori di melo cotogno,cotogno,False
 fiori di pesco cotogno,cotogno,False
 cotogno fiore significato,cotogno,False
 fiori noce,"noce,noci",False
@@ -23980,7 +23262,6 @@ fiore femminile noce,"noce,noci",False
 fiori noce moscata,"noce,noci",False
 fiori pianta noce moscata,"noce,noci",False
 fiore pianta noce,"noce,noci",False
-fiori del pesco noce,"noce,noci",False
 noce pecan fiori,"noce,noci",False
 noce vomica fiori,"noce,noci",False
 fiori mandorlo,"mandorlo,mandorla",False
@@ -24133,7 +23414,6 @@ uva e fiori,uva,False
 fiori uva fragola,uva,False
 fiori piante uva,uva,False
 uva spina fiori,uva,False
-fiori uva vite,uva,False
 fiori nespolo,"nespolo,nespola,nespole",False
 fiore del nespolo comune,"nespolo,nespola,nespole",False
 fiori di nespolo,"nespolo,nespola,nespole",False
@@ -24239,7 +23519,6 @@ fragola fiori sambuco,"fragole,fragola",False
 fiore con fragole torte,"fragole,fragola",False
 tagliare fiori fragole,"fragole,fragola",False
 togliere fiori fragole,"fragole,fragola",False
-fiori uva fragola,"fragole,fragola",False
 fiori fragoline,"fragoline,fragolina",False
 fiori fragoline di bosco,"fragoline,fragolina",False
 fragoline con fiori gialli,"fragoline,fragolina",False
@@ -24549,7 +23828,6 @@ fiore giallo menta,menta,False
 fiori menta piperita,menta,False
 fiori menta pianta,menta,False
 menta fiore periodo,menta,False
-fiori di zucca patate menta,menta,False
 menta fiori rossi,menta,False
 fiori di zucca ricotta menta,menta,False
 fiori di zucca ripieni menta,menta,False
@@ -24568,10 +23846,8 @@ fiori menta uso,menta,False
 menta fiori viola,menta,False
 fiori verde menta,menta,False
 i fiori della menta vanno tolti,menta,False
-fiori erba cipollina,erba cipollina,False
 erba cipollina fiori bianchi,erba cipollina,False
 erba cipollina con fiori bianchi,erba cipollina,False
-fiori erba cipollina commestibili,erba cipollina,False
 erba cipollina con fiori,erba cipollina,False
 fiori di erba cipollina,erba cipollina,False
 fiori di erba cipollina ricette,erba cipollina,False
@@ -24582,9 +23858,6 @@ i fiori dell'erba cipollina sono commestibili,erba cipollina,False
 erba cipollina tagliare i fiori,erba cipollina,False
 pianta erba cipollina fiori,erba cipollina,False
 erba cipollina quando fa i fiori,erba cipollina,False
-fiori erba cipollina ricette,erba cipollina,False
-fiori erba cipollina tagliare,erba cipollina,False
-fiori erba cipollina vanno tagliati,erba cipollina,False
 uso fiori erba cipollina,erba cipollina,False
 fiori zucca erba cipollina,erba cipollina,False
 fiori maggiorana,maggiorana,False
@@ -24747,9 +24020,7 @@ giallo zafferano fiori fritti,zafferano,False
 fiore zafferano giallo,zafferano,False
 fiore zafferano selvatico giallo,zafferano,False
 fiori fritti giallo zafferano,zafferano,False
-fiori zucca giallo zafferano,zafferano,False
 zafferano fiori per grammo,zafferano,False
-fiori di zucchine giallo zafferano,zafferano,False
 fiori di sambuco giallo zafferano,zafferano,False
 fiore zafferano immagini,zafferano,False
 fiori di zafferano immagini,zafferano,False
@@ -24886,7 +24157,6 @@ borragine fiori o foglie,borragine,False
 borragine fiori gialli,borragine,False
 fiori borragine immagini,borragine,False
 fiori di borragine in cucina,borragine,False
-fiori di borragine in insalata,borragine,False
 fiori di borragine in inglese,borragine,False
 borragine linguaggio fiori,borragine,False
 fiori borragine mangiare,borragine,False
@@ -26589,7 +25859,6 @@ semi di fave giganti,"fave,fava",False
 semi di fave precoci,"fave,fava",False
 semi di fave bio,"fave,fava",False
 semi delle fave,"fave,fava",False
-semi fave e piselli,"fave,fava",False
 semi di fave fai da te,"fave,fava",False
 semi fave giganti,"fave,fava",False
 germinazione semi fave,"fave,fava",False
@@ -26847,9 +26116,6 @@ peperoncino semi o buccia,"peperoncini,peperoncino",False
 semi olio peperoncino,"peperoncini,peperoncino",False
 semi di peperoncino online,"peperoncini,peperoncino",False
 acquisto semi peperoncino online,"peperoncini,peperoncino",False
-semi peperoncini piccanti,"peperoncini,peperoncino",False
-semi peperoncini piu piccanti,"peperoncini,peperoncino",False
-semi peperoncini piccanti online,"peperoncini,peperoncino",False
 semi peperoncino piantare,"peperoncini,peperoncino",False
 semi peperoncino più piccante al mondo,"peperoncini,peperoncino",False
 semi peperoncino piccante calabrese,"peperoncini,peperoncino",False
@@ -27131,7 +26397,6 @@ semi barbabietola zucchero,"barbabietole,barbabietola",False
 semi cicoria,cicoria,False
 amazon semi cicoria,cicoria,False
 semi di cicoria belga,cicoria,False
-semi di cicoria catalogna,cicoria,False
 semi di cicoria comune,cicoria,False
 semi di cicoria come piantarli,cicoria,False
 semi di cicoria come fare,cicoria,False
@@ -27209,15 +26474,6 @@ semi scarola,"scarola,scarole",False
 semi di scarola,"scarola,scarole",False
 semi de scarole,"scarola,scarole",False
 piantare semi scarola,"scarola,scarole",False
-semi cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-autoproduzione semi cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-semi di cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-semi di cavoli neri,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-piantare semi di cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-distanza semi cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-germinazione semi cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-cavoli neri semi,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-semi cavoli ornamentali,"cavolo rapa,cavoli rapa,rapa,cavoli",False
 semi cavolo nero,"cavolo nero,cavoli nero",False
 semi batata,"batata,patata dolce",False
 semi di batata,"batata,patata dolce",False
@@ -27393,8 +26649,6 @@ semi luffa spugna,luffa,False
 semi di luffa semina,luffa,False
 semi di luffa dove trovarli,luffa,False
 luffa semi vendita,luffa,False
-semi zucca luffa,luffa,False
-semi di zucca luffa,luffa,False
 semi lupini,lupini,False
 semi lupino bianco,lupini,False
 semi di lupino calorie,lupini,False
@@ -27659,7 +26913,6 @@ semi arancio amaro,"arancio,arancia,aranci",False
 semi albero arancio,"arancio,arancia,aranci",False
 semi di arancio amaro,"arancio,arancia,aranci",False
 germinazione semi arancio amaro,"arancio,arancia,aranci",False
-semi cavolfiore arancione,"arancio,arancia,aranci",False
 semi di arancio come piantarli,"arancio,arancia,aranci",False
 semi arance da piantare,"arancio,arancia,aranci",False
 semi d'arancio significato,"arancio,arancia,aranci",False
@@ -27695,7 +26948,6 @@ semi limone caviale,"limone,limoni",False
 semi limone cotone,"limone,limoni",False
 semi limone come piantarli,"limone,limoni",False
 i semi di limone come si piantano,"limone,limoni",False
-semi cetriolo limone,"limone,limoni",False
 limoni semicanditi,"limone,limoni",False
 i semi di limone sono commestibili,"limone,limoni",False
 semi di limone con cotone,"limone,limoni",False
@@ -27771,7 +27023,6 @@ semi limone vaso,"limone,limoni",False
 semi di limone velenosi,"limone,limoni",False
 semi di limone vendita,"limone,limoni",False
 piantare i semi di limone in vaso,"limone,limoni",False
-semi zucchine limone,"limone,limoni",False
 semi kaki,"kaki,kako,caco,cachi",False
 semi cachi aperti,"kaki,kako,caco,cachi",False
 semi cachi aperti significato,"kaki,kako,caco,cachi",False
@@ -27838,7 +27089,6 @@ germinazione semi fico,"fico,fico",False
 germogliare semi fico,"fico,fico",False
 semi di fico d'india coltivazione,"fico,fico",False
 semi per fico d'india,"fico,fico",False
-semi di cappero nel fico,"fico,fico",False
 piantare semi fico d'india,"fico,fico",False
 semi fichi d'india si mangiano,"fico,fico",False
 semi gelso,gelso,False
@@ -27884,8 +27134,7 @@ semi kiwi svezzamento,kiwi,False
 kiwi senza semi,kiwi,False
 i semi del kiwi si mangiano,kiwi,False
 togliere semi kiwi,kiwi,False
-semi actinidia,actinidia,False
-actinidia polygama semi,actinidia,False
+kiwi polygama semi,kiwi,False
 semi nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
 semi nocciolo di pesca,"nocciolo,nocciola,nocciolina,noccioline",False
 semi di nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
@@ -28142,7 +27391,6 @@ semi pianta noce moscata,"noce,noci",False
 olio di semi noce moscata,"noce,noci",False
 semi marathon nice,"noce,noci",False
 olio semi noce,"noce,noci",False
-semi pesca noce,"noce,noci",False
 noce semi proprietà,"noce,noci",False
 semi mandorlo,"mandorlo,mandorla",False
 semi di mandorlo,"mandorlo,mandorla",False
@@ -28243,7 +27491,6 @@ uva semi estratto liofilizzato,uva,False
 estratto semi uva,uva,False
 estratto semi uva effetti collaterali,uva,False
 uva e semi,uva,False
-semi di pompelmo e uva ursi,uva,False
 semi uva fanno male,uva,False
 semi uva fragola,uva,False
 semi di uva fragola,uva,False
@@ -28419,7 +27666,6 @@ semi fragole rifiorenti,"fragole,fragola",False
 semi fragole 4 stagioni,"fragole,fragola",False
 semi di fragole selvatiche,"fragole,fragola",False
 fragole senza semi,"fragole,fragola",False
-semi uva fragola,"fragole,fragola",False
 semi fragole viola,"fragole,fragola",False
 semi di fragola vendita,"fragole,fragola",False
 vendita semi fragole,"fragole,fragola",False
@@ -28690,11 +27936,9 @@ semi di prezzemolo da seminare,prezzemolo,False
 semi basilico,basilico,False
 semi basilico amazon,basilico,False
 semi basilico artico,basilico,False
-semi basilico al limone,basilico,False
 semi a basilico,basilico,False
 vendita semi basilico artico,basilico,False
 semi di basilico a foglia larga,basilico,False
-semi di basilico al limone,basilico,False
 semi di basilico in acqua,basilico,False
 quanto tempo impiegano i semi di basilico a germogliare,basilico,False
 quanto ci mettono i semi di basilico a germogliare,basilico,False
@@ -28745,7 +27989,6 @@ semi di basilico in cucina,basilico,False
 semi di basilico immagini,basilico,False
 semi di basilico in ovatta,basilico,False
 basilico in semi,basilico,False
-semi basilico limone,basilico,False
 semi basilico ligure,basilico,False
 semi basilico liquirizia,basilico,False
 semi basilico lidl,basilico,False
@@ -28767,7 +28010,6 @@ semi basilico piantare,basilico,False
 semi basilico pra,basilico,False
 semi basilico proprieta,basilico,False
 semi per basilico,basilico,False
-semi prezzemolo basilico,basilico,False
 semi di basilico prezzi,basilico,False
 semi basilico quanto tempo,basilico,False
 semi basilico quando raccoglierli,basilico,False
@@ -28799,7 +28041,6 @@ semi menta,menta,False
 semi a menta,menta,False
 semi di menta amazon,menta,False
 menta acquatica semi,menta,False
-semi basilico menta,menta,False
 tinta suvinil semi brilho menta,menta,False
 semi menta cioccolato,menta,False
 semi di menta come piantarli,menta,False
@@ -28829,7 +28070,6 @@ mentha pulegium semi,menta,False
 prelevare semi menta,menta,False
 semi menta romana,menta,False
 semi menta tempo,menta,False
-semi erba cipollina,erba cipollina,False
 tempo crescita semi erba cipollina,erba cipollina,False
 semi di erba cipollina,erba cipollina,False
 semi di erba cipollina quando seminare,erba cipollina,False
@@ -28865,7 +28105,6 @@ semi di timo vendita,timo,False
 germinazione semi timo,timo,False
 piantare semi di timo in vaso,timo,False
 timo in semi,timo,False
-semi timo limone,timo,False
 semi di timo per dimagrire,timo,False
 semi di timo prezzo,timo,False
 semi di timo da piantare,timo,False
@@ -28986,7 +28225,6 @@ semi di zafferano vendita,zafferano,False
 semi di zafferano da piantare,zafferano,False
 semi falso zafferano,zafferano,False
 chia semi giallo zafferano,zafferano,False
-semi di zucca giallo zafferano,zafferano,False
 pane ai semi giallo zafferano,zafferano,False
 semi di chia giallo zafferano,zafferano,False
 panini ai semi giallo zafferano,zafferano,False
@@ -29247,7 +28485,6 @@ semi coriandolo proprietà,coriandolo,False
 coriandolo semi pesce,coriandolo,False
 semi di coriandolo per dimagrire,coriandolo,False
 semi di coriandolo per semina,coriandolo,False
-semi di coriandolo prezzemolo,coriandolo,False
 coriandolo semi da piantare,coriandolo,False
 coriandolo pianta semi,coriandolo,False
 semi di coriandolo quando piantarli,coriandolo,False
@@ -29300,7 +28537,6 @@ semi di zenzero santo stefano belbo,zenzero,False
 semi di zenzero santo stefano belbo orari,zenzero,False
 zenzero semi di lino,zenzero,False
 semi di zenzero da piantare,zenzero,False
-carote zenzero semi di sesamo,zenzero,False
 zenzero e semi di lino,zenzero,False
 zenzero pianta semi,zenzero,False
 semi dragoncello,dragoncello,False
@@ -30027,7 +29263,6 @@ asparagi varietà eros,"asparagi,asparago",False
 quante varieta di asparagi esistono,"asparagi,asparago",False
 asparago varietà grande,"asparagi,asparago",False
 asparago varieta giove,"asparagi,asparago",False
-varieta patata asparago,"asparagi,asparago",False
 varietà asparagi selvatici,"asparagi,asparago",False
 varietà asparago verde,"asparagi,asparago",False
 varietà spinaci,"spinaci,spinacio",False
@@ -30193,7 +29428,6 @@ varietà barbabietola da zucchero,"barbabietole,barbabietola",False
 varietà di barbabietole,"barbabietole,barbabietola",False
 varietà cicoria,cicoria,False
 varietà di cicoria bianca cruciverba,cicoria,False
-varietà di cicoria catalogna,cicoria,False
 varietà di cicoria - cruciverba,cicoria,False
 varieta di cicoria con foglie lunghe,cicoria,False
 cicoria catalogna varietà,cicoria,False
@@ -30217,17 +29451,6 @@ tutte le varietà di cardi,"cardi,cardo",False
 varietà scarola,"scarola,scarole",False
 varietà di scarola,"scarola,scarole",False
 varieta di indivia scarola,"scarola,scarole",False
-varietà cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-varietà di cavoli cappucci,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-varietà di cavoli cruciverba,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-varietà di cavoli per condire la pasta,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-varietà di cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-varietà di cavoli neri,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-una varietà di cavoli,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-quante varietà di cavoli esistono,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-varietà cavoli foto,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-varietà di cavoli foto,"cavolo rapa,cavoli rapa,rapa,cavoli",False
-varietà cavoli invernali,"cavolo rapa,cavoli rapa,rapa,cavoli",False
 varietà cavolo nero,"cavolo nero,cavoli nero",False
 varietà batata,"batata,patata dolce",False
 varieta ipomea batatas,"batata,patata dolce",False
@@ -30247,7 +29470,6 @@ varietà di insalata,insalata,False
 varietà di insalata estiva,insalata,False
 varietà di insalata invernale,insalata,False
 varietà di insalata da taglio,insalata,False
-varietà pomodori da insalata,insalata,False
 varietà di pomodori da insalata,insalata,False
 varietà insalata estiva,insalata,False
 insalata varietà foto,insalata,False
@@ -30255,7 +29477,6 @@ varietà insalata invernale,insalata,False
 insalata varietà iceberg,insalata,False
 varietà insalata orto,insalata,False
 varieta insalata primaverile,insalata,False
-varietà pomodori insalata,insalata,False
 varietà piante insalata,insalata,False
 varietà di pomodori per insalata,insalata,False
 varieta insalata verde,insalata,False
@@ -30906,21 +30127,9 @@ varietà kiwi rosso,kiwi,False
 kiwi varietà sungold,kiwi,False
 varietà kiwi verde,kiwi,False
 varieta di kiwi verde,kiwi,False
-varietà actinidia,actinidia,False
-varietà kiwi autofertili,actinidia,False
-kiwi varietà arguta,actinidia,False
-actinidia arguta varietà,actinidia,False
-kiwi varietà bruno,actinidia,False
-varieta di actinidia,actinidia,False
-varietà di kiwi giallo,actinidia,False
-varietà dei kiwi,actinidia,False
-nuove varietà di actinidia,actinidia,False
-varietà kiwi giallo,actinidia,False
-kiwi varietà hayward,actinidia,False
-kiwi varieta jenny,actinidia,False
-varietà kiwi rosso,actinidia,False
-kiwi varietà sungold,actinidia,False
-varieta kiwi verde,actinidia,False
+kiwi arguta varietà,kiwi,False
+varieta di kiwi,kiwi,False
+varieta kiwi verde,kiwi,False
 varietà nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
 varietà nocciolo autofertile,"nocciolo,nocciola,nocciolina,noccioline",False
 varietà di nocciolo,"nocciolo,nocciola,nocciolina,noccioline",False
@@ -30954,8 +30163,6 @@ tutte le varieta di pompelmo,"pompelmo,pompelmi",False
 pompelmo rosa varietà,"pompelmo,pompelmi",False
 varietà cotogno,cotogno,False
 cotogno giapponese varietà,cotogno,False
-varieta di melo cotogno,cotogno,False
-varietà di pero cotogno,cotogno,False
 varietà noce,"noce,noci",False
 varietà albero noce,"noce,noci",False
 noce varietà chandler,"noce,noci",False
@@ -31139,7 +30346,6 @@ varietà uva vino,uva,False
 varieta uva viognier,uva,False
 uva varietà vittoria,uva,False
 uva varietà vermentino,uva,False
-varietà di vite uva da tavola,uva,False
 varietà di uva da vino bianco,uva,False
 uva varieta zibibbo,uva,False
 varietà nespolo,"nespolo,nespola,nespole",False
@@ -31248,13 +30454,10 @@ fragole varietà san andreas,"fragole,fragola",False
 fragola varietà sibilla,"fragole,fragola",False
 varietà fragole tardive,"fragole,fragola",False
 varietà fragole unifere,"fragole,fragola",False
-varietà uva fragola,"fragole,fragola",False
 varietà fragoline,"fragoline,fragolina",False
 varietà fragoline di bosco,"fragoline,fragolina",False
-fragole varieta eva,"fragoline,fragolina",False
 varietà more,"more,mora",False
 more varietà chester,"more,mora",False
-varietà more di gelso,"more,mora",False
 varietà di more,"more,mora",False
 varieta di more senza spine,"more,mora",False
 le migliori varietà di more,"more,mora",False
@@ -31363,7 +30566,6 @@ varietà dragoncello,dragoncello,False
 varietà crescione,crescione,False
 varietà melissa,melissa,False
 varietà di melissa,melissa,False
-varieta fragola melissa,melissa,False
 varietà lavanda,lavanda,False
 varietà di lavanda resistente al freddo,lavanda,False
 quante varietà di lavanda ci sono,lavanda,False
@@ -31375,7 +30577,6 @@ varietà di lavanda dentata,lavanda,False
 quante varietà di lavanda esistono,lavanda,False
 varieta tipi di lavanda,lavanda,False
 lavanda diverse varietà,lavanda,False
-varietà lavanda per olio essenziale,lavanda,False
 lavanda varietà grosso,lavanda,False
 lavanda giardino varietà,lavanda,False
 lavanda varietà lavandino,lavanda,False
