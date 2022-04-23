@@ -35,9 +35,11 @@ def is_ol_but_not_a_menu(tag):
 
 
 def get_tag_heading(tag):
-    return tag.find("div", {"role": "heading", "aria-level": "3"}) or tag.find("div", {"role": "heading"}).select(
-        "span span"
-    )
+    title = tag.find("div", {"role": "heading", "aria-level": "3"}) or tag.find("div", {"role": "heading"})
+    if title:
+        return title.select("span span")
+    else:
+        return tag.select_one(".hgKElc")
 
 
 def get_tag_description(tag):
