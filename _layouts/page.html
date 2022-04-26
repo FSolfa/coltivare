@@ -14,7 +14,7 @@ layout: default
         <h1 class="post-title">{{ page.title | escape }}</h1>
     </header>
 
-    <picture>
+    <picture class="mb-4 d-block">
         <source srcset="{{page.image | replace: 'jpg', 'webp' }}" type="image/webp" />
         <img src="{{page.image}}" class="card-img-top" alt="{{page.alt}}" />
     </picture>
