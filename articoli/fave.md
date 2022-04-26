@@ -181,3 +181,7 @@ E' possibile raccogliere 5-7 kg di fave fresche per ogni 10 mq circa di terreno.
 
 Il momento migliore per piantare questo raccolto dipende dalla zona climatica in cui vivi. La fava è una pianta annuale simile a un cespuglio e i suoi frutti hanno bisogno di circa 4-5 mesi tra la semina e il raccolto. Prima di produrre baccelli, la pianta mostra piccoli fiori bianchi con macchioline marroni.
 
+## Come concimare fave?
+
+Per quanto riguarda le concimazioni, la cultivar delle fave non richiede apporti di sostanza organica. Anzi, una concimazione organica in pre-semina potrebbe essere dannosa. Come abbiamo più volte ripetuto, le fave hanno la capacità di fissare l'azoto nel terreno.
+

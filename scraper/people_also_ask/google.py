@@ -27,9 +27,8 @@ HEADERS = {
     "Chrome/84.0.4147.135 Safari/537.36"
 }
 SESSION = requests.Session()
-NB_TIMES_RETRY = 3
 NB_REQUESTS_LIMIT = os.environ.get("RELATED_QUESTION_NBREQUESTS_LIMIT", 25)
-NB_REQUESTS_DURATION_LIMIT = os.environ.get("RELATED_QUESTION_DURATION_LIMIT", 30)  # seconds
+NB_REQUESTS_DURATION_LIMIT = os.environ.get("RELATED_QUESTION_DURATION_LIMIT", 60)  # seconds
 
 logging.basicConfig()
 semaphore = CallingSemaphore(NB_REQUESTS_LIMIT, NB_REQUESTS_DURATION_LIMIT)
