@@ -66,7 +66,7 @@ def create_long_tail_keywords():
         df_queries = pd.concat([df_queries, pd.DataFrame(long_tail_keywords)])
 
         # remove duplicated rows
-        df_queries = df_queries.drop_duplicates(keep="first")
+        df_queries = df_queries.drop_duplicates(keep="last")
         df_queries.to_csv("data/queries.csv", index=False)
 
     print("Generated {} long tail keywords".format(len(long_tail_keywords)))
