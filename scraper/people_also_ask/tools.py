@@ -69,7 +69,7 @@ class CallingSemaphore(ContextDecorator):
         while len(self.called_timestamps) > self.nb_call_times_limit:
             now = time.time()
             self.called_timestamps = list(filter(lambda x: now - x < self.expired_time, self.called_timestamps))
-            time.sleep(0.35)
+            time.sleep(0.25)
         self.called_timestamps.append(time.time())
 
     def __exit__(self, *exc):
