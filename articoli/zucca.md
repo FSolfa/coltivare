@@ -336,3 +336,19 @@ Quando fioriscono le piante di zucca? Il tempo effettivo dipenderà da quando li
 
 Se la zucca intera è acerba, giratela periodicamente in modo che possa maturare su tutti i lati. Se un lato è acerbo, girate il lato verde verso il sole e farà il lavoro.
 
+## Quando è arrivata la zucca in Italia?
+
+Le sue origini sono incerte ma alcune testimonianze dimostrano come la storia della zucca comincia più di 8000 anni. Questo ortaggio raggiunse l'Italia in tempi antichi e sin da subito trovò nel nostro Paese un ambiente di crescita ideale, tanto che già i romani ne esaltavano le qualità.
+
+## Chi ha portato la zucca in Italia?
+
+ La zucca fu conosciuta dagli europei solo dopo la conquista delle Americhe quando Cristoforo Colombo portò in Italia diverse varietà di zucca; né arrivano varietà più disparate e di tutti i tipi: bislunga o rotonda, grande o piccola, verde, gialla, striata, rossa.
+
+## Chi ha scoperto la zucca?
+
+Questa pianta pare venne importata dai popoli fenici, i quali cominciarono a coltivarla lungo le foci dei fiumi italiani. Di lì a poco, la coltura della lagenaria si ampliò abbastanza in fretta, tanto che, prima gli etruschi e poi gli antichi romani, vennero rapiti dal sapore e dalle qualità di questo frutto.
+
+## Che origini ha la zucca?
+
+Le origini della coltivazione della zucca sono incerte. La testimonianza più antica proviene dal Messico, dove sono stati trovati semi di zucca risalenti al 7000/6000 a.C.
+

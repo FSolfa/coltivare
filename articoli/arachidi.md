@@ -73,3 +73,32 @@ La germinazione dei semi di arachide impiega circa 3-5 giorni. Per stimolare la 
 
 Le arachidi hanno un alto contenuto di olio e finiranno per diventare rancide. Per prolungare la durata di conservazione delle arachidi, conservarle in un contenitore ermetico in frigorifero per diversi mesi o nel congelatore per diversi anni.
 
+## Come si piantano arachidi?
+
+ Si considera una distanza di 25 -30 cm tra le piante, tra una fila e l'altra meglio lasciare invece almeno 40-50 cm. Per anticipare la raccolta eventualmente si può seminare in vasetti in coltura protetta a febbraio e poi trapiantare a marzo/aprile nell'orto.
+
+## Quando si seminano le noccioline americane?
+
+L'arachide si riproduce per seme. La semina deve essere effettuata nel periodo dell'anno compreso tra Aprile e Maggio, quindi in piena primavera, a mano oppure a macchina, a file o a postarelle, adagiando il seme nel terreno ad una profondità di circa 3 o 5 centimetri.
+
+## Dove crescono le piante di arachidi?
+
+La pianta dell'arachide, originaria del Sud America (fra Brasile e Bolivia), oggi viene allevata soprattutto in Cina, India, Nigeria e Stati Uniti, anche se le varietà più pregiate si coltivano in Israele: il guscio del frutto è giallo tendente all'oro ed è molto resistente alla tostatura.
+
+## In che periodo si raccolgono le arachidi?
+
+ La raccolta delle arachidi avviene a settembre/ottobre, quando maturano i semi. Dalla semina passano 100/130 giorni, tipicamente seminando ad aprile si raccoglie a settembre, se impiantiamo a maggio ci aspettiamo a ottobre di avere le nostre noccioline.
+
+## Come si chiama l'albero delle arachidi?
+
+L'arachide (Arachis hypogaea L., 1753) è una pianta erbacea appartenente alla famiglia delle Fabaceae (o Leguminose), originaria del Sud America ampiamente coltivata per i suoi semi eduli.
+
+## Quale burro di arachidi comprare al supermercato?
+
+|                    Il migliore|                nu3 Peanut Butter|Miglior prezzo 14,94 €|
+|-------------------------------|---------------------------------|----------------------|
+|Miglior rapporto qualità/prezzo|      Calvé Peanut Butter morbido| Miglior prezzo 8,20 €|
+|                               |Body Attack Peanut Butter Crunchy|Miglior prezzo 14,89 €|
+|                               |     Calvé Burro d'arachidi Light| Miglior prezzo 7,04 €|
+|                               |      Skippy Creamy peanut butter| Miglior prezzo 5,99 €|
+
