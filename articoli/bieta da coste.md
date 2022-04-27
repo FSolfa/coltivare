@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Bieta da coste
-image: /images/bieta da coste.jpg
+image: /images/bieta-da-coste.jpg
 alt: pianta di bieta da coste
 ---
 

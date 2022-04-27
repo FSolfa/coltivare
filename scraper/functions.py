@@ -143,7 +143,7 @@ def create_mds():
             md += "---\n"
             md += "layout: article\n"
             md += "title: {}\n".format(plant["plant"].capitalize())
-            md += "image: /images/{}.jpg\n".format(plant["plant"])
+            md += "image: /images/{}.jpg\n".format(plant["plant"].replace(" ", "-"))
             md += "alt: pianta di {}\n".format(plant["plant"])
             md += "---\n\n"
 

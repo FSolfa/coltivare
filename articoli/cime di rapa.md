@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Cime di rapa
-image: /images/cime di rapa.jpg
+image: /images/cime-di-rapa.jpg
 alt: pianta di cime di rapa
 ---
 
