@@ -5,7 +5,7 @@ import pandas as pd
 # create_long_tail_keywords()
 
 # create question and answer
-create_qa(1000)
+# create_qa(1000)
 
 # create markdown pages
-# create_mds()
+create_mds()
