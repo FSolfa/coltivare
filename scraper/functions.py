@@ -98,6 +98,8 @@ def create_qa():
             if qa:
                 df_qa = pd.concat([df_qa, pd.DataFrame([qa])])
 
+            time.sleep(30)
+
         # remove duplicated rows by id
         df_qa = df_qa.drop_duplicates(subset=["id"], keep="first")
         df_qa.to_csv("data/qa.csv", index=False)
@@ -106,7 +108,7 @@ def create_qa():
         df_queries.loc[df_queries["question"] == query["question"], ["imported"]] = True
         df_queries.to_csv("data/queries.csv", index=False)
 
-    time.sleep(10)
+        time.sleep(60)
 
     # recursively call
     create_qa()
