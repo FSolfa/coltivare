@@ -1,9 +1,11 @@
 from people_also_ask.google import get_simple_answer, get_related_questions
 from bs4 import BeautifulSoup
+from itertools import cycle
 import pandas as pd
 import requests
 import time
 import hashlib
+
 
 # crate create long tail keywords
 def create_long_tail_keywords():
@@ -75,22 +77,18 @@ def create_long_tail_keywords():
 # build qa database
 def create_qa():
 
-    print("Start scraping")
-
-    size = 10
     df_queries = pd.read_csv("data/queries.csv")
     df_qa = pd.read_csv("data/qa.csv")
 
     # get only the doesn't imported with size params
     df_queries_filtered = df_queries[df_queries["imported"] == False]
-    df_queries_filtered = df_queries_filtered.head(size)
     index = 0
 
     for i, query in df_queries_filtered.iterrows():
 
         index = index + 1
 
-        print("{}/{}: {}".format(index, size, query["question"]))
+        print("{}: {}".format(index, query["question"]))
 
         # create some question from basic question
         for question in get_related_questions(query["question"], 5):

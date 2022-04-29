@@ -1,5 +1,6 @@
 #! /usr/bin/env python3
 import os
+import random
 import sys
 import time
 import requests
@@ -32,6 +33,7 @@ SESSION = requests.Session()
 def search(keyword: str) -> Optional[BeautifulSoup]:
     """return html parser of google search result"""
     params = {"q": keyword, "hl": "it"}
+
     try:
         time.sleep(0.25)  # be nice with google :)
         response = SESSION.get(URL, params=params, headers=HEADERS)
