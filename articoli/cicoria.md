@@ -97,3 +97,35 @@ Può essere seminato tra maggio e agosto direttamente a terra. Depositare a 1 cm
 
 Si semina da marzo a ottobre, in semenzaio nei mesi di giugno e luglio, si trapianta a luglio e agosto; la semina diretta in piena terra si esegue invece in luglio e agosto, per ottenere una raccolta che vada da ottobre a dicembre; il delta delle temperature del terreno deve oscillare tra i °C 10 e i °C 30.
 
+## Come concimare la cicoria?
+
+ La cicoria resiste bene anche in terreni poco concimati, ma produce di certo di più in quelli ricchi di azoto. Meglio concimare con del buon compost oppure, se si ha la possibilità, con del letame di cavallo ben maturo. La cicoria, inoltre, non ha bisogno di molta acqua.
+
+## Dove tagliare la cicoria?
+
+Le foglie vanno tagliate radenti al suolo, lasciando le radici, in modo che la pianta possa ricacciare continuamente nuova vegetazione.
+
+## Come curare la cicoria?
+
+Eliminate le foglie danneggiate e mettete la cicoria a bagno nel lavello della cucina. Sciacquate la cicoria almeno un paio di volte fino a quando l'acqua non uscirà pulita. A quel punto, lasciatela in acqua per 10-15 minuti in maniera tale che se vi è dell'altra terra, si depositerà sul fondo del lavello.
+
+## Come riconoscere la cicoria selvatica commestibile?
+
+Le cicorie di campagna si riconoscono perchè hanno foglie seghettate che terminano a forma di punta di freccia. La rosetta basale è ampia e ricca di foglie robuste e ruvide, leggermente pelose e dentate, con una nervatura centrale evidente.
+
+## In che mese si raccoglie la cicoria selvatica?
+
+Le radici vengono raccolte da settembre a ottobre, da piante a fine ciclo di fioritura.
+
+## Come conoscere la cicoria selvatica?
+
+Il gambo delle piante è in genere rossiccio, ma il particolare più evidente per riconoscere la cicoria selvatica da campo è il fiore di colore violetto chiaro o azzurro, che somiglia al fiore di camomilla ma ha i petali più grandi e allungati.
+
+## Quando esce la cicoria selvatica?
+
+La raccolta delle foglie da consumare fresche va fatta al momento, tra marzo e novembre, escludendo il periodo della fioritura. Si recidono le foglie basali a livello del terreno con un coltello ben affilato come si fa per la raccolta della lattuga o altra insalata da taglio.
+
+## Come raccogliere i semi della cicoria selvatica?
+
+La raccolta si può fare "al volo", con un sacchetto di carta in cui si infila la pannocchia e, tenendo chiusa l'imboccatura con una mano, recidendo il fusto. Ma consiglio di adoperare i sacchi in tnt in cui infilare le piante intere, visto che le infiorescenze coi semi sono presenti anche sui rami laterali.
+
