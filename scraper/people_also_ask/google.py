@@ -2,7 +2,6 @@
 import os
 import sys
 import time
-import logging
 import requests
 from bs4 import BeautifulSoup
 from typing import List, Dict, Any, Optional, Generator
@@ -20,18 +19,13 @@ from people_also_ask.exceptions import (
 from people_also_ask.tools import CallingSemaphore
 
 
-URL = "http://api.scraperapi.com/?api_key=14f24f611a21ef202b30d3233cc91553&url=https://www.google.com/search"
+URL = "https://www.google.com/search"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
     " AppleWebKit/537.36 (KHTML, like Gecko) "
     "Chrome/84.0.4147.135 Safari/537.36"
 }
 SESSION = requests.Session()
-NB_REQUESTS_LIMIT = os.environ.get("RELATED_QUESTION_NBREQUESTS_LIMIT", 25)
-NB_REQUESTS_DURATION_LIMIT = os.environ.get("RELATED_QUESTION_DURATION_LIMIT", 60)  # seconds
-
-logging.basicConfig()
-semaphore = CallingSemaphore(NB_REQUESTS_LIMIT, NB_REQUESTS_DURATION_LIMIT)
 
 
 @retryable(3)
@@ -39,9 +33,8 @@ def search(keyword: str) -> Optional[BeautifulSoup]:
     """return html parser of google search result"""
     params = {"q": keyword, "hl": "it"}
     try:
-        with semaphore:
-            time.sleep(0.25)  # be nice with google :)
-            response = SESSION.get(URL, params=params, headers=HEADERS)
+        time.sleep(0.25)  # be nice with google :)
+        response = SESSION.get(URL, params=params, headers=HEADERS)
     except Exception:
         raise GoogleSearchRequestFailedError(URL, keyword, response.status_code)
     if response.status_code != 200:

@@ -1,7 +1,6 @@
 from people_also_ask.google import get_simple_answer, get_related_questions
 from bs4 import BeautifulSoup
 import pandas as pd
-import os
 import requests
 import time
 import hashlib
@@ -109,8 +108,7 @@ def create_qa():
         df_queries.loc[df_queries["question"] == query["question"], ["imported"]] = True
         df_queries.to_csv("data/queries.csv", index=False)
 
-    switch_ip()
-    time.sleep(30)
+    time.sleep(10)
 
     # recursively call
     create_qa()
@@ -163,7 +161,3 @@ def create_mds():
                 file = open("../articoli/{}.md".format(plant["plant"]), "w")
                 file.write(md)
                 file.close()
-
-
-def switch_ip():
-    os.system("protonvpn c -r")
