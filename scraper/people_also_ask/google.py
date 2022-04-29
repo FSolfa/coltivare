@@ -20,7 +20,7 @@ from people_also_ask.exceptions import (
 from people_also_ask.tools import CallingSemaphore
 
 
-URL = "https://www.google.com/search"
+URL = "http://api.scraperapi.com/?api_key=14f24f611a21ef202b30d3233cc91553&url=https://www.google.com/search"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
     " AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -37,7 +37,7 @@ semaphore = CallingSemaphore(NB_REQUESTS_LIMIT, NB_REQUESTS_DURATION_LIMIT)
 @retryable(3)
 def search(keyword: str) -> Optional[BeautifulSoup]:
     """return html parser of google search result"""
-    params = {"q": keyword}
+    params = {"q": keyword, "hl": "it"}
     try:
         with semaphore:
             time.sleep(0.25)  # be nice with google :)

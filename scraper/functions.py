@@ -74,10 +74,11 @@ def create_long_tail_keywords():
 
 
 # build qa database
-def create_qa(size: 100):
+def create_qa():
 
     print("Start scraping")
 
+    size = 10
     df_queries = pd.read_csv("data/queries.csv")
     df_qa = pd.read_csv("data/qa.csv")
 
@@ -107,6 +108,12 @@ def create_qa(size: 100):
         # set query as imported
         df_queries.loc[df_queries["question"] == query["question"], ["imported"]] = True
         df_queries.to_csv("data/queries.csv", index=False)
+
+    switch_ip()
+    time.sleep(30)
+
+    # recursively call
+    create_qa()
 
 
 # retrive answer from question
