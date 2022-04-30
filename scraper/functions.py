@@ -1,9 +1,9 @@
 from people_also_ask.google import get_simple_answer, get_related_questions
 from bs4 import BeautifulSoup
-from itertools import cycle
 import pandas as pd
 import requests
 import time
+import sys
 import hashlib
 
 
@@ -82,23 +82,27 @@ def create_qa():
 
     # get only the doesn't imported with size params
     df_queries_filtered = df_queries[df_queries["imported"] == False]
-    index = 0
 
     for i, query in df_queries_filtered.iterrows():
 
-        index = index + 1
+        j = 0
 
-        print("{}: {}".format(index, query["question"]))
+        print("------- {} -------".format(query["question"]))
 
         # create some question from basic question
         for question in get_related_questions(query["question"], 5):
+
+            j = j + 1
+
+            print("{}/5: {}".format(j, question))
+
             # build qa dict and append to dataframe
             qa = get_qa(question, query["synonyms"])
 
             if qa:
                 df_qa = pd.concat([df_qa, pd.DataFrame([qa])])
 
-            time.sleep(30)
+            wait(30)
 
         # remove duplicated rows by id
         df_qa = df_qa.drop_duplicates(subset=["id"], keep="first")
@@ -108,10 +112,10 @@ def create_qa():
         df_queries.loc[df_queries["question"] == query["question"], ["imported"]] = True
         df_queries.to_csv("data/queries.csv", index=False)
 
-        time.sleep(60)
+        print("\n")
+        wait(60)
 
-    # recursively call
-    create_qa()
+    print("All data imported!!")
 
 
 # retrive answer from question
@@ -161,3 +165,14 @@ def create_mds():
                 file = open("../articoli/{}.md".format(plant["plant"]), "w")
                 file.write(md)
                 file.close()
+
+
+def wait(wating_time):
+    sys.stdout.write("\r")
+    for remaining in range(wating_time, 0, -1):
+        sys.stdout.write("\r")
+        sys.stdout.write("Waiting {:2d} seconds remaining.".format(remaining))
+        sys.stdout.flush()
+        time.sleep(1)
+
+    sys.stdout.write("\r")
