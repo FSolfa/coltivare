@@ -11,4 +11,4 @@ from functions import create_long_tail_keywords, create_qa, create_mds, get_simp
 create_qa()
 
 # create markdown pages
-# create_mds()
+#  create_mds()
