@@ -193,7 +193,7 @@ Se non disponi di terreno a sufficienza è possibile coltivare gli asparagi anch
 
 ## Come mettere a dimora le zampe di asparago?
 
-https://www.youtube.com/watch?v=eMtIV-IdUnM
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/eMtIV-IdUnM" title="Come mettere a dimora le zampe di asparago?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Quando piantare semi di asparago selvatico?
 
@@ -265,7 +265,7 @@ L'asparago è una verdura che contiene l'acido asparagusico, colpevole del catti
 
 ## Come si piantano le zampe di asparago?
 
-https://www.youtube.com/watch?v=Yw4ncwgQq3o
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Yw4ncwgQq3o" title="Come si piantano le zampe di asparago?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Come si prepara il terreno per piantare gli asparagi?
 

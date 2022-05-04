@@ -431,7 +431,7 @@ Ad ogni modo, è consigliabile eseguire la cimatura durante i mesi estivi, tra l
 
 ## Come riconoscere la femminella del pomodoro?
 
-https://www.youtube.com/watch?v=LyBT5-wg-z8
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/LyBT5-wg-z8" title="Come riconoscere la femminella del pomodoro?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Quando togliere le femminelle ai pomodori?
 
@@ -471,7 +471,7 @@ Temperatura - Le piante di pomodoro richiedono temperature calde per fiorire (65
 
 ## Come legare pomodori con filo?
 
-https://www.youtube.com/watch?v=7MkGH-Q6Uvc
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/7MkGH-Q6Uvc" title="Come legare pomodori con filo?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Come sostenere le piante dei pomodori?
 
@@ -580,7 +580,7 @@ Il posto ideale nella tua casa per sistemare la pianta è vicino a una finestra 
 
 ## Come legare la pianta di pomodoro?
 
-https://www.youtube.com/watch?v=aeli-bQa3Yw
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/aeli-bQa3Yw" title="Come legare la pianta di pomodoro?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Quanto concime dare ai pomodori?
 

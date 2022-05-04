@@ -224,7 +224,7 @@ Per patata novella o primaticcia, si intende una patata ottenuta dalla coltivazi
 
 ## Quando smettere di dare acqua alle patate?
 
-https://www.youtube.com/watch?v=UQ-6W-NAlFk
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/UQ-6W-NAlFk" title="Quando smettere di dare acqua alle patate?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Quanto tempo ci vuole per nascere le patate?
 
@@ -261,7 +261,7 @@ Riempite il vaso d'acqua in modo che un terzo del tubero sia immerso nel liquido
 
 ## Come mettere le patate nel terreno?
 
-https://www.youtube.com/watch?v=LNX5JEizO4g
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/LNX5JEizO4g" title="Come mettere le patate nel terreno?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Come si fanno le patate da seme?
 

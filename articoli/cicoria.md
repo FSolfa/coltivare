@@ -31,7 +31,7 @@ LUNA CALANTE: Cicoria da taglio / Lattuga / Rucola / Spinacio. LUNA CALANTE: Agl
 
 ## Come si raccoglie la cicoria puntarelle?
 
-https://www.youtube.com/watch?v=bescA0odvlg
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/bescA0odvlg" title="Come si raccoglie la cicoria puntarelle?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Come si coglie la cicoria?
 

@@ -70,7 +70,7 @@ In ogni caso, per sapere se le zucchine sono cotte è sufficiente affondare al l
 
 ## Come si capisce se le zucchine si possono raccogliere?
 
-https://www.youtube.com/watch?v=UY1kiZ6T-1I
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/UY1kiZ6T-1I" title="Come si capisce se le zucchine si possono raccogliere?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Cosa succede se taglio le foglie delle zucchine?
 
@@ -78,7 +78,7 @@ https://www.youtube.com/watch?v=UY1kiZ6T-1I
 
 ## Come si pota la zucchina?
 
-https://www.youtube.com/watch?v=YdviDqIkAkc
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/YdviDqIkAkc" title="Come si pota la zucchina?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Come far crescere bene una pianta di zucchine?
 

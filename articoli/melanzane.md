@@ -47,7 +47,7 @@ In semenzaio protetto si può mettere a partire da metà gennaio (sud Italia) o 
 
 ## Come si pota la pianta di melanzane?
 
-https://www.youtube.com/watch?v=7VstU0V9h0w
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/7VstU0V9h0w" title="Come si pota la pianta di melanzane?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Come nutrire le melanzane?
 

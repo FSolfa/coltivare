@@ -161,7 +161,7 @@ La pianta del kiwi. La pianta dell'actinidia si presenta come una liana rampican
 
 ## Come si pianta il seme del kiwi?
 
-https://www.youtube.com/watch?v=UJXd0BW_dKQ
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/UJXd0BW_dKQ" title="Come si pianta il seme del kiwi?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Quanto rende una piantagione di kiwi?
 
