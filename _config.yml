@@ -9,3 +9,10 @@ theme: minima
 permalink: /:title
 plugins:
     - jekyll-sitemap
+    - jekyll-minifier
+
+exclude:
+    - firebase.json
+    - depoly.sh
+    - scraper
+    - serve.sh
