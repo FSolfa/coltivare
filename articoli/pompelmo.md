@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Pompelmo
+title: Come coltivare e prendersi cura delPompelmo
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Pompelmo
+plant_name: Pompelmo
 image: /images/pompelmo.jpg
 alt: pianta di pompelmo
 ---

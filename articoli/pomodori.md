@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Pomodori
+title: Come coltivare e prendersi cura deiPomodori
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dei Pomodori
+plant_name: Pomodori
 image: /images/pomodori.jpg
 alt: pianta di pomodori
 ---

@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Scalogno
+title: Come coltivare e prendersi cura delloScalogno
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dello Scalogno
+plant_name: Scalogno
 image: /images/scalogno.jpg
 alt: pianta di scalogno
 ---

@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Cime di rapa
+title: Come coltivare e prendersi cura delleCime di rapa
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione delle Cime di rapa
+plant_name: Cime di rapa
 image: /images/cime-di-rapa.jpg
 alt: pianta di cime di rapa
 ---

@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Porro
+title: Come coltivare e prendersi cura delPorro
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Porro
+plant_name: Porro
 image: /images/porro.jpg
 alt: pianta di porro
 ---

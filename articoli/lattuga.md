@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Lattuga
+title: Come coltivare e prendersi cura dellaLattuga
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione della Lattuga
+plant_name: Lattuga
 image: /images/lattuga.jpg
 alt: pianta di lattuga
 ---

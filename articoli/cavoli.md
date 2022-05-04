@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Cavoli
+title: Come coltivare e prendersi cura deiCavoli
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dei Cavoli
+plant_name: Cavoli
 image: /images/cavoli.jpg
 alt: pianta di cavoli
 ---

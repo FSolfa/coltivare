@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Pero
+title: Come coltivare e prendersi cura delPero
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Pero
+plant_name: Pero
 image: /images/pero.jpg
 alt: pianta di pero
 ---

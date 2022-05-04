@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Peperoncini
+title: Come coltivare e prendersi cura deiPeperoncini
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dei Peperoncini
+plant_name: Peperoncini
 image: /images/peperoncini.jpg
 alt: pianta di peperoncini
 ---

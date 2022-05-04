@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Goji
+title: Come coltivare e prendersi cura gojiGoji
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione goji Goji
+plant_name: Goji
 image: /images/goji.jpg
 alt: pianta di goji
 ---

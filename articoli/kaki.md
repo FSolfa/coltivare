@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Kaki
+title: Come coltivare e prendersi cura deiKaki
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dei Kaki
+plant_name: Kaki
 image: /images/kaki.jpg
 alt: pianta di kaki
 ---

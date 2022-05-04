@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Zucca
+title: Come coltivare e prendersi cura dellaZucca
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione della Zucca
+plant_name: Zucca
 image: /images/zucca.jpg
 alt: pianta di zucca
 ---

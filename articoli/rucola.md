@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Rucola
+title: Come coltivare e prendersi cura dellaRucola
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione della Rucola
+plant_name: Rucola
 image: /images/rucola.jpg
 alt: pianta di rucola
 ---

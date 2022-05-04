@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Cedro
+title: Come coltivare e prendersi cura delCedro
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Cedro
+plant_name: Cedro
 image: /images/cedro.jpg
 alt: pianta di cedro
 ---

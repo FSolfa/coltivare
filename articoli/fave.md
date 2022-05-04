@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Fave
+title: Come coltivare e prendersi cura delleFave
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione delle Fave
+plant_name: Fave
 image: /images/fave.jpg
 alt: pianta di fave
 ---

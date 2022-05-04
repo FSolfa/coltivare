@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Fagioli
+title: Come coltivare e prendersi cura deiFagioli
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dei Fagioli
+plant_name: Fagioli
 image: /images/fagioli.jpg
 alt: pianta di fagioli
 ---

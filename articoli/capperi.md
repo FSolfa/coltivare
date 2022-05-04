@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Capperi
+title: Come coltivare e prendersi cura deiCapperi
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dei Capperi
+plant_name: Capperi
 image: /images/capperi.jpg
 alt: pianta di capperi
 ---

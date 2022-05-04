@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Spinaci
+title: Come coltivare e prendersi cura degliSpinaci
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione degli Spinaci
+plant_name: Spinaci
 image: /images/spinaci.jpg
 alt: pianta di spinaci
 ---

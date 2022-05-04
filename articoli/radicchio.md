@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Radicchio
+title: Come coltivare e prendersi cura delRadicchio
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Radicchio
+plant_name: Radicchio
 image: /images/radicchio.jpg
 alt: pianta di radicchio
 ---

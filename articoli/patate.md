@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Patate
+title: Come coltivare e prendersi cura dellePatate
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione delle Patate
+plant_name: Patate
 image: /images/patate.jpg
 alt: pianta di patate
 ---

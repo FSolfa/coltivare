@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Maggiorana
+title: Come coltivare e prendersi cura dellaMaggiorana
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione della Maggiorana
+plant_name: Maggiorana
 image: /images/maggiorana.jpg
 alt: pianta di maggiorana
 ---

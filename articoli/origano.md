@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Origano
+title: Come coltivare e prendersi cura dell’Origano
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dell’ Origano
+plant_name: Origano
 image: /images/origano.jpg
 alt: pianta di origano
 ---

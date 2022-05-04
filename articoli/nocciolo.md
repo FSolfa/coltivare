@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Nocciolo
+title: Come coltivare e prendersi cura delNocciolo
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Nocciolo
+plant_name: Nocciolo
 image: /images/nocciolo.jpg
 alt: pianta di nocciolo
 ---

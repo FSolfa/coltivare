@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Melo
+title: Come coltivare e prendersi cura delMelo
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Melo
+plant_name: Melo
 image: /images/melo.jpg
 alt: pianta di melo
 ---

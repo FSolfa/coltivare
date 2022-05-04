@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Verza
+title: Come coltivare e prendersi cura dellaVerza
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione della Verza
+plant_name: Verza
 image: /images/verza.jpg
 alt: pianta di verza
 ---

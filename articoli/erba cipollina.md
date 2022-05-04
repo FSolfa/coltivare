@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Erba cipollina
+title: Come coltivare e prendersi cura dell’Erba cipollina
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dell’ Erba cipollina
+plant_name: Erba cipollina
 image: /images/erba-cipollina.jpg
 alt: pianta di erba cipollina
 ---

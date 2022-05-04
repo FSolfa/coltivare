@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Melograno
+title: Come coltivare e prendersi cura delMelograno
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Melograno
+plant_name: Melograno
 image: /images/melograno.jpg
 alt: pianta di melograno
 ---

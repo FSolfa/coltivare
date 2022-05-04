@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Fico
+title: Come coltivare e prendersi cura delFico
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Fico
+plant_name: Fico
 image: /images/fico.jpg
 alt: pianta di fico
 ---

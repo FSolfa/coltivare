@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Kale
+title: Come coltivare e prendersi cura delKale
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Kale
+plant_name: Kale
 image: /images/kale.jpg
 alt: pianta di kale
 ---

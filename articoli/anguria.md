@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Anguria
+title: Come coltivare e prendersi cura dell’Anguria
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dell’ Anguria
+plant_name: Anguria
 image: /images/anguria.jpg
 alt: pianta di anguria
 ---

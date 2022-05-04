@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Asparagi
+title: Come coltivare e prendersi cura degliAsparagi
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione degli Asparagi
+plant_name: Asparagi
 image: /images/asparagi.jpg
 alt: pianta di asparagi
 ---

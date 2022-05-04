@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Rabarbaro
+title: Come coltivare e prendersi cura delRabarbaro
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Rabarbaro
+plant_name: Rabarbaro
 image: /images/rabarbaro.jpg
 alt: pianta di rabarbaro
 ---

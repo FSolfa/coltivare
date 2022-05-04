@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Salvia
+title: Come coltivare e prendersi cura dellaSalvia
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione della Salvia
+plant_name: Salvia
 image: /images/salvia.jpg
 alt: pianta di salvia
 ---

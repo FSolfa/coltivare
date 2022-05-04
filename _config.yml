@@ -16,3 +16,5 @@ exclude:
     - depoly.sh
     - scraper
     - serve.sh
+
+locale: it_IT

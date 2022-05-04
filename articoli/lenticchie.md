@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Lenticchie
+title: Come coltivare e prendersi cura delleLenticchie
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione delle Lenticchie
+plant_name: Lenticchie
 image: /images/lenticchie.jpg
 alt: pianta di lenticchie
 ---

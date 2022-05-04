@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Scorzonera
+title: Come coltivare e prendersi cura dellaScorzonera
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione della Scorzonera
+plant_name: Scorzonera
 image: /images/scorzonera.jpg
 alt: pianta di scorzonera
 ---

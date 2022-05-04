@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Cavolo nero
+title: Come coltivare e prendersi cura delCavolo nero
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Cavolo nero
+plant_name: Cavolo nero
 image: /images/cavolo-nero.jpg
 alt: pianta di cavolo nero
 ---

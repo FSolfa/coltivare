@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Noce
+title: Come coltivare e prendersi cura dellaNoce
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione della Noce
+plant_name: Noce
 image: /images/noce.jpg
 alt: pianta di noce
 ---

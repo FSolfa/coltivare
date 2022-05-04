@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Soncino
+title: Come coltivare e prendersi cura delSoncino
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Soncino
+plant_name: Soncino
 image: /images/soncino.jpg
 alt: pianta di soncino
 ---

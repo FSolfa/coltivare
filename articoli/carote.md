@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Carote
+title: Come coltivare e prendersi cura delleCarote
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione delle Carote
+plant_name: Carote
 image: /images/carote.jpg
 alt: pianta di carote
 ---

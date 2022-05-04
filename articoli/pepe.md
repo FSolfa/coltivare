@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Pepe
+title: Come coltivare e prendersi cura delPepe
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Pepe
+plant_name: Pepe
 image: /images/pepe.jpg
 alt: pianta di pepe
 ---

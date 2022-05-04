@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Agretti
+title: Come coltivare e prendersi cura degliAgretti
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione degli Agretti
+plant_name: Agretti
 image: /images/agretti.jpg
 alt: pianta di agretti
 ---

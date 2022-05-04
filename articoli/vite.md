@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Vite
+title: Come coltivare e prendersi cura dellaVite
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione della Vite
+plant_name: Vite
 image: /images/vite.jpg
 alt: pianta di vite
 ---

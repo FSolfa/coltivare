@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Lupini
+title: Come coltivare e prendersi cura deiLupini
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dei Lupini
+plant_name: Lupini
 image: /images/lupini.jpg
 alt: pianta di lupini
 ---

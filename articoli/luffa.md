@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Luffa
+title: Come coltivare e prendersi cura dellaLuffa
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione della Luffa
+plant_name: Luffa
 image: /images/luffa.jpg
 alt: pianta di luffa
 ---

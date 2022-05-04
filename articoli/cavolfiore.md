@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Cavolfiore
+title: Come coltivare e prendersi cura delCavolfiore
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Cavolfiore
+plant_name: Cavolfiore
 image: /images/cavolfiore.jpg
 alt: pianta di cavolfiore
 ---

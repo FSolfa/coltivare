@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Bergamotto
+title: Come coltivare e prendersi cura delBergamotto
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Bergamotto
+plant_name: Bergamotto
 image: /images/bergamotto.jpg
 alt: pianta di bergamotto
 ---

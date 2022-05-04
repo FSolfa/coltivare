@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Cipolla
+title: Come coltivare e prendersi cura dellaCipolla
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione della Cipolla
+plant_name: Cipolla
 image: /images/cipolla.jpg
 alt: pianta di cipolla
 ---

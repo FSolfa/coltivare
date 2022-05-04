@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Corbezzolo
+title: Come coltivare e prendersi cura delCorbezzolo
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Corbezzolo
+plant_name: Corbezzolo
 image: /images/corbezzolo.jpg
 alt: pianta di corbezzolo
 ---

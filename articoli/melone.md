@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Melone
+title: Come coltivare e prendersi cura delMelone
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Melone
+plant_name: Melone
 image: /images/melone.jpg
 alt: pianta di melone
 ---

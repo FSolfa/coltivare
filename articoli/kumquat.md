@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Kumquat
+title: Come coltivare e prendersi cura delKumquat
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Kumquat
+plant_name: Kumquat
 image: /images/kumquat.jpg
 alt: pianta di kumquat
 ---

@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Piselli
+title: Come coltivare e prendersi cura deiPiselli
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dei Piselli
+plant_name: Piselli
 image: /images/piselli.jpg
 alt: pianta di piselli
 ---

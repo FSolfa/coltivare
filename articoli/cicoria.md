@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Cicoria
+title: Come coltivare e prendersi cura dellaCicoria
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione della Cicoria
+plant_name: Cicoria
 image: /images/cicoria.jpg
 alt: pianta di cicoria
 ---

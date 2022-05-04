@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Arancio
+title: Come coltivare e prendersi cura dell’Arancio
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dell’ Arancio
+plant_name: Arancio
 image: /images/arancio.jpg
 alt: pianta di arancio
 ---

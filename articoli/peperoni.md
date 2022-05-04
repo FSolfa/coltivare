@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Peperoni
+title: Come coltivare e prendersi cura deiPeperoni
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dei Peperoni
+plant_name: Peperoni
 image: /images/peperoni.jpg
 alt: pianta di peperoni
 ---

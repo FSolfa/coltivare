@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Broccoli
+title: Come coltivare e prendersi cura deiBroccoli
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dei Broccoli
+plant_name: Broccoli
 image: /images/broccoli.jpg
 alt: pianta di broccoli
 ---

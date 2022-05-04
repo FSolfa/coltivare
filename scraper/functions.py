@@ -151,7 +151,11 @@ def create_mds():
 
             md += "---\n"
             md += "layout: article\n"
-            md += "title: {}\n".format(plant["plant"].capitalize())
+            md += "title: Come coltivare e prendersi cura {}{}\n".format(plant["articles"], plant["plant"].capitalize())
+            md += "description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione {} {}\n".format(
+                plant["articles"], plant["plant"].capitalize()
+            )
+            md += "plant_name: {}\n".format(plant["plant"].capitalize())
             md += "image: /images/{}.jpg\n".format(plant["plant"].replace(" ", "-"))
             md += "alt: pianta di {}\n".format(plant["plant"])
             md += "---\n\n"

@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Cotogno
+title: Come coltivare e prendersi cura delCotogno
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Cotogno
+plant_name: Cotogno
 image: /images/cotogno.jpg
 alt: pianta di cotogno
 ---

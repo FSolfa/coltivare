@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Batata
+title: Come coltivare e prendersi cura dellaBatata
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione della Batata
+plant_name: Batata
 image: /images/batata.jpg
 alt: pianta di batata
 ---

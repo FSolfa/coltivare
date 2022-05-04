@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Carciofi
+title: Come coltivare e prendersi cura deiCarciofi
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dei Carciofi
+plant_name: Carciofi
 image: /images/carciofi.jpg
 alt: pianta di carciofi
 ---

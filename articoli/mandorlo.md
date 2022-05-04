@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Mandorlo
+title: Come coltivare e prendersi cura delMandorlo
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Mandorlo
+plant_name: Mandorlo
 image: /images/mandorlo.jpg
 alt: pianta di mandorlo
 ---

@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Giuggiolo
+title: Come coltivare e prendersi cura delGiuggiolo
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Giuggiolo
+plant_name: Giuggiolo
 image: /images/giuggiolo.jpg
 alt: pianta di giuggiolo
 ---
