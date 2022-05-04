@@ -1,10 +1,11 @@
-from people_also_ask.google import get_simple_answer, get_related_questions
+from people_also_ask.google import get_simple_answer, get_related_questions, search
 from bs4 import BeautifulSoup
 import pandas as pd
 import requests
 import time
 import sys
 import hashlib
+from urllib import parse
 
 
 # crate create long tail keywords
@@ -159,7 +160,15 @@ def create_mds():
 
             for index, qa in df_qa_filtered.iterrows():
                 md += "## {}\n\n".format(qa["question"])
-                md += "{}\n\n".format(qa["answer"])
+
+                youtube = get_youtube_video_id(qa["answer"])
+
+                if youtube:
+                    md += '<iframe width="100%" height="315" src="https://www.youtube.com/embed/{}" title="{}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\n\n'.format(
+                        youtube[0], qa["question"]
+                    )
+                else:
+                    md += "{}\n\n".format(qa["answer"])
 
                 # write markdown
                 file = open("../articoli/{}.md".format(plant["plant"]), "w")
@@ -167,6 +176,14 @@ def create_mds():
                 file.close()
 
 
+# check if url is youtube video
+def get_youtube_video_id(url):
+    url_parsed = parse.urlparse(url)
+    qsl = parse.parse_qs(url_parsed.query)
+    return qsl.get("v")
+
+
+# process wait for prevent blocking
 def wait(wating_time):
     sys.stdout.write("\r")
     for remaining in range(wating_time, 0, -1):
