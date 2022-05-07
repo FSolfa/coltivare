@@ -5,22 +5,6 @@ layout: default
 <div class="row">
     <div class="col-12 col-lg-8">
         <article class="post">
-            <header class="post-header">
-                <nav aria-label="breadcrumb">
-                    <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="/">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">{{ page.title | escape }}</li>
-                    </ol>
-                </nav>
-
-                <h1 class="post-title">{{ page.title | escape }}</h1>
-            </header>
-
-            <picture class="mb-4 d-block">
-                <source srcset="{{page.image | replace: 'jpg', 'webp' }}" type="image/webp" />
-                <img src="{{page.image}}" class="card-img-top" alt="{{page.alt}}" />
-            </picture>
-
             <div class="post-content">{{ content }}</div>
         </article>
     </div>

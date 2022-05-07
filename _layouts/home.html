@@ -1,15 +1,45 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-<h1 class="page-heading">{{ page.title }}</h1>
+  {%- include head.html -%}
 
-<div class="mb-4">{{ page.content }}</div>
+  <body>
 
-{%- if site.pages.size > 0 -%}
-<div class="row">
-    {%- for article in site.pages -%} {% if article.layout == 'article' %}
-    <div class="col-6 col-md-4 col-lg-3 col-xl-2">{%- include card.html -%}</div>
-    {%- endif -%} {%- endfor -%}
-</div>
-{%- endif -%}
+    <div class="container-fuild header-home py-4">
+        <div class="container">
+            <div class="logo-home mb-5">
+                <a class="navbar-brand logo" href="/">
+                    <img src="/logo-coltivare.svg" class="img-fluid" alt="coltivare logo" />
+                </a>
+            </div>
+            
+            <div class="hero-text">
+                <h1 class="page-heading">{{ page.title }}</h1>
+                <div class="mb-4">{{ page.content }}</div>
+            </div>
+        </div>
+    
+        <picture class="hero-image">
+            <source srcset="/images/attrezzi-per-coltivare.webp" type="image/webp" />
+            <img src="/images/attrezzi-per-coltivare.jpg" alt="appassionato di agricoltura che coltiva i pomodori nel proprio orto" />
+        </picture>
+    </div>
+    
+
+    <main class="container main-container pt-4 pb-5">
+        
+        {%- if site.pages.size > 0 -%}
+        <div class="row">
+            {%- for article in site.pages -%} {% if article.layout == 'article' %}
+            <div class="col-6 col-md-4 col-lg-3 col-xl-2">{%- include card.html -%}</div>
+            {%- endif -%} {%- endfor -%}
+        </div>
+        {%- endif -%}
+        
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

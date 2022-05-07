@@ -1,5 +1,25 @@
-<nav class="navbar navbar-dark bg-dark">
+<div class="container-fuild header-home py-4">
     <div class="container">
-        <a class="navbar-brand h1" href="/">coltivare</a>
+        <div class="logo-home mb-5">
+            <a class="navbar-brand logo" href="/">
+                <img src="/logo-coltivare.svg" class="img-fluid" alt="coltivare logo" />
+            </a>
+        </div>
+
+        <div class="hero-text">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="/">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">{{ page.title | escape }}</li>
+                </ol>
+            </nav>
+
+            <h1 class="page-heading">{{ page.title }}</h1>
+        </div>
     </div>
-</nav>
+
+    <picture class="hero-image">
+        <source srcset="{{page.image | replace: 'jpg', 'webp' }}" type="image/webp" />
+        <img src="{{page.image}}" class="card-img-top" alt="{{page.alt}}" />
+    </picture>
+</div>

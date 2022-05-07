@@ -1,3 +1,5 @@
+$green: #5ebf25;
+
 @import "bootstrap/bootstrap";
 
 @import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;700&display=swap");
@@ -6,6 +8,11 @@ html,
 body {
     font-family: "IBM Plex Sans", sans-serif;
     color: #1a2027;
+}
+
+.logo {
+    width: 200px;
+    display: block;
 }
 
 h1,
@@ -36,6 +43,10 @@ img {
     border-radius: 8px !important;
 }
 
+.hero-image img {
+    border-radius: 0px !important;
+}
+
 .header-image {
     margin-top: 1em;
     margin-bottom: 3em;
@@ -58,5 +69,43 @@ a.article-card {
         display: block;
         width: calc(100% - 100px);
         padding-left: 10px;
+    }
+}
+
+.breadcrumb {
+    &,
+    .breadcrumb-item.active {
+        color: #fff;
+    }
+}
+
+.header-home {
+    position: relative;
+    color: #fff;
+    .hero-image,
+    .hero-image img {
+        height: 100%;
+        width: 100%;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        position: absolute;
+        z-index: -1;
+        object-fit: cover;
+        overflow: hidden;
+    }
+
+    .hero-image {
+        &::before {
+            content: "";
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            position: absolute;
+            background-color: #000;
+            opacity: 0.7;
+        }
     }
 }
