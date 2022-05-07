@@ -1,4 +1,4 @@
-<a class="article-card mb-4 d-block" href="{{ article.url | relative_url }}">
+<a class="article-card mb-4 d-block" href="{{ article.url | relative_url }}" title="{{article.title}}">
     <picture>
         <source srcset="{{article.image | replace: 'jpg', 'webp' }}" type="image/webp" />
         <img src="{{article.image}}" class="card-img-top" alt="{{article.alt}}" />
