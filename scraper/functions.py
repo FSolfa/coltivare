@@ -149,10 +149,14 @@ def create_mds():
 
         if not df_qa_filtered.empty:
 
+            # correct space before plant name
+            if "’" not in plant["articles"]:
+                plant["articles"] = plant["articles"] + " "
+
             md += "---\n"
             md += "layout: article\n"
             md += "title: Come coltivare e prendersi cura {}{}\n".format(plant["articles"], plant["plant"].capitalize())
-            md += "description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione {} {}\n".format(
+            md += "description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione {}{}\n".format(
                 plant["articles"], plant["plant"].capitalize()
             )
             md += "plant_name: {}\n".format(plant["plant"].capitalize())
