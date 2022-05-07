@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura dellaStevia
+title: Come coltivare e prendersi cura della Stevia
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione della Stevia
 plant_name: Stevia
 image: /images/stevia.jpg

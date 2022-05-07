@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delPesco
+title: Come coltivare e prendersi cura del Pesco
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Pesco
 plant_name: Pesco
 image: /images/pesco.jpg

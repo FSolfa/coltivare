@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delMais
+title: Come coltivare e prendersi cura del Mais
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Mais
 plant_name: Mais
 image: /images/mais.jpg

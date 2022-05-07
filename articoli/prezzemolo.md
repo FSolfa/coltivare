@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delPrezzemolo
+title: Come coltivare e prendersi cura del Prezzemolo
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Prezzemolo
 plant_name: Prezzemolo
 image: /images/prezzemolo.jpg

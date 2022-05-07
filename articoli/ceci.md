@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura deiCeci
+title: Come coltivare e prendersi cura dei Ceci
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dei Ceci
 plant_name: Ceci
 image: /images/ceci.jpg

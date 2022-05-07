@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delTopinambur
+title: Come coltivare e prendersi cura del Topinambur
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Topinambur
 plant_name: Topinambur
 image: /images/topinambur.jpg

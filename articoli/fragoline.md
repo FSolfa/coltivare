@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delleFragoline
+title: Come coltivare e prendersi cura delle Fragoline
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione delle Fragoline
 plant_name: Fragoline
 image: /images/fragoline.jpg

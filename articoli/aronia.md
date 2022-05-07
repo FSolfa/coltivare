@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Come coltivare e prendersi cura dell’Aronia
-description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dell’ Aronia
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dell’Aronia
 plant_name: Aronia
 image: /images/aronia.jpg
 alt: pianta di aronia

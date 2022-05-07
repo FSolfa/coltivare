@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura dellaPastinaca
+title: Come coltivare e prendersi cura della Pastinaca
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione della Pastinaca
 plant_name: Pastinaca
 image: /images/pastinaca.jpg

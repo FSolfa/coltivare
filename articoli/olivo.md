@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Come coltivare e prendersi cura dell’Olivo
-description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dell’ Olivo
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dell’Olivo
 plant_name: Olivo
 image: /images/olivo.jpg
 alt: pianta di olivo

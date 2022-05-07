@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura moreMore
+title: Come coltivare e prendersi cura more More
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione more More
 plant_name: More
 image: /images/more.jpg

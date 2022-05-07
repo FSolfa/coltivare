@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura degliAlchechengi
+title: Come coltivare e prendersi cura degli Alchechengi
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione degli Alchechengi
 plant_name: Alchechengi
 image: /images/alchechengi.jpg

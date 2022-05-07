@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delGelso
+title: Come coltivare e prendersi cura del Gelso
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Gelso
 plant_name: Gelso
 image: /images/gelso.jpg

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura deiCavoletti di bruxelles
+title: Come coltivare e prendersi cura dei Cavoletti di bruxelles
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dei Cavoletti di bruxelles
 plant_name: Cavoletti di bruxelles
 image: /images/cavoletti-di-bruxelles.jpg

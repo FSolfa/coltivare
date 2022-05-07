@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura dellaMaggiorana
+title: Come coltivare e prendersi cura della Maggiorana
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione della Maggiorana
 plant_name: Maggiorana
 image: /images/maggiorana.jpg
@@ -50,4 +50,60 @@ In autunno si tagliano i rami lasciandone circa 10 cm dalla base. Il periodo mig
 ## Quanta acqua dare alla maggiorana?
 
  Come per molte altre erbe aromatiche, anche la maggiorana di solito si accontenta delle precipitazioni che arrivano dall'alto, sia se è coltivata in piena terra che in vaso.
+
+## Come fare le talee di maggiorana?
+
+La moltiplicazione per talea della maggiorana si effettua in giugno. Le talee devono essere lunghe 8-10 cm dai germogli basali non fioriferi e devono essere prelevate da pianta in buona salute e vigorose.
+
+## Come raccogliere i semi di maggiorana?
+
+Per raccogliere i semi è necessario lasciare maturare alcuni fiori sulla pianta senza raccoglierli finché non diventano secchi e marroni. I minuscoli semi si prelevano stropicciando i fiori secchi tra le dita.
+
+## Come Cimare la maggiorana?
+
+Importante è la cimatura che consiste nel levare gli apici e i fiori, affinché la pianta s'infoltisca e irrobustisca. La fioritura avviene tra luglio e settembre, ma con essa anche la perdita di parte dell'aroma, quindi il consiglio è di tagliare i rametti prima, lasciando poi che ricrescano spontaneamente.
+
+## Come pulire la maggiorana?
+
+Lavare: Non occorre fare altro che prendere le foglie fresche di maggiorana e passarle sotto un getto di acqua. A questo punto possiamo utilizzarle come meglio crediamo: sia intere che tagliuzzate o tritate per donare un aroma inconfondibile alle nostre preparazioni.
+
+## Quando si può tagliare la maggiorana?
+
+Potature. Conviene tagliare ogni anno i rami della maggiorana accorciandoli, lo si può fare a gennaio o febbraio. E' un lavoro non indispensabile ma consente di tenere regolate le dimensioni dell'arbusto e di avere rametti sempre giovani, più comodi da usare, ricchi di foglioline tenere e profumate.
+
+## Come potare la maggiorana?
+
+A fine inverno è consigliabile potare gli arbusti a 10-15 cm da terra, in modo da ottenere un tappeto compatto di giovani germogli profumati. Se si vogliono ottenere più foglie è bene potare l'arbusto anche subito dopo la fioritura, per mantenerlo compatto.
+
+## Cosa fare con i fiori di maggiorana?
+
+I rametti con i fiori e le foglie di maggiorana vanno essiccati appena raccolti, il più velocemente possibile appesi a testa in giù in luoghi asciutti, bui e aerati affinché non perdano le loro caratteristiche. Una volta essiccati, vanno recuperate le foglie e i fiori, sbriciolati e conservati in vasetti di vetro.
+
+## Cosa fare quando la maggiorana fiorisce?
+
+Inoltre la maggiorana è anche ricca di vitamina C, tannini e acido rosmarinico. All'inizio della fioritura si possono raccogliere le sommità fiorite e le foglie che vanno tagliate con tutti i rami.
+
+## A cosa serve l'erba maggiorana?
+
+Viste le sue proprietà sedative e rilassanti, inoltre, è considerata un vero e proprio 'scudo anti-stress', efficace contro l'insonnia, l'ansia e altri disturbi di origine nervosa.
+
+## Come usare la maggiorana secca?
+
+La maggiorana infatti può essere aggiunta fresca o essiccata sulle zuppe di verdure, nelle insalate verdi, nelle insalate di pomodori e legumi o al posto dell'origano sulla pizza.
+
+## Dove si può mettere la maggiorana?
+
+Come la maggior parte delle erbe, è perfetta per insaporire una semplice frittata o conferire più gusto a carne e pesce alla piastra. Inoltre, la si può provare al posto dell'origano sui pomodori freschi o la pizza Marinara, o ancora sulle patate al forno o all'interno dei ripieni di torte rustiche e specialità salate.
+
+## A cosa fa bene la maggiorana?
+
+ Antiossidante e antinfiammatoria. Migliora la digestione e contrasta i disturbi gastrointestinali. Favorisce l'equilibrio ormonale e la regolarità del ciclo mestruale. Allevia i sintomi della sindrome dell'ovaio policistico.
+
+## Come si mantiene la maggiorana?
+
+Ideale per insaporire piatti di carne e di pesce, frittate e minestre, la maggiorana è un'erba aromatica, molto simile all'origano ma dal profumo e dal spore più delicato. Il migliore metodo di conservazione è farla seccare in un luogo asciutto e conservarla in un barattolo di vetro a temperatura ambiente.
+
+## Come conservare la maggiorana in vaso?
+
+Prendiamo un vaso di circa 30 cm con un terriccio che non presenti un elevato livello di umidità. Poi stendiamo uno strato di argilla espansa per il drenaggio di circa 2 cm. E poi aggiungiamo del terriccio universale. Ora possiamo interrare la nostra piantina facendola aderire per bene.
 

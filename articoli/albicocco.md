@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Come coltivare e prendersi cura dell’Albicocco
-description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dell’ Albicocco
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dell’Albicocco
 plant_name: Albicocco
 image: /images/albicocco.jpg
 alt: pianta di albicocco

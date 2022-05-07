@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delleBarbabietole
+title: Come coltivare e prendersi cura delle Barbabietole
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione delle Barbabietole
 plant_name: Barbabietole
 image: /images/barbabietole.jpg

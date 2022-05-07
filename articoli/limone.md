@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delLimone
+title: Come coltivare e prendersi cura del Limone
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Limone
 plant_name: Limone
 image: /images/limone.jpg

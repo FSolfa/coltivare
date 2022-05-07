@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura deiLamponi
+title: Come coltivare e prendersi cura dei Lamponi
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dei Lamponi
 plant_name: Lamponi
 image: /images/lamponi.jpg

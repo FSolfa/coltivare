@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura deiRavanelli
+title: Come coltivare e prendersi cura dei Ravanelli
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dei Ravanelli
 plant_name: Ravanelli
 image: /images/ravanelli.jpg

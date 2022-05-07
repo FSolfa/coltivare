@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delBasilico
+title: Come coltivare e prendersi cura del Basilico
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Basilico
 plant_name: Basilico
 image: /images/basilico.jpg

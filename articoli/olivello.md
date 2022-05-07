@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Come coltivare e prendersi cura dell’Olivello
-description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dell’ Olivello
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dell’Olivello
 plant_name: Olivello
 image: /images/olivello.jpg
 alt: pianta di olivello

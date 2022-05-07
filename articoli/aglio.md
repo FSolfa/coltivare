@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Come coltivare e prendersi cura dell’Aglio
-description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dell’ Aglio
+description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dell’Aglio
 plant_name: Aglio
 image: /images/aglio.jpg
 alt: pianta di aglio

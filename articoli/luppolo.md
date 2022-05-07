@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delLuppolo
+title: Come coltivare e prendersi cura del Luppolo
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Luppolo
 plant_name: Luppolo
 image: /images/luppolo.jpg

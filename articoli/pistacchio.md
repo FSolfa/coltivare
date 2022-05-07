@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delPistacchio
+title: Come coltivare e prendersi cura del Pistacchio
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Pistacchio
 plant_name: Pistacchio
 image: /images/pistacchio.jpg

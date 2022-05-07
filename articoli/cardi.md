@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura deiCardi
+title: Come coltivare e prendersi cura dei Cardi
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dei Cardi
 plant_name: Cardi
 image: /images/cardi.jpg

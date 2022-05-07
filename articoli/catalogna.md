@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura dellaCatalogna
+title: Come coltivare e prendersi cura della Catalogna
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione della Catalogna
 plant_name: Catalogna
 image: /images/catalogna.jpg

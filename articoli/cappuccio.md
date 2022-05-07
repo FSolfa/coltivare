@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delCappuccio
+title: Come coltivare e prendersi cura del Cappuccio
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Cappuccio
 plant_name: Cappuccio
 image: /images/cappuccio.jpg

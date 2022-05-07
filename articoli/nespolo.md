@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delNespolo
+title: Come coltivare e prendersi cura del Nespolo
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Nespolo
 plant_name: Nespolo
 image: /images/nespolo.jpg

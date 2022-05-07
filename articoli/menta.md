@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura dellaMenta
+title: Come coltivare e prendersi cura della Menta
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione della Menta
 plant_name: Menta
 image: /images/menta.jpg

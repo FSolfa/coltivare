@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delleZucchine
+title: Come coltivare e prendersi cura delle Zucchine
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione delle Zucchine
 plant_name: Zucchine
 image: /images/zucchine.jpg

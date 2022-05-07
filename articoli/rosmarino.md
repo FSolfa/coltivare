@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delRosmarino
+title: Come coltivare e prendersi cura del Rosmarino
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Rosmarino
 plant_name: Rosmarino
 image: /images/rosmarino.jpg

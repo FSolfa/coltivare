@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delleArachidi
+title: Come coltivare e prendersi cura delle Arachidi
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione delle Arachidi
 plant_name: Arachidi
 image: /images/arachidi.jpg

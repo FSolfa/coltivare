@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delSedano
+title: Come coltivare e prendersi cura del Sedano
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Sedano
 plant_name: Sedano
 image: /images/sedano.jpg

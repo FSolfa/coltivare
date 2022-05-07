@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura deiRibes
+title: Come coltivare e prendersi cura dei Ribes
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dei Ribes
 plant_name: Ribes
 image: /images/ribes.jpg

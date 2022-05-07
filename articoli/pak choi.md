@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delPak choi
+title: Come coltivare e prendersi cura del Pak choi
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Pak choi
 plant_name: Pak choi
 image: /images/pak-choi.jpg

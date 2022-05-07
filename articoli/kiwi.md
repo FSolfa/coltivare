@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delKiwi
+title: Come coltivare e prendersi cura del Kiwi
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Kiwi
 plant_name: Kiwi
 image: /images/kiwi.jpg

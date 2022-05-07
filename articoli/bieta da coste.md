@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura dellaBieta da coste
+title: Come coltivare e prendersi cura della Bieta da coste
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione della Bieta da coste
 plant_name: Bieta da coste
 image: /images/bieta-da-coste.jpg

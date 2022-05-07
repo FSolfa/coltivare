@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delCorniolo
+title: Come coltivare e prendersi cura del Corniolo
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Corniolo
 plant_name: Corniolo
 image: /images/corniolo.jpg

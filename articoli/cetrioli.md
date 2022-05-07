@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura deiCetrioli
+title: Come coltivare e prendersi cura dei Cetrioli
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dei Cetrioli
 plant_name: Cetrioli
 image: /images/cetrioli.jpg

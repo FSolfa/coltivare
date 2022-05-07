@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delSusino
+title: Come coltivare e prendersi cura del Susino
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Susino
 plant_name: Susino
 image: /images/susino.jpg

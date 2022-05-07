@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delCiliegio
+title: Come coltivare e prendersi cura del Ciliegio
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Ciliegio
 plant_name: Ciliegio
 image: /images/ciliegio.jpg

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura dellaScarola
+title: Come coltivare e prendersi cura della Scarola
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione della Scarola
 plant_name: Scarola
 image: /images/scarola.jpg

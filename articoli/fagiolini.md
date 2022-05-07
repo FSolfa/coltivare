@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura deiFagiolini
+title: Come coltivare e prendersi cura dei Fagiolini
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione dei Fagiolini
 plant_name: Fagiolini
 image: /images/fagiolini.jpg

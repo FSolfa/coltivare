@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delleMelanzane
+title: Come coltivare e prendersi cura delle Melanzane
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione delle Melanzane
 plant_name: Melanzane
 image: /images/melanzane.jpg

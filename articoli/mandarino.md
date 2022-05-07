@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Come coltivare e prendersi cura delMandarino
+title: Come coltivare e prendersi cura del Mandarino
 description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto altro sulla coltivazione del Mandarino
 plant_name: Mandarino
 image: /images/mandarino.jpg
