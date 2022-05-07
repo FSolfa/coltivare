@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Susino
 image: /images/susino.jpg
 alt: pianta di susino
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Quando si può piantare il susino?

@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Origano
 image: /images/origano.jpg
 alt: pianta di origano
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Quanto tempo si può conservare l'origano essiccato?

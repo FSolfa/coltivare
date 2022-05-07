@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Luffa
 image: /images/luffa.jpg
 alt: pianta di luffa
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Come si coltiva la luffa in Italia?

@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Mandorlo
 image: /images/mandorlo.jpg
 alt: pianta di mandorlo
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Dove si coltiva il mandorlo in Italia?

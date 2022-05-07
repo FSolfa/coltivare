@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Zucchine
 image: /images/zucchine.jpg
 alt: pianta di zucchine
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Quanto si guadagna con un ettaro di zucchine?

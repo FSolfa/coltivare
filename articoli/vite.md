@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Vite
 image: /images/vite.jpg
 alt: pianta di vite
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Quanto dura la vita di una vite?

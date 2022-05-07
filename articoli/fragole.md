@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Fragole
 image: /images/fragole.jpg
 alt: pianta di fragole
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Perché le pianta di fragole non fa frutti?

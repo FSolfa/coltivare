@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Mais
 image: /images/mais.jpg
 alt: pianta di mais
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Come avviene la coltivazione del mais?

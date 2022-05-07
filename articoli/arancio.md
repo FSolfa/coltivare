@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Arancio
 image: /images/arancio.jpg
 alt: pianta di arancio
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Quanto innaffiare l arancio?

@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Ravanelli
 image: /images/ravanelli.jpg
 alt: pianta di ravanelli
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## In che periodo si piantano i ravanelli?

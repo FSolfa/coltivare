@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Cavolfiore
 image: /images/cavolfiore.jpg
 alt: pianta di cavolfiore
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Che concime usare per i cavolfiori?

@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Patate
 image: /images/patate.jpg
 alt: pianta di patate
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Come avviene la coltivazione delle patate?

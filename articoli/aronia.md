@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Aronia
 image: /images/aronia.jpg
 alt: pianta di aronia
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## A cosa serve l Aronia?

@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Carciofi
 image: /images/carciofi.jpg
 alt: pianta di carciofi
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Quanto ci mette un carciofo a crescere?

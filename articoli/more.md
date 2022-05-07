@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: More
 image: /images/more.jpg
 alt: pianta di more
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Dove posizionare le more?

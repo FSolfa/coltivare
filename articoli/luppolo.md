@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Luppolo
 image: /images/luppolo.jpg
 alt: pianta di luppolo
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Quanto si guadagna con il luppolo?

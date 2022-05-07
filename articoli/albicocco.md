@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Albicocco
 image: /images/albicocco.jpg
 alt: pianta di albicocco
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## In che periodo si pianta l'albicocca?

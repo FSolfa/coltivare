@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Lavanda
 image: /images/lavanda.jpg
 alt: pianta di lavanda
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Quanto costa la lavanda all'ingrosso?

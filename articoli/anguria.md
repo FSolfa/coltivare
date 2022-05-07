@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Anguria
 image: /images/anguria.jpg
 alt: pianta di anguria
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## In che periodo si pianta l'anguria?

@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Lupini
 image: /images/lupini.jpg
 alt: pianta di lupini
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Quando si seminano i lupini ornamentali?

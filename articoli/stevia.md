@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Stevia
 image: /images/stevia.jpg
 alt: pianta di stevia
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Come trasformare la stevia in zucchero?

@@ -6,6 +6,7 @@ import time
 import sys
 import hashlib
 from urllib import parse
+from datetime import date
 
 
 # crate create long tail keywords
@@ -148,6 +149,7 @@ def create_mds():
         df_qa_filtered = df_qa[df_qa["tag"] == plant["plant"]]
 
         if not df_qa_filtered.empty:
+            today = date.today()
 
             # correct space before plant name
             if "’" not in plant["articles"]:
@@ -162,6 +164,8 @@ def create_mds():
             md += "plant_name: {}\n".format(plant["plant"].capitalize())
             md += "image: /images/{}.jpg\n".format(plant["plant"].replace(" ", "-"))
             md += "alt: pianta di {}\n".format(plant["plant"])
+            md += "date: 2022-01-01\n"
+            md += "last_modified_at: {}\n".format(today.strftime("%Y-%m-%d"))
             md += "---\n\n"
 
             print("building md for: {}".format(plant["plant"]))

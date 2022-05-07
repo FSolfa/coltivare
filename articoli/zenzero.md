@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Zenzero
 image: /images/zenzero.jpg
 alt: pianta di zenzero
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## In che mese piantare lo zenzero?

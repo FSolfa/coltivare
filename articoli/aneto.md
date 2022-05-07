@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Aneto
 image: /images/aneto.jpg
 alt: pianta di aneto
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Come coltivare l aneto in vaso?

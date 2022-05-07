@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Piselli
 image: /images/piselli.jpg
 alt: pianta di piselli
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Perché i piselli non crescono?

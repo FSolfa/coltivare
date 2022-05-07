@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Ceci
 image: /images/ceci.jpg
 alt: pianta di ceci
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Quando fiorisce il cece?

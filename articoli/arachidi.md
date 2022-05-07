@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Arachidi
 image: /images/arachidi.jpg
 alt: pianta di arachidi
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Dove si coltiva l arachide in Italia?

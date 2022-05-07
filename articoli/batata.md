@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Batata
 image: /images/batata.jpg
 alt: pianta di batata
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Quali sono le piante da radice?

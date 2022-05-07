@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Gelso
 image: /images/gelso.jpg
 alt: pianta di gelso
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Quanto ci mette a crescere un albero di gelso?

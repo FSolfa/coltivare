@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Cime di rapa
 image: /images/cime-di-rapa.jpg
 alt: pianta di cime di rapa
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Come si coltivano le cime di rapa?

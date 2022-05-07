@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Erba cipollina
 image: /images/erba-cipollina.jpg
 alt: pianta di erba cipollina
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Quanto innaffiare l'erba cipollina?

@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Alloro
 image: /images/alloro.jpg
 alt: pianta di alloro
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Come coltivare l'alloro in vaso?

@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Cipolla
 image: /images/cipolla.jpg
 alt: pianta di cipolla
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Quanto tempo ci vuole per crescere le cipolle?

@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Porro
 image: /images/porro.jpg
 alt: pianta di porro
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Come capire se i porri sono pronti?

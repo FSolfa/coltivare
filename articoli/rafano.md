@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Rafano
 image: /images/rafano.jpg
 alt: pianta di rafano
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Quando e come si pianta il rafano?
@@ -63,4 +65,8 @@ Tenete una distanza minima di 50 centimetri tra i semi perché la pianta di rafa
 
 - In frigorifero: se è fresco, alcuni mesi in un sacchetto di plastica bucherellato.
 - Il rafano può anche essere congelato, ma perde le sue caratteristiche di piccantezza.
+
+## Dove piantare cren?
+
+Clima. Il rafano è una pianta che non ama particolarmente il caldo e la siccità. Per questo è perfetto da coltivare negli orti di montagna e comunque nell'Italia settentrionale, se volete coltivarlo in zone calde meglio trovargli un posto un po' ombreggiato e ricordarsi di innaffiarlo regolarmente. Terreno.
 

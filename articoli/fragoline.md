@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Fragoline
 image: /images/fragoline.jpg
 alt: pianta di fragoline
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Come si coltivano le fragoline di bosco?

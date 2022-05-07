@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Pak choi
 image: /images/pak-choi.jpg
 alt: pianta di pak choi
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Quando si raccoglie il pak choi?

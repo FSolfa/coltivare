@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Lattuga
 image: /images/lattuga.jpg
 alt: pianta di lattuga
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Quante volte innaffiare le lattughe?

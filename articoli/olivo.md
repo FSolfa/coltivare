@@ -5,6 +5,8 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Olivo
 image: /images/olivo.jpg
 alt: pianta di olivo
+date: 2022-01-01
+last_modified_at: 2022-05-07
 ---
 
 ## Quando piantare l'olivo?
