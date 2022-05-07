@@ -9,7 +9,7 @@ layout: default
 {%- if site.pages.size > 0 -%}
 <div class="row">
     {%- for article in site.pages -%} {% if article.layout == 'article' %}
-    <div class="col-6 col-md-6 col-lg-4">{%- include card.html -%}</div>
+    <div class="col-6 col-md-4 col-lg-3 col-xl-2">{%- include card.html -%}</div>
     {%- endif -%} {%- endfor -%}
 </div>
 {%- endif -%}

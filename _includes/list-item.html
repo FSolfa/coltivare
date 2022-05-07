@@ -1,0 +1,8 @@
+<a class="article-list-item mb-2 d-flex" href="{{ article.url | relative_url }}">
+    <picture>
+        <source srcset="{{article.image | replace: 'jpg', 'webp' }}" type="image/webp" />
+        <img src="{{article.image}}" class="card-img-top" alt="{{article.alt}}" />
+    </picture>
+
+    <div class="title">{{article.title}}</div>
+</a>
