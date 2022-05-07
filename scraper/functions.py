@@ -164,6 +164,7 @@ def create_mds():
             md += "plant_name: {}\n".format(plant["plant"].capitalize())
             md += "image: /images/{}.jpg\n".format(plant["plant"].replace(" ", "-"))
             md += "alt: pianta di {}\n".format(plant["plant"])
+            md += "show_in_sidebar: {}\n".format(plant["show_in_sidebar"])
             md += "date: 2022-01-01\n"
             md += "last_modified_at: {}\n".format(today.strftime("%Y-%m-%d"))
             md += "---\n\n"

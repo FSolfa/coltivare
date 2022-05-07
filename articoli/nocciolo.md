@@ -5,6 +5,7 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Nocciolo
 image: /images/nocciolo.jpg
 alt: pianta di nocciolo
+show_in_sidebar: False
 date: 2022-01-01
 last_modified_at: 2022-05-07
 ---

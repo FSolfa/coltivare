@@ -5,6 +5,7 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Rafano
 image: /images/rafano.jpg
 alt: pianta di rafano
+show_in_sidebar: False
 date: 2022-01-01
 last_modified_at: 2022-05-07
 ---
@@ -69,4 +70,20 @@ Tenete una distanza minima di 50 centimetri tra i semi perché la pianta di rafa
 ## Dove piantare cren?
 
 Clima. Il rafano è una pianta che non ama particolarmente il caldo e la siccità. Per questo è perfetto da coltivare negli orti di montagna e comunque nell'Italia settentrionale, se volete coltivarlo in zone calde meglio trovargli un posto un po' ombreggiato e ricordarsi di innaffiarlo regolarmente. Terreno.
+
+## A cosa serve il rafano nero?
+
+Il RAFANo è tradizionalmente un ottimo drenante epatico con proprietà coleretica (stimola la secrezione biliare) e colagoga (facilita l'evaquazione della bile). Le sue caratteristiche lo rendono particolarmente efficace per dare sollievo alle emicranie di origine epatica.
+
+## Dove mettere il rafano?
+
+Conosciuta e utilizzata anche all'estero (Austria, Ungheria, ecc..), accompagna egregiamente il bollito, il roast-beaf, le carni alla griglia, il pesce e le uova. Nella tradizione gastronomica tedesca la salsa al rafano è servita con le salsicce e i bolliti e accompagna spesso i piatti a base di uova.
+
+## Come si usa in cucina il rafano?
+
+Il rafano può essere consumato crudo grattugiato o affettato a julienne. Può essere usato per insaporire verdure come patate, barbabietole, sedano e legumi in genere. Le foglie di rafano quando sono ancora molto tenere, quindi in primavera, possono essere unite alle insalate.
+
+## Dove piantare rafano?
+
+Il rafano si adatta bene a qualsiasi condizione climatica, l'importante è che non venga posizionato in pieno sole. Dunque, è meglio scegliere una posizione in mezz'ombra. E' molto più resistente al freddo, che al caldo, per questo viene coltivato soprattutto nell'Italia settentrionale.
 

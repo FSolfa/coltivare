@@ -11,8 +11,8 @@ layout: default
     <div class="col-12 col-lg-4">
         <strong class="mb-3 d-block">Potrebbe interessarti anche</strong>
         <div>
-            {%- if site.pages.size > 0 -%} {%- for article in site.pages -%} {% if article.layout == 'article' and article.plant_name != page.plant_name %} {%-
-            include list-item.html -%} {%- endif -%} {%- endfor -%} {%- endif -%}
+            {%- if site.pages.size > 0 -%} {%- for article in site.pages -%} {% if article.layout == 'article' and article.show_in_sidebar and
+            article.plant_name != page.plant_name %} {%- include list-item.html -%} {%- endif -%} {%- endfor -%} {%- endif -%}
         </div>
     </div>
 </div>

@@ -5,6 +5,7 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Spinaci
 image: /images/spinaci.jpg
 alt: pianta di spinaci
+show_in_sidebar: False
 date: 2022-01-01
 last_modified_at: 2022-05-07
 ---

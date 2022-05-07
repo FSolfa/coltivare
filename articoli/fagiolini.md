@@ -5,6 +5,7 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Fagiolini
 image: /images/fagiolini.jpg
 alt: pianta di fagiolini
+show_in_sidebar: True
 date: 2022-01-01
 last_modified_at: 2022-05-07
 ---

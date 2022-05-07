@@ -5,6 +5,7 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Pomodori
 image: /images/pomodori.jpg
 alt: pianta di pomodori
+show_in_sidebar: True
 date: 2022-01-01
 last_modified_at: 2022-05-07
 ---
@@ -902,4 +903,63 @@ La semplice risposta alle domande sui requisiti di luce per i pomodori è che so
 ## Quanto sole hanno bisogno i pomodori?
 
 Il momento giusto per piantare in terra le piantine di pomodori è quando il tempo inizia a riscaldarsi, e non c'è più pericolo di gelate. Questo perché le piantine di pomodoro hanno bisogno di 8 ore di sole al giorno, a temperature tra i 18 e i 29 gradi.
+
+## Quando piantare i pomodori al Nord?
+
+ – Periodo di semina in contenitori alveolati / semina in semenzaio: febbraio/marzo. Semina dei pomodori e luna: effettuare le semine con luna crescente (luna nuova). – Periodo di trapianto dei pomodori in pieno campo: aprile al sud. Maggio al nord.
+
+## Cosa serve ai pomodori per crescere?
+
+Sole e calore sono le basi per coltivare le piante di pomodoro. Questo ortaggio per germogliare ha bisogno di una temperatura di almeno 15/20 gradi, mentre le temperature sotto i 5 gradi interrompono la crescita.
+
+## A quale distanza si mettono i pomodori?
+
+Interrare solo la zolletta. A quale distanza trapiantare le piantine di pomodoro: sulla fila, ossia tra una pianta e l'altra, lasciare 35-40 cm; tra le file lasciare 70-80 cm per il transito. LE CURE COLTURALI: eliminare costantemente le erbe spontanee in prossimità delle piante coltivate.
+
+## Qual è il pH del pomodoro?
+
+Normalmente il pH nei nei pomodori è compreso tra 4,0 e 4,5. Il sapore è normalmente misurato da commissioni addette che valutano il pomodoro per una serie di caratteristiche che includono odore, aroma, consistenza, succo, granulosità, consistenza della buccia, acidi e zuccheri.
+
+## Quanto deve essere il pH per i pomodori?
+
+Il terreno adatto per coltivare i pomodori, che sia nell'orto o in vaso, ha un pH lievemente acido, e in ogni caso compreso tra 6 e 6,8. Il dato è più importante di quanto sembra: se troppo acido, infatti, il terreno rilascia componenti che potrebbero far marcire la pianta, vanificando gli sforzi di coltivazione.
+
+## Dove viene coltivato il pomodoro in Italia?
+
+Le regioni d' Italia nelle quali è più estesa tale coltura, sono: la Campania (ha. 14.050), l'Emilia e la Romagna (ha. 11.190), la Puglia (ha. 7260), la Sicilia (ha.
+
+## Quando e dove si coltivano i pomodori?
+
+ La semina dei pomodori si effettua durante i mesi di gennaio e febbraio in semenzaio al caldo, per poi procedere al trapianto nei mesi di marzo e aprile. La scelta ideale potrebbe essere quella utilizzare come semenzai alcuni vasetti in cui inserire 3-4 semi.
+
+## Quando iniziare a concimare i pomodori?
+
+La concimazione dei pomodori deve iniziare ben prima che la pianta sia messa a dimora, somministrando al terreno quegli elementi specifici di cui l'arbusto si nutrirà in primavera, in particolare il potassio.
+
+## Quanto profondi vanno piantati i pomodori?
+
+La tecnica di semina è semplice: il piccolo seme va piantato a una profondità di circa 0,5-1 cm, lasciando un solo semino per singola posizione del semenzaio.
+
+## Quando dare il nitrato di calcio ai pomodori?
+
+La frequenza del trattamento è facile da ricordare: durante l'estate, il nitrato di calcio va somministrato mensilmente e dopo l'innaffiamento della pianta per evitare che la sostanza granulosa si sciolga e venga “lavata” via.
+
+## Quanto concime dare ai pomodori?
+
+ La quantità ideale per mq è di 4-5 kg, da interrare con la vanga a 15-20 cm di profondità. Ovviamente, bisogna rispettare tutti i passaggi necessari per la corretta concimazione dell'orto.
+
+## Che terriccio usare per i pomodori?
+
+Il classico terriccio universale non basta per un'ottima riuscita della coltivazione in vaso, i pomodori sono una pianta esigente in quanto a sostanze nutritive. L'ideale è miscelare il terriccio a vera terra di campagna, che contiene anche la frazione minerale del suolo e apporta quindi vari micro elementi utili.
+
+## In che luna si trapiantano i pomodori?
+
+Le verdure a maturazione estiva (pomodoro, melanzana, peperone, zucca, zucchina, cetriolo, melone e anguria) si seminano o si trapiantano con luna crescente. Nei pomodori, la sfemminellatura (eliminazione dei getti laterali) va fatta in luna calante per ottenere frutti di migliore qualità e sapore.
+
+## Come aumentare la fioritura del pomodoro?
+
+- si formano nuovi punti di crescita;
+- si verifica una rapida germinazione del polline;
+- fissare rapidamente e coltivare frutta;
+- la resa aumenta di almeno il 15-20%.
 

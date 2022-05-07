@@ -5,6 +5,7 @@ description: Tutte le cure necessarie, irrigazioni, terreno, consigli e molto al
 plant_name: Limone
 image: /images/limone.jpg
 alt: pianta di limone
+show_in_sidebar: False
 date: 2022-01-01
 last_modified_at: 2022-05-07
 ---
